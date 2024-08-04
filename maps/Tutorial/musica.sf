@@ -1,0 +1,146 @@
+NumGhostSectors => 8
+
+BeginGhostSector
+  Name => primerapuerta
+  FloorHeight => -1.000000
+  RoofHeight => 14.750000
+  Vertex => 249.750000 -136.250000
+  Vertex => 246.750000 -133.250000
+  Vertex => 246.250000 -121.500000
+  Vertex => 249.750000 -120.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => antorchas
+  FloorHeight => -0.750000
+  RoofHeight => 5.000000
+  Vertex => 288.250000 -132.000000
+  Vertex => 288.250000 -123.000000
+  Vertex => 291.250000 -123.500000
+  Vertex => 291.250000 -131.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => antescocina
+  FloorHeight => 3.500000
+  RoofHeight => 12.000000
+  Vertex => 320.250000 -123.375000
+  Vertex => 318.750000 -123.375000
+  Vertex => 318.750000 -116.625000
+  Vertex => 320.250000 -116.625000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => cocina
+  FloorHeight => 4.500000
+  RoofHeight => 12.000000
+  Vertex => 322.500000 -131.375000
+  Vertex => 322.500000 -124.125000
+  Vertex => 328.000000 -124.125000
+  Vertex => 328.000000 -131.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => salarmas
+  FloorHeight => -6.000000
+  RoofHeight => 0.000000
+  Vertex => 442.500000 -75.500000
+  Vertex => 427.000000 -75.750000
+  Vertex => 427.000000 -34.250000
+  Vertex => 444.250000 -34.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma5
+  FloorHeight => -10.000000
+  RoofHeight => -4.500000
+  Vertex => 482.250000 -53.750000
+  Vertex => 482.250000 -48.500000
+  Vertex => 483.250000 -48.500000
+  Vertex => 483.250000 -53.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => arco
+  FloorHeight => -10.000000
+  RoofHeight => -4.500000
+  Vertex => 499.250000 -44.750000
+  Vertex => 499.250000 -17.000000
+  Vertex => 507.750000 -17.000000
+  Vertex => 507.750000 -44.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => sinicio
+  FloorHeight => -2.750000
+  RoofHeight => 50.000000
+  Vertex => 242.250000 -100.500000
+  Vertex => 167.750000 -100.500000
+  Vertex => 161.750000 -8.250000
+  Vertex => 250.250000 -12.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

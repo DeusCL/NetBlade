@@ -1,0 +1,506 @@
+NumGhostSectors => 27
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -60.000000
+  RoofHeight => 30.000000
+  Vertex => 169.497197 -42.642457
+  Vertex => 139.288495 -61.349291
+  Vertex => 107.547317 -56.541468
+  Vertex => 84.587246 -27.892841
+  Vertex => 96.587927 -18.541863
+  Vertex => 165.510814 -0.984758
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 30000
+  DistMaximaVertical => 20000
+  Escala => 33
+EndGhostSector
+
+BeginGhostSector
+  Name => 1639
+  FloorHeight => -50.000000
+  RoofHeight => 30.000000
+  Vertex => 101.056223 -61.343062
+  Vertex => 74.769928 -78.009687
+  Vertex => 60.827801 -70.980460
+  Vertex => 67.883557 -49.826103
+  Vertex => 92.495713 -50.762833
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 1640
+  FloorHeight => -12.000000
+  RoofHeight => 1.000000
+  Vertex => 17.648670 -81.709007
+  Vertex => 15.655478 -44.237010
+  Vertex => 22.405286 -32.058309
+  Vertex => 44.512880 -31.835351
+  Vertex => 52.529518 -40.051308
+  Vertex => 61.156703 -54.053301
+  Vertex => 52.745152 -76.436910
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 12000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1641
+  FloorHeight => -8.000000
+  RoofHeight => 30.000000
+  Vertex => -19.093066 -51.109050
+  Vertex => -20.904124 -41.625000
+  Vertex => 14.513435 -43.640938
+  Vertex => 15.509183 -69.530392
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 0
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 1642
+  FloorHeight => -52.000000
+  RoofHeight => -1.000000
+  Vertex => 61.340476 -17.945239
+  Vertex => 26.340476 -18.463096
+  Vertex => 17.376191 23.276190
+  Vertex => 22.126191 64.626190
+  Vertex => 81.876191 9.626190
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 18000
+  DistMaximaVertical => 0
+  Escala => 10
+EndGhostSector
+
+BeginGhostSector
+  Name => 1643
+  FloorHeight => -52.000000
+  RoofHeight => 120.000000
+  Vertex => 10.626190 18.709524
+  Vertex => -9.040476 36.242857
+  Vertex => -22.907143 62.909524
+  Vertex => 19.959524 66.709524
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 10
+EndGhostSector
+
+BeginGhostSector
+  Name => 1644
+  FloorHeight => -52.000000
+  RoofHeight => 120.000000
+  Vertex => 84.315972 21.625000
+  Vertex => 65.315972 25.125000
+  Vertex => 33.565972 55.875000
+  Vertex => 51.315972 62.375000
+  Vertex => 77.065972 51.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 10
+EndGhostSector
+
+BeginGhostSector
+  Name => lavai
+  FloorHeight => -52.000000
+  RoofHeight => -11.000000
+  Vertex => -22.046654 26.451565
+  Vertex => -53.764602 22.143873
+  Vertex => -54.444090 32.054129
+  Vertex => -21.815885 36.900283
+  Vertex => -20.892808 29.220796
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 10000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1647
+  FloorHeight => -52.000000
+  RoofHeight => 12.000000
+  Vertex => 4.023451 21.965959
+  Vertex => -21.232502 18.087388
+  Vertex => -19.722977 26.958817
+  Vertex => -8.576549 34.165959
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 2000
+  Escala => 10
+EndGhostSector
+
+BeginGhostSector
+  Name => 1649
+  FloorHeight => -18.000000
+  RoofHeight => -16.000000
+  Vertex => -6.485676 -24.789597
+  Vertex => -18.110676 -35.914597
+  Vertex => -52.566895 -13.144180
+  Vertex => -44.777954 4.227370
+  Vertex => -17.463090 14.335792
+  Vertex => 5.292751 14.773877
+  Vertex => 3.912299 -0.632666
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lago-acido-atmos1.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 9000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => lavacaracoll
+  FloorHeight => -52.000000
+  RoofHeight => 0.000000
+  Vertex => 79.638750 -3.820555
+  Vertex => 78.212222 -6.800000
+  Vertex => 75.158889 -5.526667
+  Vertex => 76.208750 -2.147222
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 10000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => -52.000000
+  RoofHeight => -1.000000
+  Vertex => -20.578869 -51.795635
+  Vertex => -41.134425 -55.351190
+  Vertex => -50.023313 -32.351190
+  Vertex => -37.912202 -25.795635
+  Vertex => -23.689980 -36.128968
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma1
+  FloorHeight => -52.000000
+  RoofHeight => -25.000000
+  Vertex => 50.938988 -10.884524
+  Vertex => 43.296131 -55.717857
+  Vertex => 23.796131 -66.384524
+  Vertex => 23.462798 -48.217857
+  Vertex => 33.343750 -11.789286
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 12000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma3
+  FloorHeight => -52.000000
+  RoofHeight => -25.000000
+  Vertex => 57.541369 -7.951190
+  Vertex => 22.398512 -9.665476
+  Vertex => 29.255655 3.763095
+  Vertex => 57.541369 18.048810
+  Vertex => 63.398512 5.905952
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 32000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => int4
+  FloorHeight => -2.000000
+  RoofHeight => 5.000000
+  Vertex => 13.246131 -30.719048
+  Vertex => -22.753869 -21.594048
+  Vertex => -22.878869 10.905952
+  Vertex => 16.371131 13.280952
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-tower.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 0
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma5
+  FloorHeight => -52.000000
+  RoofHeight => -25.000000
+  Vertex => 52.186607 19.490476
+  Vertex => -2.580060 34.723810
+  Vertex => -6.880060 48.623810
+  Vertex => 3.986607 61.890476
+  Vertex => 46.919940 52.157143
+  Vertex => 72.553274 29.690476
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 10
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 22000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => int6
+  FloorHeight => 5.000000
+  RoofHeight => 40.000000
+  Vertex => 12.563194 -32.713889
+  Vertex => -37.270139 -32.380556
+  Vertex => -36.936806 14.452778
+  Vertex => 11.729861 14.119444
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-tower.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 10000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => lava7
+  FloorHeight => -52.000000
+  RoofHeight => -25.000000
+  Vertex => 20.163194 -79.963889
+  Vertex => -14.812996 -85.463889
+  Vertex => -21.479663 -74.440079
+  Vertex => -12.027282 -52.297222
+  Vertex => 18.996528 -47.630556
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 12000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma8
+  FloorHeight => -1.000000
+  RoofHeight => 8.000000
+  Vertex => 57.060417 -28.341667
+  Vertex => 26.727083 -28.508333
+  Vertex => 26.727083 -20.675000
+  Vertex => 57.227083 -20.508333
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 3000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma9
+  FloorHeight => 11.000000
+  RoofHeight => 15.000000
+  Vertex => 23.393750 -30.341667
+  Vertex => 20.260417 -30.291667
+  Vertex => 20.510417 -10.541667
+  Vertex => 23.727083 -10.508333
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 3000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma10
+  FloorHeight => -25.000000
+  RoofHeight => -10.000000
+  Vertex => 12.543750 -42.575000
+  Vertex => -8.206250 -41.575000
+  Vertex => -7.956250 -30.075000
+  Vertex => 9.043750 -12.825000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 1000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => exteriorfinal
+  FloorHeight => 66.000000
+  RoofHeight => 90.000000
+  Vertex => -33.645536 -22.617857
+  Vertex => -44.020536 -21.451190
+  Vertex => -42.853869 -2.451190
+  Vertex => -33.312202 -0.617857
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 1000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => finaltorre
+  FloorHeight => 110.000000
+  RoofHeight => 125.000000
+  Vertex => 5.187798 -31.284524
+  Vertex => -34.812202 -30.784524
+  Vertex => -35.145536 14.382143
+  Vertex => 7.021131 15.048810
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 0
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => ventanaescalera
+  FloorHeight => 24.750000
+  RoofHeight => 35.500000
+  Vertex => -31.655334 -17.061813
+  Vertex => -39.583906 -20.418956
+  Vertex => -50.155334 3.723901
+  Vertex => -31.941049 -1.633242
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 0
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => lavapool1
+  FloorHeight => 50.000000
+  RoofHeight => 59.000000
+  Vertex => -3.253014 -28.036260
+  Vertex => -19.285235 -27.986548
+  Vertex => -19.285235 -22.518194
+  Vertex => -3.277870 -22.468481
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lago-acido-atmos1.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 50000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => lavapool2
+  FloorHeight => 51.000000
+  RoofHeight => 56.000000
+  Vertex => -24.156250 -17.125000
+  Vertex => -31.854943 -17.512035
+  Vertex => -31.096668 5.452859
+  Vertex => -22.214020 1.228185
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lago-acido-atmos1.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 8000
+  DistMaximaVertical => 8000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => lavapool3
+  FloorHeight => 51.000000
+  RoofHeight => 56.000000
+  Vertex => -21.130771 1.553160
+  Vertex => -29.471794 6.102809
+  Vertex => -21.889045 12.385658
+  Vertex => 2.700724 10.869108
+  Vertex => -0.874000 3.394685
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lago-acido-atmos1.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 7000
+  DistMaximaVertical => 7000
+  Escala => 1.0
+EndGhostSector

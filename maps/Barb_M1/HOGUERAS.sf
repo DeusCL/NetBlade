@@ -1,0 +1,180 @@
+NumGhostSectors => 9
+
+BeginGhostSector
+  Name => fuego1
+  FloorHeight => 9.700000
+  RoofHeight => 12.000000
+  Vertex => -76.126667 84.753333
+  Vertex => -76.620000 84.686667
+  Vertex => -76.873333 85.020000
+  Vertex => -76.700000 85.460000
+  Vertex => -76.166667 85.406667
+  Vertex => -75.993333 85.086667
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego2
+  FloorHeight => 9.700000
+  RoofHeight => 14.000000
+  Vertex => -46.097197 16.396306
+  Vertex => -46.684436 16.335557
+  Vertex => -47.109678 16.862047
+  Vertex => -46.522439 17.408786
+  Vertex => -45.874451 17.024044
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego3
+  FloorHeight => 9.700000
+  RoofHeight => 19.000000
+  Vertex => 6.544635 95.147619
+  Vertex => 5.976242 95.380806
+  Vertex => 5.845075 96.007495
+  Vertex => 6.194855 96.561314
+  Vertex => 6.675802 96.575888
+  Vertex => 7.040157 95.963773
+  Vertex => 6.923563 95.424528
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego4
+  FloorHeight => 9.700000
+  RoofHeight => 19.000000
+  Vertex => -198.609387 -176.276073
+  Vertex => -199.089387 -176.129406
+  Vertex => -199.062720 -175.569406
+  Vertex => -198.649387 -175.369406
+  Vertex => -198.276054 -175.849406
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego5
+  FloorHeight => 8.000000
+  RoofHeight => 12.000000
+  Vertex => -187.159402 -192.856273
+  Vertex => -187.723038 -192.929001
+  Vertex => -188.086675 -192.329001
+  Vertex => -187.613947 -191.801728
+  Vertex => -186.959402 -192.056273
+  Vertex => -186.923038 -192.547182
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego6
+  FloorHeight => 19.000000
+  RoofHeight => 30.000000
+  Vertex => -151.893571 -211.053222
+  Vertex => -152.413571 -211.039889
+  Vertex => -152.613571 -210.586555
+  Vertex => -152.320238 -210.146555
+  Vertex => -151.586904 -210.386555
+  Vertex => -151.600238 -210.839889
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego7
+  FloorHeight => 19.000000
+  RoofHeight => 30.000000
+  Vertex => -155.763925 -164.513031
+  Vertex => -156.350592 -164.126365
+  Vertex => -156.083925 -163.459698
+  Vertex => -155.470592 -163.459698
+  Vertex => -155.203925 -163.979698
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego8
+  FloorHeight => 24.000000
+  RoofHeight => 30.000000
+  Vertex => -136.847848 -151.890773
+  Vertex => -137.481244 -151.712123
+  Vertex => -137.513726 -151.062486
+  Vertex => -136.994016 -150.770149
+  Vertex => -136.506788 -151.094968
+  Vertex => -136.490547 -151.582196
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego9
+  FloorHeight => 29.000000
+  RoofHeight => 38.000000
+  Vertex => -58.759421 -156.225974
+  Vertex => -59.426087 -155.932641
+  Vertex => -59.332754 -155.252641
+  Vertex => -58.692754 -155.065974
+  Vertex => -58.172754 -155.545974
+  Vertex => -58.359421 -156.039307
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

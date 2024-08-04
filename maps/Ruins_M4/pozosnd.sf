@@ -1,0 +1,91 @@
+NumGhostSectors => 5
+
+BeginGhostSector
+  Name => Canal12
+  FloorHeight => -0.250000
+  RoofHeight => 0.000000
+  Vertex => 46.000000 48.500000
+  Vertex => 37.250000 48.500000
+  Vertex => 37.250000 49.500000
+  Vertex => 46.000000 49.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/agua-canal.wav
+  Volumen => 0.0
+  VolumenBase => 1.0
+  DistanciaMinima => 250
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 15000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Canal3
+  FloorHeight => -0.250000
+  RoofHeight => 0.000000
+  Vertex => 51.000000 48.500000
+  Vertex => 51.000000 49.500000
+  Vertex => 59.750000 49.500000
+  Vertex => 59.750000 48.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/agua-canal.wav
+  Volumen => 0.0
+  VolumenBase => 1.0
+  DistanciaMinima => 250
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 15000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Cascada12
+  FloorHeight => -11.000000
+  RoofHeight => 0.000000
+  Vertex => 46.250000 48.000000
+  Vertex => 46.250000 50.000000
+  Vertex => 47.750000 50.000000
+  Vertex => 47.750000 48.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/salto-agua.wav
+  Volumen => 0.0
+  VolumenBase => 1.0
+  DistanciaMinima => 400
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Cascada3
+  FloorHeight => -11.000000
+  RoofHeight => 0.000000
+  Vertex => 49.250000 48.000000
+  Vertex => 49.250000 50.000000
+  Vertex => 50.750000 50.000000
+  Vertex => 50.750000 48.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/salto-agua.wav
+  Volumen => 0.0
+  VolumenBase => 1.0
+  DistanciaMinima => 400
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => ringpozo
+  FloorHeight => 0.000000
+  RoofHeight => 4.000000
+  Vertex => 41.000000 41.000000
+  Vertex => 41.000000 57.000000
+  Vertex => 56.000000 57.000000
+  Vertex => 56.000000 41.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/M-CAMPO-MAG.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 500
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 15000
+  Escala => 1.0
+EndGhostSector

@@ -1,0 +1,39 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => casaredonda
+  FloorHeight => 19.200001
+  RoofHeight => 30.000000
+  Vertex => -145.250000 -177.250000
+  Vertex => -146.750000 -177.250000
+  Vertex => -150.750000 -174.000000
+  Vertex => -150.250000 -173.750000
+  Vertex => -145.250000 -174.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => casa3pisos
+  FloorHeight => 19.400000
+  RoofHeight => 24.000000
+  Vertex => -152.750000 -206.750000
+  Vertex => -155.000000 -198.500000
+  Vertex => -150.250000 -199.000000
+  Vertex => -148.750000 -204.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

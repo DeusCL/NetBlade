@@ -1,0 +1,25 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => trampafinal
+  FloorHeight => 48.400002
+  RoofHeight => 56.000000
+  Vertex => 161.500000 -173.500000
+  Vertex => 157.500000 -172.250000
+  Vertex => 155.750000 -165.500000
+  Vertex => 157.000000 -162.500000
+  Vertex => 163.000000 -160.500000
+  Vertex => 166.500000 -162.000000
+  Vertex => 167.750000 -164.500000
+  Vertex => 166.750000 -169.750000
+  Vertex => 165.000000 -173.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

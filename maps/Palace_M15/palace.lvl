@@ -1,0 +1,41 @@
+Bitmaps -> palace.mmp
+Bitmaps -> Adoquinruna.mmp
+Bitmaps -> NOBJS.mmp
+Bitmaps -> ../../3dchars/Chk.mmp
+Bitmaps -> ../../3dchars/lch.mmp
+Bitmaps -> ../../3dchars/Gok.mmp
+Bitmaps -> ../../3dChars/Skl.mmp
+Bitmaps -> ../../3dChars/Ork.mmp
+Bitmaps -> ../../3dChars/DarkKnight.mmp
+Bitmaps -> ../../3dChars/Crow.mmp
+Bitmaps -> ../../3dobjs/Pfern.mmp
+Bitmaps -> ../../3dobjs/3dobjs.mmp
+Bitmaps -> ../../3dobjs/genericos.mmp
+Bitmaps -> ../../3dobjs/weapons.mmp
+Bitmaps -> ../../3dobjs/objetos_p.mmp
+Bitmaps -> ../../3dChars/min.mmp
+Bitmaps -> ../../3dChars/Glm_cl.mmp
+
+Bitmaps -> ../../3dchars/Actors.mmp
+
+Bitmaps -> ../../3dchars/dork.mmp
+Bitmaps -> ../../3dchars/DarkKnight.mmp
+
+Bitmaps -> ../../3dobjs/conos.mmp
+
+Bitmaps -> ../../3dobjs/vortice.mmp
+
+Bitmaps -> ../../3dobjs/ondaexpansiva.mmp
+
+Bitmaps -> ../../3dobjs/luzdivina.mmp
+
+Bitmaps -> ../../3dobjs/bolarayos.mmp
+
+
+Bitmaps -> ../../3dobjs/CilindroMagico.mmp
+
+
+
+World -> palace.bw
+GammaC -> 1.0
+WorldDome -> palace_d.mmp

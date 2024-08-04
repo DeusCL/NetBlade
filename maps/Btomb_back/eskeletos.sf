@@ -1,0 +1,74 @@
+NumGhostSectors => 4
+
+BeginGhostSector
+  Name => generador1
+  FloorHeight => -48.000000
+  RoofHeight => -46.000000
+  Vertex => 433.633333 -36.888333
+  Vertex => 441.633333 -30.138333
+  Vertex => 450.133333 -36.513333
+  Vertex => 450.133333 -42.138333
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => generador2
+  FloorHeight => -54.000000
+  RoofHeight => -50.000000
+  Vertex => 461.133333 -18.736667
+  Vertex => 458.883333 -14.513333
+  Vertex => 464.125000 -12.875000
+  Vertex => 466.750000 -18.625000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => generador3
+  FloorHeight => -50.000000
+  RoofHeight => -46.000000
+  Vertex => 432.008333 -82.638333
+  Vertex => 435.258333 -75.513333
+  Vertex => 450.133333 -80.388333
+  Vertex => 440.500000 -91.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => generador4
+  FloorHeight => -56.000000
+  RoofHeight => -52.000000
+  Vertex => 464.258333 -109.763333
+  Vertex => 465.000000 -104.000000
+  Vertex => 470.750000 -104.000000
+  Vertex => 472.000000 -112.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

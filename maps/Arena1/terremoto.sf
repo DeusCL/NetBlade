@@ -1,0 +1,19 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => -75.000000
+  RoofHeight => 50.000000
+  Vertex => -77.000000 -66.000000
+  Vertex => -77.000000 69.250000
+  Vertex => 69.000000 69.250000
+  Vertex => 69.250000 -66.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/torch-burn.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

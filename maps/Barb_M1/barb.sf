@@ -1,0 +1,568 @@
+NumGhostSectors => 29
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -10.000000
+  RoofHeight => 10.000000
+  Vertex => -51.750000 128.750000
+  Vertex => -186.750000 33.250000
+  Vertex => -210.750000 82.750000
+  Vertex => -70.250000 173.250000
+  Grupo => rio
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1372
+  FloorHeight => -8.000000
+  RoofHeight => 1.000000
+  Vertex => -157.000000 75.750000
+  Vertex => -163.250000 71.250000
+  Vertex => -173.750000 79.750000
+  Vertex => -169.000000 86.000000
+  Grupo => cascada
+  Sonido => ../../Sounds/Large-waterfall.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1500
+  DistanciaMaxima => 48000
+  DistMaximaVertical => 3000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1373
+  FloorHeight => 5.000000
+  RoofHeight => 15.000000
+  Vertex => -193.000000 -175.000000
+  Vertex => -232.500000 -152.000000
+  Vertex => -188.000000 -80.000000
+  Vertex => -126.000000 -42.500000
+  Vertex => -100.000000 -86.500000
+  Vertex => -124.000000 -128.000000
+  Vertex => -165.500000 -163.500000
+  Grupo => viento
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 6000
+  DistanciaMaxima => 40000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1374
+  FloorHeight => 55.000000
+  RoofHeight => 65.000000
+  Vertex => 111.000000 -231.500000
+  Vertex => 62.500000 -202.000000
+  Vertex => 54.000000 -91.500000
+  Vertex => 139.750000 -97.750000
+  Vertex => 198.000000 -156.500000
+  Grupo => viento
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1375
+  FloorHeight => -10.000000
+  RoofHeight => 1.000000
+  Vertex => -95.500000 99.250000
+  Vertex => -100.250000 103.250000
+  Vertex => -104.500000 110.250000
+  Vertex => -100.750000 114.750000
+  Vertex => -93.250000 107.500000
+  Grupo => agua
+  Sonido => ../../Sounds/waterlap-light-loop.wav
+  Volumen => 0.05
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 0.8
+EndGhostSector
+
+BeginGhostSector
+  Name => 1376
+  FloorHeight => -2.000000
+  RoofHeight => 10.000000
+  Vertex => 2.250000 49.750000
+  Vertex => -8.500000 53.750000
+  Vertex => -8.000000 63.750000
+  Vertex => 3.500000 63.000000
+  Grupo => cascada
+  Sonido => ../../Sounds/Large-waterfall.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1500
+  DistanciaMaxima => 28000
+  DistMaximaVertical => 1000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1377
+  FloorHeight => -2.000000
+  RoofHeight => 4.000000
+  Vertex => -214.500000 -228.000000
+  Vertex => -248.500000 -240.000000
+  Vertex => -240.750000 -210.250000
+  Vertex => -216.000000 -213.250000
+  Grupo => cascada
+  Sonido => ../../Sounds/Large-waterfall.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 30000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1378
+  FloorHeight => -7.000000
+  RoofHeight => -2.000000
+  Vertex => -158.750000 74.500000
+  Vertex => -169.500000 82.500000
+  Vertex => -165.250000 91.750000
+  Vertex => -148.250000 99.000000
+  Vertex => -134.250000 104.000000
+  Vertex => -127.250000 97.500000
+  Vertex => -141.000000 86.500000
+  Grupo => arroyo
+  Sonido => ../../Sounds/water-flowing-canals.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 400
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 0.3
+EndGhostSector
+
+BeginGhostSector
+  Name => 1379
+  FloorHeight => -3.800000
+  RoofHeight => 0.000000
+  Vertex => -172.250000 80.250000
+  Vertex => -162.000000 72.000000
+  Vertex => -163.250000 56.750000
+  Vertex => -169.500000 49.000000
+  Vertex => -184.250000 63.250000
+  Vertex => -183.250000 76.000000
+  Grupo => arroyo
+  Sonido => ../../Sounds/water-flowing-canals.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1380
+  FloorHeight => 30.000000
+  RoofHeight => 36.000000
+  Vertex => -23.750000 -181.000000
+  Vertex => -31.500000 -181.000000
+  Vertex => -36.750000 -174.000000
+  Vertex => -32.500000 -165.000000
+  Vertex => -18.750000 -161.000000
+  Vertex => -13.750000 -177.000000
+  Grupo => gruta
+  Sonido => ../../Sounds/Water-dripsL.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 20000
+  Escala => 4
+EndGhostSector
+
+BeginGhostSector
+  Name => 1381
+  FloorHeight => 15.000000
+  RoofHeight => 17.000000
+  Vertex => -190.000000 -228.500000
+  Vertex => -193.000000 -227.000000
+  Vertex => -195.000000 -222.500000
+  Vertex => -192.500000 -220.500000
+  Vertex => -187.000000 -226.500000
+  Grupo => cascada
+  Sonido => ../../Sounds/small-waterfall.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 29000
+  DistMaximaVertical => 2000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1382
+  FloorHeight => -3.000000
+  RoofHeight => 20.000000
+  Vertex => -188.250000 22.250000
+  Vertex => -133.000000 62.000000
+  Vertex => -92.750000 44.250000
+  Vertex => -85.250000 -5.250000
+  Vertex => -119.750000 -32.750000
+  Vertex => -156.750000 -14.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 3
+EndGhostSector
+
+BeginGhostSector
+  Name => 1383
+  FloorHeight => 13.000000
+  RoofHeight => 20.000000
+  Vertex => -79.000000 21.000000
+  Vertex => -62.500000 52.500000
+  Vertex => -37.000000 48.000000
+  Vertex => -23.500000 -1.500000
+  Vertex => -27.500000 -23.500000
+  Vertex => -59.500000 -8.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1384
+  FloorHeight => 15.000000
+  RoofHeight => 20.000000
+  Vertex => -50.500000 -75.000000
+  Vertex => -75.500000 -63.250000
+  Vertex => -64.250000 -47.500000
+  Vertex => -32.000000 -41.500000
+  Vertex => -16.500000 -54.500000
+  Vertex => -20.000000 -69.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 5000
+  DistanciaMaxima => 30000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1385
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -3.500000 -67.500000
+  Vertex => -16.500000 -52.000000
+  Vertex => -23.500000 -20.000000
+  Vertex => -18.500000 13.000000
+  Vertex => 13.000000 6.000000
+  Vertex => 6.000000 -66.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 3000
+  DistanciaMaxima => 40000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1386
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -186.000000 -157.500000
+  Vertex => -189.000000 -157.000000
+  Vertex => -189.000000 -153.500000
+  Vertex => -186.500000 -151.500000
+  Vertex => -182.500000 -153.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-clifftop-wind.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 29000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1387
+  FloorHeight => 25.000000
+  RoofHeight => 30.000000
+  Vertex => -33.250000 -178.000000
+  Vertex => -32.750000 -168.250000
+  Vertex => -11.000000 -164.500000
+  Vertex => -10.000000 -174.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/underground-water-tunnel.wav
+  Volumen => 1
+  VolumenBase => 0.6
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1388
+  FloorHeight => 40.000000
+  RoofHeight => 70.000000
+  Vertex => 12.000000 -150.000000
+  Vertex => 6.750000 -141.500000
+  Vertex => 12.500000 -133.000000
+  Vertex => 24.750000 -134.000000
+  Vertex => 21.000000 -145.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-clifftop-wind.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 29000
+  DistMaximaVertical => 20000
+  Escala => 1.2
+EndGhostSector
+
+BeginGhostSector
+  Name => 1389
+  FloorHeight => 30.000000
+  RoofHeight => 40.000000
+  Vertex => -80.500000 -165.000000
+  Vertex => -79.000000 -148.000000
+  Vertex => -58.125000 -145.125000
+  Vertex => -49.000000 -151.000000
+  Vertex => -51.500000 -161.500000
+  Vertex => -61.500000 -166.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.2
+EndGhostSector
+
+BeginGhostSector
+  Name => 1390
+  FloorHeight => -10.000000
+  RoofHeight => 4.000000
+  Vertex => -44.479118 18.774942
+  Vertex => -40.667924 30.261891
+  Vertex => -33.050464 29.015081
+  Vertex => -35.591937 18.207947
+  Grupo => Grupo1
+  Sonido => ../../Sounds/small-waterfall.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 28000
+  DistMaximaVertical => 2000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1391
+  FloorHeight => 0.000000
+  RoofHeight => 10.000000
+  Vertex => -35.000000 28.500000
+  Vertex => -52.500000 41.500000
+  Vertex => -53.000000 71.000000
+  Vertex => -36.500000 73.000000
+  Vertex => -17.000000 65.500000
+  Vertex => -7.500000 49.000000
+  Vertex => -12.500000 42.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 1000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1392
+  FloorHeight => 6.000000
+  RoofHeight => 29.000000
+  Vertex => -25.500000 73.250000
+  Vertex => -70.750000 96.000000
+  Vertex => -39.750000 125.250000
+  Vertex => -5.750000 127.250000
+  Vertex => 22.750000 117.500000
+  Vertex => 21.500000 89.500000
+  Vertex => 0.500000 80.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.3
+EndGhostSector
+
+BeginGhostSector
+  Name => 1393
+  FloorHeight => -4.000000
+  RoofHeight => 0.000000
+  Vertex => -87.000000 -6.000000
+  Vertex => -83.750000 7.750000
+  Vertex => -67.500000 20.500000
+  Vertex => -52.000000 32.500000
+  Vertex => -43.500000 26.500000
+  Vertex => -51.000000 16.000000
+  Vertex => -69.500000 -3.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-flowing-canals.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.2
+EndGhostSector
+
+BeginGhostSector
+  Name => 1394
+  FloorHeight => 10.000000
+  RoofHeight => 22.000000
+  Vertex => -89.500000 53.000000
+  Vertex => -102.500000 61.500000
+  Vertex => -97.500000 68.000000
+  Vertex => -85.750000 68.250000
+  Vertex => -75.000000 65.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1395
+  FloorHeight => 10.000000
+  RoofHeight => 22.000000
+  Vertex => -73.500000 71.500000
+  Vertex => -84.000000 72.750000
+  Vertex => -87.000000 83.250000
+  Vertex => -82.500000 90.250000
+  Vertex => -72.500000 90.250000
+  Vertex => -64.500000 86.250000
+  Vertex => -66.500000 74.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1396
+  FloorHeight => -4.000000
+  RoofHeight => 0.000000
+  Vertex => -158.500000 37.250000
+  Vertex => -145.250000 55.250000
+  Vertex => -120.000000 55.250000
+  Vertex => -91.750000 46.750000
+  Vertex => -84.750000 17.750000
+  Vertex => -95.750000 -14.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-flowing-canals.wav
+  Volumen => 0.16
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 12000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1397
+  FloorHeight => -2.000000
+  RoofHeight => 4.000000
+  Vertex => -140.750000 -35.000000
+  Vertex => -100.500000 -49.750000
+  Vertex => -154.500000 -100.000000
+  Vertex => -166.000000 -93.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-flowing-canals.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 4
+EndGhostSector
+
+BeginGhostSector
+  Name => 1398
+  FloorHeight => -2.000000
+  RoofHeight => 4.000000
+  Vertex => -236.000000 -217.000000
+  Vertex => -227.000000 -157.000000
+  Vertex => -217.500000 -154.000000
+  Vertex => -204.000000 -165.500000
+  Vertex => -203.500000 -179.000000
+  Vertex => -213.000000 -217.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-flowing-canals.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1399
+  FloorHeight => 10.000000
+  RoofHeight => 30.000000
+  Vertex => 17.000000 -66.500000
+  Vertex => 13.250000 -44.250000
+  Vertex => 23.000000 -11.000000
+  Vertex => 50.750000 -7.000000
+  Vertex => 74.500000 -27.500000
+  Vertex => 71.000000 -59.000000
+  Vertex => 47.500000 -71.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-wind-bg.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 30000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

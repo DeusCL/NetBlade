@@ -1,0 +1,59 @@
+NumGhostSectors => 3
+
+BeginGhostSector
+  Name => sfT1
+  FloorHeight => -8.000000
+  RoofHeight => 1.500000
+  Vertex => 165.125000 -2.125000
+  Vertex => 163.375000 -2.125000
+  Vertex => 162.625000 -0.625000
+  Vertex => 163.375000 0.875000
+  Vertex => 165.125000 0.875000
+  Vertex => 165.875000 -0.625000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => sfT2
+  FloorHeight => -8.000000
+  RoofHeight => 1.500000
+  Vertex => 162.625000 -0.625000
+  Vertex => 157.625000 -3.125000
+  Vertex => 153.625000 -3.125000
+  Vertex => 153.625000 2.125000
+  Vertex => 157.625000 2.125000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => sfT3
+  FloorHeight => -8.000000
+  RoofHeight => 1.500000
+  Vertex => -31.125000 38.625000
+  Vertex => -43.875000 38.625000
+  Vertex => -43.875000 56.125000
+  Vertex => -31.125000 56.125000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

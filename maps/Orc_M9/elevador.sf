@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => elevador
+  FloorHeight => -54.250000
+  RoofHeight => -49.000000
+  Vertex => 14.250000 0.500000
+  Vertex => 14.250000 3.000000
+  Vertex => 17.250000 3.000000
+  Vertex => 17.250000 0.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

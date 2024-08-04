@@ -1,0 +1,23 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => PTAOCT
+  FloorHeight => 0.000000
+  RoofHeight => 12.000000
+  Vertex => 21.500000 45.000000
+  Vertex => 21.500000 32.000000
+  Vertex => 9.812500 31.937500
+  Vertex => 4.062500 37.687500
+  Vertex => 4.062500 46.187500
+  Vertex => 7.000000 49.000000
+  Vertex => 17.250000 49.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

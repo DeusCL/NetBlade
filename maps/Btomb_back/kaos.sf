@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => kaos
+  FloorHeight => -3.000000
+  RoofHeight => 0.000000
+  Vertex => 322.258333 30.986667
+  Vertex => 322.250000 31.750000
+  Vertex => 327.750000 31.750000
+  Vertex => 327.758333 30.986667
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

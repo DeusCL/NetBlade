@@ -1,0 +1,73 @@
+NumGhostSectors => 4
+
+BeginGhostSector
+  Name => Sector316
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 108.292017 -224.249733
+  Vertex => 77.092017 -225.049733
+  Vertex => 79.492017 -204.249733
+  Vertex => 108.092017 -203.849733
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector317
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 70.292017 -221.649733
+  Vertex => 52.092017 -221.449733
+  Vertex => 51.692017 -212.649733
+  Vertex => 71.092017 -212.249733
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector318
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 114.092017 -189.011572
+  Vertex => 74.092017 -189.011572
+  Vertex => 74.492017 -161.611572
+  Vertex => 114.092017 -161.611572
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector319
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 104.292017 -244.849733
+  Vertex => 73.892017 -246.849733
+  Vertex => 74.692017 -237.449733
+  Vertex => 104.492017 -235.049733
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.08
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 40
+EndGhostSector

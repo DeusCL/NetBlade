@@ -1,0 +1,38 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => Spinchos1
+  FloorHeight => 20.000000
+  RoofHeight => 24.000000
+  Vertex => -88.000000 -166.500000
+  Vertex => -95.750000 -166.500000
+  Vertex => -95.750000 -144.750000
+  Vertex => -88.000000 -144.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Spinchos2
+  FloorHeight => 4.000000
+  RoofHeight => 8.000000
+  Vertex => -173.750000 -181.750000
+  Vertex => -180.000000 -177.250000
+  Vertex => -173.750000 -165.000000
+  Vertex => -166.750000 -168.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

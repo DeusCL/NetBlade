@@ -1,0 +1,24 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => tablilla
+  FloorHeight => -7.000000
+  RoofHeight => 15.000000
+  Vertex => 324.258333 1.361667
+  Vertex => 323.008333 2.611667
+  Vertex => 323.008333 3.986667
+  Vertex => 324.258333 5.111667
+  Vertex => 325.758333 5.111667
+  Vertex => 327.008333 3.986667
+  Vertex => 327.008333 2.611667
+  Vertex => 325.758333 1.361667
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => foso
+  FloorHeight => -10.000000
+  RoofHeight => 5.000000
+  Vertex => -1.250000 -58.500000
+  Vertex => -1.250000 -16.000000
+  Vertex => 13.000000 -22.750000
+  Vertex => 14.250000 -59.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

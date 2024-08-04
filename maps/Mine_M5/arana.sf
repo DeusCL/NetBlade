@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => arana
+  FloorHeight => 4.000000
+  RoofHeight => 12.000000
+  Vertex => -125.750000 27.250000
+  Vertex => -129.000000 29.000000
+  Vertex => -124.750000 37.250000
+  Vertex => -122.250000 36.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

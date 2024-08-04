@@ -1,0 +1,130 @@
+NumGhostSectors => 7
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -8.000000
+  RoofHeight => -5.500000
+  Vertex => -79.454867 -67.844777
+  Vertex => -81.451675 69.875432
+  Vertex => 82.656834 72.243516
+  Vertex => 82.904174 -70.345841
+  Grupo => Grupo1
+  Sonido => ../../Sounds/mist-atmos-1.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1
+  DistanciaMaxima => 2
+  DistMaximaVertical => 500
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2133
+  FloorHeight => 5.500000
+  RoofHeight => 15.000000
+  Vertex => -84.750000 -67.750000
+  Vertex => -84.750000 -31.750000
+  Vertex => 82.750000 -31.250000
+  Vertex => 83.750000 -69.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => 5.000000
+  RoofHeight => 15.000000
+  Vertex => 24.250000 -18.500000
+  Vertex => 24.750000 66.250000
+  Vertex => 82.500000 66.000000
+  Vertex => 82.000000 -19.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma1
+  FloorHeight => 5.000000
+  RoofHeight => 15.000000
+  Vertex => -84.750000 -11.750000
+  Vertex => -22.250000 47.000000
+  Vertex => -22.500000 -18.250000
+  Vertex => -84.750000 -19.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma2
+  FloorHeight => 5.000000
+  RoofHeight => 15.000000
+  Vertex => -13.250000 24.600000
+  Vertex => -14.000000 68.850000
+  Vertex => 16.250000 68.600000
+  Vertex => 15.250000 25.100000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma4
+  FloorHeight => 15.000000
+  RoofHeight => 20.000000
+  Vertex => -10.250000 -14.000000
+  Vertex => -10.500000 10.500000
+  Vertex => 11.500000 11.750000
+  Vertex => 11.750000 -14.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => lagoacido
+  FloorHeight => -14.000000
+  RoofHeight => -8.000000
+  Vertex => -9.500000 41.000000
+  Vertex => -17.000000 54.500000
+  Vertex => -17.000000 59.000000
+  Vertex => -3.500000 66.500000
+  Vertex => 0.500000 64.000000
+  Vertex => 6.000000 54.000000
+  Vertex => 3.500000 44.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/acido-hierve1.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

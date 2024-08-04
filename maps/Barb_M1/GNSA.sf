@@ -1,0 +1,26 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => GNSA
+  FloorHeight => 54.000000
+  RoofHeight => 70.000000
+  Vertex => 113.750000 -199.250000
+  Vertex => 110.500000 -199.000000
+  Vertex => 108.250000 -196.750000
+  Vertex => 108.250000 -193.500000
+  Vertex => 109.750000 -190.750000
+  Vertex => 112.500000 -189.250000
+  Vertex => 116.250000 -190.000000
+  Vertex => 118.250000 -192.250000
+  Vertex => 118.250000 -195.500000
+  Vertex => 116.500000 -198.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

@@ -1,0 +1,19 @@
+Bitmaps -> tutorial.mmp
+Bitmaps -> NOBJS.mmp
+
+Bitmaps -> ../../3dChars/tkn.mmp
+Bitmaps -> ../../3dChars/Skl.mmp
+Bitmaps -> ../../3dobjs/objetos_p.mmp
+Bitmaps -> ../../3dobjs/3dobjs.mmp
+Bitmaps -> ../../3dchars/actors_javi.mmp
+Bitmaps -> Diana.mmp
+
+
+
+
+
+
+
+World -> tutorial.bw
+GammaC -> 1.0
+WorldDome -> tutorial_d.mmp

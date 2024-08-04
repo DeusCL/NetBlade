@@ -1,0 +1,40 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => uyuyuy
+  FloorHeight => -4.000000
+  RoofHeight => -2.000000
+  Vertex => -1.250000 8.437500
+  Vertex => -6.750000 8.437500
+  Vertex => -6.750000 23.937500
+  Vertex => -1.250000 23.937500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => muertesegura
+  FloorHeight => -8.000000
+  RoofHeight => -4.000000
+  Vertex => -4.000000 12.187500
+  Vertex => -1.250000 13.187500
+  Vertex => 0.000000 13.187500
+  Vertex => 0.000000 6.437500
+  Vertex => -5.750000 6.437500
+  Vertex => -5.750000 8.437500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

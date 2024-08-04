@@ -1,0 +1,24 @@
+
+Bitmaps -> desert.mmp
+Bitmaps -> NOBJS.mmp
+
+
+
+Bitmaps -> ../../3dChars/ork.mmp
+Bitmaps -> ../../3dChars/Gok.mmp
+Bitmaps -> ../../3dChars/DarkKnight.mmp
+Bitmaps -> ../../3dChars/lch.mmp
+Bitmaps -> Skl.mmp
+Bitmaps -> ../../3dChars/cosita.mmp
+Bitmaps -> ../../3dChars/Glm_st.mmp
+Bitmaps -> ../../3dChars/Glm_mt.mmp
+
+Bitmaps -> ../../3dObjs/3dobjs.mmp
+Bitmaps -> ../../3dObjs/telaranya.mmp
+Bitmaps -> ../../3dObjs/esferagemaverde.mmp
+Bitmaps -> ../../3dObjs/esferagemaroja.mmp
+Bitmaps -> ../../3dChars/Actors.mmp
+
+
+World -> desert.bw
+WorldDome -> desert_d.mmp

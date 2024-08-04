@@ -1,0 +1,56 @@
+NumGhostSectors => 3
+
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => -75.000000
+  RoofHeight => 50.000000
+  Vertex => -64.000000 -54.250000
+  Vertex => -64.000000 57.000000
+  Vertex => 51.750000 57.250000
+  Vertex => 51.750000 -54.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/terremoto-piedras.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma1
+  FloorHeight => -75.000000
+  RoofHeight => 50.000000
+  Vertex => -60.750000 -50.000000
+  Vertex => -60.750000 52.000000
+  Vertex => 46.250000 52.000000
+  Vertex => 46.250000 -49.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Rock-floor-collapse.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma2
+  FloorHeight => -75.000000
+  RoofHeight => 50.000000
+  Vertex => -57.250000 -47.000000
+  Vertex => -57.250000 47.000000
+  Vertex => 40.750000 47.000000
+  Vertex => 40.750000 -47.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ground-collapse.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

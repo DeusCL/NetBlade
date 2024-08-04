@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => 0.000000
+  RoofHeight => 10.500000
+  Vertex => -38.750000 -33.250000
+  Vertex => -38.750000 -31.250000
+  Vertex => -31.750000 -31.250000
+  Vertex => -32.000000 -33.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

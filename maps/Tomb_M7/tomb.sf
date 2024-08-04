@@ -1,0 +1,508 @@
+NumGhostSectors => 28
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -7.000000
+  RoofHeight => 12.000000
+  Vertex => -17.367155 -15.934295
+  Vertex => -22.863179 -15.792766
+  Vertex => -23.128596 42.546906
+  Vertex => -17.137422 42.170575
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 11000
+  DistMaximaVertical => 12000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1430
+  FloorHeight => -28.000000
+  RoofHeight => 19.000000
+  Vertex => -25.750000 48.000000
+  Vertex => -26.677549 20.248827
+  Vertex => -60.399478 21.585808
+  Vertex => -59.698065 67.264656
+  Vertex => -30.250000 68.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 2000
+  DistMaximaVertical => 5000
+  Escala => 5
+EndGhostSector
+
+BeginGhostSector
+  Name => 1431
+  FloorHeight => -28.000000
+  RoofHeight => 19.000000
+  Vertex => -45.958558 18.279953
+  Vertex => -45.731670 3.076921
+  Vertex => -64.510671 4.348868
+  Vertex => -66.605836 19.768946
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 2000
+  DistMaximaVertical => 0
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1432
+  FloorHeight => 3.000000
+  RoofHeight => 7.000000
+  Vertex => -32.315286 -36.373283
+  Vertex => -36.312500 -36.750000
+  Vertex => -36.206467 -30.352797
+  Vertex => -31.617027 -27.648137
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 0
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1433
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => -5.015667 -34.574264
+  Vertex => -17.050647 -34.664543
+  Vertex => -16.695485 -18.840995
+  Vertex => -4.339527 -18.115959
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 4000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1434
+  FloorHeight => -7.000000
+  RoofHeight => 3.000000
+  Vertex => 13.336455 -35.603985
+  Vertex => -0.731925 -35.874129
+  Vertex => -0.426042 -26.369148
+  Vertex => 13.534625 -26.564024
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1435
+  FloorHeight => -2.000000
+  RoofHeight => 1.000000
+  Vertex => 24.547863 -45.952327
+  Vertex => 22.756288 -46.061222
+  Vertex => 22.810508 -44.885709
+  Vertex => 24.529389 -44.875651
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire2.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4500
+  DistMaximaVertical => 2500
+  Escala => 25
+EndGhostSector
+
+BeginGhostSector
+  Name => 1436
+  FloorHeight => -1.000000
+  RoofHeight => 1.000000
+  Vertex => 42.772793 -26.045442
+  Vertex => 10.812069 -25.798969
+  Vertex => 10.752417 -17.557484
+  Vertex => 42.739970 -17.460967
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 3500
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1437
+  FloorHeight => -8.000000
+  RoofHeight => 0.000000
+  Vertex => 66.756016 -61.516514
+  Vertex => 57.852891 -61.496950
+  Vertex => 56.858681 -59.527984
+  Vertex => 67.576907 -59.635991
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1500
+  DistanciaMaxima => 3000
+  DistMaximaVertical => 10
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1438
+  FloorHeight => -7.000000
+  RoofHeight => 23.000000
+  Vertex => 79.991009 -26.223795
+  Vertex => 46.749126 -25.352279
+  Vertex => 47.003264 6.124203
+  Vertex => 80.699116 6.123577
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 8000
+  DistMaximaVertical => 20000
+  Escala => 18
+EndGhostSector
+
+BeginGhostSector
+  Name => 1439
+  FloorHeight => -6.000000
+  RoofHeight => -3.000000
+  Vertex => 46.801524 37.911193
+  Vertex => 45.355531 37.911193
+  Vertex => 45.355531 38.894469
+  Vertex => 46.743685 38.952308
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire2.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 5000
+  DistMaximaVertical => 2000
+  Escala => 15
+EndGhostSector
+
+BeginGhostSector
+  Name => 1440
+  FloorHeight => -6.500000
+  RoofHeight => 8.000000
+  Vertex => 50.411871 13.744093
+  Vertex => 45.430195 13.513527
+  Vertex => 42.448549 24.333644
+  Vertex => 50.960573 24.638947
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 3500
+  DistMaximaVertical => 1000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1441
+  FloorHeight => 1.000000
+  RoofHeight => 5.000000
+  Vertex => 86.369547 23.085583
+  Vertex => 85.369547 23.085583
+  Vertex => 85.222255 23.890062
+  Vertex => 86.577880 23.928291
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 4000
+  DistanciaMaxima => 5000
+  DistMaximaVertical => 500
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1442
+  FloorHeight => 3.000000
+  RoofHeight => 5.000000
+  Vertex => 43.980587 -60.512429
+  Vertex => 29.159202 -60.553589
+  Vertex => 28.987332 -57.324889
+  Vertex => 44.355491 -57.282252
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 5500
+  DistMaximaVertical => 5000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1443
+  FloorHeight => -7.000000
+  RoofHeight => 3.000000
+  Vertex => 72.531510 -45.102364
+  Vertex => 55.288867 -45.416763
+  Vertex => 53.955258 -32.735650
+  Vertex => 60.921896 -29.163381
+  Vertex => 68.781982 -29.203665
+  Vertex => 73.253362 -32.665637
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 2000
+  Escala => 8
+EndGhostSector
+
+BeginGhostSector
+  Name => 1444
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => 41.997620 23.100004
+  Vertex => -7.121501 23.075614
+  Vertex => -7.260991 27.762536
+  Vertex => 41.934883 28.152295
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 7400
+  DistMaximaVertical => 1000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1445
+  FloorHeight => -7.000000
+  RoofHeight => 3.000000
+  Vertex => 91.237319 -58.242122
+  Vertex => 86.875000 -58.519599
+  Vertex => 87.115464 -34.050897
+  Vertex => 91.447732 -34.392843
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 5000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1446
+  FloorHeight => 9.000000
+  RoofHeight => 12.000000
+  Vertex => 88.496117 36.679680
+  Vertex => 85.514442 36.069971
+  Vertex => 85.704856 39.470751
+  Vertex => 88.468953 38.817736
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 3200
+  DistMaximaVertical => 2500
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1447
+  FloorHeight => 7.700000
+  RoofHeight => 19.000000
+  Vertex => 73.829516 32.428159
+  Vertex => 67.492826 32.560174
+  Vertex => 67.404817 39.820964
+  Vertex => 73.785511 39.732954
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 3000
+  DistMaximaVertical => 2000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1448
+  FloorHeight => 10.000000
+  RoofHeight => 14.000000
+  Vertex => 75.128654 42.806236
+  Vertex => 66.811749 42.720220
+  Vertex => 66.822635 46.403444
+  Vertex => 75.148280 46.357446
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 2000
+  DistMaximaVertical => 2000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1449
+  FloorHeight => 8.500000
+  RoofHeight => 19.000000
+  Vertex => 90.692003 24.867218
+  Vertex => 81.085109 24.983344
+  Vertex => 80.530478 41.199230
+  Vertex => 86.763842 41.278991
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 3000
+  DistMaximaVertical => 6000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1450
+  FloorHeight => -5.000000
+  RoofHeight => -3.000000
+  Vertex => 62.064184 13.402207
+  Vertex => 51.909132 13.160395
+  Vertex => 51.605299 26.073287
+  Vertex => 62.064184 26.436005
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 2500
+  DistanciaMaxima => 6000
+  DistMaximaVertical => 2000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1451
+  FloorHeight => -1.000000
+  RoofHeight => 3.000000
+  Vertex => 71.879150 13.231355
+  Vertex => 64.067193 16.806254
+  Vertex => 63.975102 21.502884
+  Vertex => 71.574063 25.469022
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1500
+  DistanciaMaxima => 3000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1452
+  FloorHeight => -4.000000
+  RoofHeight => 4.000000
+  Vertex => 117.577668 -30.816447
+  Vertex => 104.196697 -30.700595
+  Vertex => 103.211950 -18.536075
+  Vertex => 117.230110 -18.536075
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 1000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1453
+  FloorHeight => -28.000000
+  RoofHeight => 23.000000
+  Vertex => -27.452613 -18.550174
+  Vertex => -50.354530 -18.055401
+  Vertex => -54.728223 -4.266376
+  Vertex => -27.678049 -4.362718
+  Grupo => Grupo1
+  Sonido => ../../Sounds/viento-ventana.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 1500
+  DistMaximaVertical => 3000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 1454
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => -13.500000 -15.500000
+  Vertex => -13.000000 21.250000
+  Vertex => -5.687500 21.187500
+  Vertex => -6.500000 -15.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 200
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1455
+  FloorHeight => -7.750000
+  RoofHeight => -2.750000
+  Vertex => -7.750000 -16.750000
+  Vertex => -11.750000 -17.000000
+  Vertex => -11.750000 26.000000
+  Vertex => -7.000000 25.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Water-dripsL.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 500
+  DistanciaMaxima => 2000
+  DistMaximaVertical => 200
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 1456
+  FloorHeight => -7.750000
+  RoofHeight => -2.750000
+  Vertex => -6.000000 22.500000
+  Vertex => -5.750000 25.500000
+  Vertex => 32.062500 26.250000
+  Vertex => 32.250000 22.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Water-dripsL.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 200
+  Escala => 1.0
+EndGhostSector

@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => bicho
+  FloorHeight => 19.750000
+  RoofHeight => 32.000000
+  Vertex => -85.750000 100.250000
+  Vertex => -90.500000 100.250000
+  Vertex => -90.500000 105.000000
+  Vertex => -85.750000 105.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

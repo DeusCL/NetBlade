@@ -1,0 +1,40 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => Abrete
+  FloorHeight => -50.000000
+  RoofHeight => -45.000000
+  Vertex => 445.508333 -63.263333
+  Vertex => 445.508333 -59.263333
+  Vertex => 447.133333 -56.263333
+  Vertex => 450.133333 -56.263333
+  Vertex => 450.133333 -66.263333
+  Vertex => 447.133333 -66.263333
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Cierrate
+  FloorHeight => -50.000000
+  RoofHeight => -45.000000
+  Vertex => 440.008333 -68.013333
+  Vertex => 429.383333 -71.513333
+  Vertex => 429.508333 -51.388333
+  Vertex => 440.008333 -54.513333
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

@@ -1,0 +1,24 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => Trampatumb
+  FloorHeight => 48.400002
+  RoofHeight => 53.000000
+  Vertex => 156.875000 -163.250000
+  Vertex => 162.000000 -160.250000
+  Vertex => 166.750000 -162.000000
+  Vertex => 167.500000 -167.000000
+  Vertex => 165.625000 -171.625000
+  Vertex => 160.750000 -173.500000
+  Vertex => 156.625000 -171.000000
+  Vertex => 156.000000 -165.625000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

@@ -1,0 +1,116 @@
+NumGhostSectors => 6
+
+BeginGhostSector
+  Name => gzombie1
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -189.500000 -158.750000
+  Vertex => -187.375000 -153.875000
+  Vertex => -172.875000 -158.000000
+  Vertex => -173.125000 -167.750000
+  Vertex => -179.125000 -177.500000
+  Vertex => -190.375000 -176.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => gzombie2
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -173.750000 -180.500000
+  Vertex => -168.250000 -169.500000
+  Vertex => -156.875000 -176.875000
+  Vertex => -157.875000 -184.000000
+  Vertex => -173.125000 -183.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => gzombie3
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -172.875000 -182.875000
+  Vertex => -157.125000 -183.500000
+  Vertex => -157.750000 -198.375000
+  Vertex => -166.625000 -200.125000
+  Vertex => -177.375000 -194.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => gzombie5
+  FloorHeight => -4.000000
+  RoofHeight => 2.000000
+  Vertex => -173.750000 -132.000000
+  Vertex => -183.500000 -131.000000
+  Vertex => -192.500000 -120.000000
+  Vertex => -183.000000 -111.500000
+  Vertex => -169.000000 -126.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => gzombie6
+  FloorHeight => -4.000000
+  RoofHeight => 2.000000
+  Vertex => -169.500000 -120.500000
+  Vertex => -188.950000 -137.950000
+  Vertex => -197.250000 -135.000000
+  Vertex => -193.000000 -116.000000
+  Vertex => -177.500000 -110.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => gzombie4
+  FloorHeight => -4.000000
+  RoofHeight => 2.000000
+  Vertex => -169.500000 -127.500000
+  Vertex => -183.000000 -113.000000
+  Vertex => -165.000000 -104.500000
+  Vertex => -154.500000 -119.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

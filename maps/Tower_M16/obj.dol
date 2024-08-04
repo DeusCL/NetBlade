@@ -1,0 +1,6451 @@
+
+
+NumBODs -> 107
+
+BeginBOD
+  FileName -> ../../3dChars/Skl_opt.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/antorch2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/antorcha.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/antsopor.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/lampaure.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/candaure.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/cofre.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/rastrill.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/roc1aure.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/roc2aure.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/roca1.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/roca2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/roca3.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/supsitor.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/tinaja.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/cuchifer.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/arbolse.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/arbolse2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/rama2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/rama1.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/lampcolg.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/lampara.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/cirio.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/candil2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/candelab.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/garfio2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/gargola.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/hoguera.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/polea.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/tablator.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/reja.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/lampmig.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/lampmsin.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/brasero2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> ../../3dobjs/brasero1.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\platafrail.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\Gargola_estatua.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\peanapie.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\monjespa.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\Gargola02.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_10.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_02.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_03.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_04.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_05.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_06.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_07.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_08.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_09.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\piedra_01.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\tabla_xl.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\tabla_rota.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\lamparan.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\zocalo3.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\varillan.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\varilla.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\Ledblade\3dobjs\columna.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\ganaure.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\puenteaup.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\armero2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\armero.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\barril.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\cajon2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\cajon.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\mesa.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\meson.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\candelpe.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\jarra.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\lanza.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\alabarda.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\naginata.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\caja_i_i.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\caja_i_r.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\vigaro1.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\taburete.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\palangan.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\paletilla.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\caliz.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\botella2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\viga.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\tronegi1.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\adoquinpulsador.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\rail.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\Ledblade\3dobjs\lamkongo.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\baldosa.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\Baldosa_rota.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\EstatuaGolem.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3dobjs\rail2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\armadura.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\ArmaduraAL.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\ArmaduraBL.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\ArmaduraDM.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\ArmaduraKF.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\altar.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\Sawsword.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\espada.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\martillo3.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\lanzaancha.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\vampweapon.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\escudo6.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\esqueletopieza1.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\esqueletopieza4.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\esqueletopieza6.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\esqueletopieza2.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\pocima200.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\pocima100.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+BeginBOD
+  FileName -> C:\LEDBLADE\3DOBJS\pocimatodo.BOD
+
+  Material -> None
+  Mass -> 10.000000
+
+EndBOD
+
+
+
+
+
+NumItems -> 342
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName9
+  Static -> 1
+  Scale -> 2.088246
+  Position -> 32.402147 15.215118 11.104945
+  Orientation -> 0.700909 0.713250 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName12
+  Static -> 1
+  Scale -> 6.364665
+  Position -> -79.720345 -11.055724 -24.158053
+  Orientation -> 0.842589 0.036788 -0.536788 0.023437
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName13
+  Static -> 1
+  Scale -> 4.448423
+  Position -> -44.728747 8.490756 -5.952533
+  Orientation -> 0.357439 0.327533 -0.590885 0.644837
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.381097 -14.965241 -9.881116
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 15.000000
+  LightPrecission -> 0 0.120000
+  LightColor -> 0 255 151 36
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName7
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -35.229983 4.898701 1.570202
+  Orientation -> 0.147016 0.147016 -0.691655 0.691655
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.308076 -8.193237 -1.110708
+  Orientation -> 0.159064 0.159064 -0.688984 0.688984
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 207 141 52
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -14.785537 4.279532 -7.075086
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 255 152 38
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 6.432519 5.869411 -8.579474
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 22.000000
+  LightPrecission -> 0 0.120000
+  LightColor -> 0 255 96 19
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 15.572218 -19.818681 -5.302192
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 12.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 136 4
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -10.931923 -25.601748 -9.984171
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 244 159 45
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 6.185332 5.138771 -22.567763
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 43
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.160000
+  LightColor -> 0 255 111 15
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lamparatecho
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.612226
+  Position -> -27.579725 7.670603 -17.652944
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 8
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.120000
+  LightColor -> 0 255 148 30
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candil2
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -27.697343 -25.880185 -16.992429
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 9.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 237 154 63
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lamparatecho
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.814640
+  Position -> -10.541218 -9.326560 -14.285724
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 45.000000
+  LightPrecission -> 0 0.220000
+  LightColor -> 0 244 116 0
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lamparatecho
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.580459
+  Position -> -10.879998 -9.114235 -23.125495
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 15.000000
+  LightPrecission -> 0 0.150000
+  LightColor -> 0 223 135 38
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lampcolg
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -18.424536 11.154151 -9.511490
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 165 64
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lampcolg
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -32.454478 9.391132 -10.273909
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lampcolg
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -35.297214 -1.392417 -8.387886
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 12.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 171 79
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -35.661194 8.071678 2.397401
+  Orientation -> 0.276289 0.276289 -0.650895 0.650895
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -27.292232 -52.970279 2.202405
+  Orientation -> 0.276289 0.276289 0.650895 -0.650895
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 9.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -42.419331 -48.850492 4.831493
+  Orientation -> 0.672498 0.672498 0.218508 -0.218508
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 136 4
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -45.168880 -29.985817 7.049077
+  Orientation -> 0.653281 0.653281 -0.270598 0.270598
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 152 38
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -28.595739 -36.063504 8.412167
+  Orientation -> 0.304417 0.304417 -0.638224 0.638224
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 244 129 0
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.138093
+  Position -> -18.407426 11.135943 -10.192860
+  Orientation -> 0.572061 0.572061 -0.415627 0.415627
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.149474
+  Position -> -10.896478 -25.647741 -10.816941
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.763268
+  Position -> -10.540790 -9.360257 -16.553314
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Hoguera
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 58.310893 -67.659599 15.754614
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 224 169 67
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> GargolaFernando
+  Name -> NoName7
+  Static -> 1
+  Scale -> 3.366725
+  Position -> 15.488736 12.484514 -21.484546
+  Orientation -> 0.486740 0.486740 -0.512917 0.512917
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> candelab3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -32.739419 -23.717700 -19.321082
+  Orientation -> 0.500000 0.500000 -0.500000 0.500000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 176 89
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lamparatecho
+  Name -> golamp
+  Static -> 1
+  Scale -> 3.267710
+  Position -> -17.490804 -9.087528 -31.141888
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 48
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.010000
+  LightColor -> 0 255 145 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -22.033024 -9.517097 -30.883311
+  Orientation -> 0.468543 0.468543 0.529592 -0.529592
+
+  nFires -> 1
+  FireIntensity -> 0 35
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 173 83
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -22.055008 -16.138976 -26.883867
+  Orientation -> 0.504344 0.504344 0.495618 -0.495618
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 255 146 26
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -16.406500 3.005462 -75.531431
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 3
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 136 4
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -6.731180 7.161349 -78.956269
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 9.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 155 45
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> CandilAurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 1.970406 -9.144922 -29.696938
+  Orientation -> 0.043168 0.043168 0.705788 -0.705788
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 12.000000
+  LightPrecission -> 0 0.120000
+  LightColor -> 0 226 151 50
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> CandilAurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 27.259914 -21.735975 -2.851290
+  Orientation -> 0.517145 0.517145 0.482246 -0.482246
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 136 4
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 3.246888 7.227396 -78.421563
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 42
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 149 32
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -15.259364 3.850657 -69.501834
+  Orientation -> 0.495618 0.495618 0.504344 -0.504344
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 7.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 149 32
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Gargola02
+  Name -> NoName2
+  Static -> 1
+  Scale -> 5.704800
+  Position -> 3.836604 5.916237 -118.009281
+  Orientation -> 0.241845 0.241845 0.664463 -0.664463
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Gargola02
+  Name -> NoName3
+  Static -> 1
+  Scale -> 4.317595
+  Position -> 4.580977 -23.807667 -117.899311
+  Orientation -> 0.660141 0.660141 0.253404 -0.253404
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_03
+  Name -> NoName7
+  Static -> 1
+  Scale -> 1.374941
+  Position -> -4.009743 -4.848967 -110.329049
+  Orientation -> 0.671533 0.705520 0.206221 0.093583
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_xl
+  Name -> NoName11
+  Static -> 1
+  Scale -> 2.067570
+  Position -> -5.142021 -7.182233 -110.656090
+  Orientation -> 0.698161 0.697717 0.113717 0.113276
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.416602
+  Position -> 15.705943 -50.575365 7.692084
+  Orientation -> 0.165048 0.986286 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.308209
+  Position -> 26.666762 -35.842937 8.585336
+  Orientation -> 0.696364 0.696364 -0.122788 0.122788
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_02
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -0.006886 -47.135872 6.366528
+  Orientation -> 0.760969 0.616285 -0.002805 -0.202758
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_03
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.780901
+  Position -> -10.683661 -46.757451 6.298067
+  Orientation -> 0.642754 0.761590 -0.061513 -0.055359
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_07
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 21.271459 -41.379519 7.632923
+  Orientation -> 0.604897 0.794211 0.025275 0.051865
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rama1
+  Name -> NoName7
+  Static -> 1
+  Scale -> 1.402577
+  Position -> 9.102926 -43.196196 5.387053
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rama2
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.257163
+  Position -> 8.823530 -42.245506 5.819303
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -22.276405 2.876950 -27.767201
+  Orientation -> 0.298836 0.298836 0.640856 -0.640857
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.050000
+  LightColor -> 0 255 181 98
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -18.495464 2.699758 -14.196707
+  Orientation -> 0.529592 0.529592 0.468543 -0.468543
+
+  nFires -> 1
+  FireIntensity -> 0 9
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 225 140 47
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -24.221674 -5.661574 -12.814310
+  Orientation -> 0.599660 0.599660 -0.374710 0.374710
+
+  nFires -> 1
+  FireIntensity -> 0 8
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.070000
+  LightColor -> 0 210 128 53
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -18.329638 2.626467 -20.543632
+  Orientation -> 0.517145 0.517145 0.482246 -0.482246
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.130000
+  LightColor -> 0 255 164 62
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varilla
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -7.028057 7.162668 -79.499286
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varilla
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.644632
+  Position -> 3.534108 7.216391 -79.025399
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -22.724894 -9.044359 -92.352104
+  Orientation -> 0.043168 0.043168 0.705788 -0.705788
+
+  nFires -> 1
+  FireIntensity -> 0 17
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -3.676713 -19.910523 -15.696157
+  Orientation -> 0.486740 0.486740 -0.512917 0.512917
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.120000
+  LightColor -> 0 255 160 55
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.302631 4.070657 -74.830712
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 168 72
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 13.145661 -25.759743 -15.135441
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 147 28
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 16.973727 -24.517417 -11.080773
+  Orientation -> 0.913335 -0.219755 -0.316397 0.131983
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 16.626298 -27.628962 -11.184655
+  Orientation -> 0.236331 -0.960944 -0.123264 0.074431
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_03
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.967222
+  Position -> 17.220257 -26.729046 -11.226237
+  Orientation -> 0.639102 0.764308 -0.064130 -0.057171
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName4
+  Static -> 1
+  Scale -> 2.026831
+  Position -> 14.391292 -23.159702 -11.072670
+  Orientation -> 0.707132 0.707070 -0.002354 0.003147
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.564811
+  Position -> 19.707131 -17.097364 -11.909636
+  Orientation -> 0.414257 0.392122 0.574213 0.587291
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.549318
+  Position -> 15.443319 -12.239726 -11.398262
+  Orientation -> 0.509470 0.649174 -0.495845 0.270465
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName7
+  Static -> 1
+  Scale -> 1.677689
+  Position -> 16.213262 -13.015876 -11.329276
+  Orientation -> 0.684308 0.728616 -0.001024 -0.028976
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_xl
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.282432
+  Position -> 15.254230 -13.071976 -11.052577
+  Orientation -> 0.416501 0.411200 -0.575700 0.570974
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 13.203640 -11.899731 -15.356397
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 24
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.040000
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varilla
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.928460
+  Position -> -11.160974 -25.662263 -26.918440
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candil2
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -10.705271 -25.664845 -26.411865
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 20.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 255 158 28
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> candelab8
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -32.072541 -24.845396 -31.810096
+  Orientation -> 0.575667 0.575667 -0.410619 0.410619
+
+  nFires -> 1
+  FireIntensity -> 0 8
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.050000
+  LightColor -> 0 172 113 32
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName3
+  Static -> 1
+  Scale -> 6.756220
+  Position -> 5.253018 -95.027811 -7.264923
+  Orientation -> 0.568164 0.653598 -0.328030 0.377355
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName4
+  Static -> 1
+  Scale -> 3.538461
+  Position -> -26.968509 -53.733800 -11.088749
+  Orientation -> 0.930418 0.366501 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName5
+  Static -> 1
+  Scale -> 7.922200
+  Position -> 1.603813 -100.481718 -17.494406
+  Orientation -> 0.049858 0.985511 -0.158016 -0.036224
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> CandilAurelio
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 56.220051 -21.256010 -4.151927
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.050000
+  LightColor -> 0 255 150 34
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> CandilAurelio
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 2.978194 -16.822468 -0.697447
+  Orientation -> 0.049325 0.049325 0.705384 -0.705384
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 149 32
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> candelab4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 3.364004 -30.057169 -25.306632
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 2.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 219 162 98
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> candelab5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 10.492953 -21.983443 -25.306960
+  Orientation -> 0.606109 0.606109 -0.364187 0.364187
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 2.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 202 142 62
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 3.142979 -21.145935 -19.059792
+  Orientation -> 0.602908 0.602908 -0.369462 0.369462
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 3.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 242 132 9
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelabro
+  Name -> NoName10
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 7.522817 -30.584317 -19.060312
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.040000
+  LightColor -> 0 216 173 84
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candil2
+  Name -> NoName11
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -28.247918 -9.289595 -23.089972
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 8.000000
+  LightPrecission -> 0 0.110000
+  LightColor -> 0 255 154 43
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName12
+  Static -> 1
+  Scale -> 1.220190
+  Position -> 6.203167 5.119398 -23.546399
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.020100
+  Position -> 4.159392 10.635609 -28.109109
+  Orientation -> 0.281958 0.281958 0.648459 -0.648459
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 221 157 62
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName14
+  Static -> 1
+  Scale -> 1.061520
+  Position -> -28.243876 -9.286163 -23.860602
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> GanchoAurelio
+  Name -> NoName15
+  Static -> 1
+  Scale -> 2.306723
+  Position -> -35.669282 -1.437823 -8.746174
+  Orientation -> 0.043168 0.043168 -0.705788 0.705788
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName16
+  Static -> 1
+  Scale -> 2.283884
+  Position -> -30.366792 -15.045787 -11.112779
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> GanchoAurelio
+  Name -> NoName17
+  Static -> 1
+  Scale -> 3.140205
+  Position -> 15.596777 -19.302869 -5.936779
+  Orientation -> 0.504344 0.504344 0.495618 -0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candil2
+  Name -> NoName19
+  Static -> 1
+  Scale -> 1.347849
+  Position -> 5.994268 -9.111011 -22.645059
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 5
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 98 165 204
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 4.769311
+  Position -> 16.179385 -54.479010 45.789238
+  Orientation -> 0.224951 -0.974370 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 3.645680
+  Position -> 24.816642 -61.129110 51.162399
+  Orientation -> 0.754710 0.656059 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 4.865175
+  Position -> -14.207327 -54.409284 41.205215
+  Orientation -> 0.189813 0.390621 0.855062 0.283292
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName3
+  Static -> 1
+  Scale -> 4.360771
+  Position -> 23.101616 -49.507892 50.389445
+  Orientation -> 0.043578 -0.998097 0.001903 0.043578
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.731862
+  Position -> 45.494360 -20.041500 52.968971
+  Orientation -> 0.718381 -0.658275 0.165851 -0.151975
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 3.017675
+  Position -> 56.624647 3.187189 19.121541
+  Orientation -> 0.674692 0.032738 -0.725975 0.129150
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 58.296692 -1.849828 18.173681
+  Orientation -> 0.169924 0.135748 -0.722225 0.656574
+
+  nFires -> 1
+  FireIntensity -> 0 5
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 253 131 9
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName7
+  Static -> 1
+  Scale -> 2.651518
+  Position -> 49.725354 27.913770 19.590710
+  Orientation -> 0.425547 0.425547 -0.564721 0.564721
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Arbolseco2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.834864
+  Position -> -11.851837 40.604465 -8.916867
+  Orientation -> 0.580703 0.814116 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rama2
+  Name -> NoName1
+  Static -> 1
+  Scale -> 2.704814
+  Position -> -16.025444 45.421454 -6.896639
+  Orientation -> 0.551937 0.833886 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.651518
+  Position -> -11.632568 36.770820 -6.241492
+  Orientation -> 0.390731 0.920505 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Arbolseco
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.474123
+  Position -> -5.126880 31.419995 -8.333952
+  Orientation -> 0.469598 0.463448 -0.438560 0.610212
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Arbolseco2
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.728525
+  Position -> -15.738423 61.047048 -9.142271
+  Orientation -> 0.703851 0.621418 -0.337402 0.067773
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Arbolseco2
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.459527
+  Position -> 46.564290 31.588322 -5.315143
+  Orientation -> 0.627507 0.439385 -0.526541 0.368688
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName10
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -13.469526 32.041114 7.660394
+  Orientation -> 0.593030 0.593030 -0.385118 0.385118
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 160 55
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Reja
+  Name -> reja1
+  Static -> 1
+  Scale -> 2.786772
+  Position -> -11.137212 30.515589 7.772640
+  Orientation -> 0.549525 0.549525 -0.444997 0.444997
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Reja
+  Name -> reja2
+  Static -> 1
+  Scale -> 2.786772
+  Position -> -10.547587 28.148583 5.247570
+  Orientation -> 0.557208 0.557208 -0.435338 0.435338
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName13
+  Static -> 1
+  Scale -> 1.612226
+  Position -> -11.036862 29.571387 4.607415
+  Orientation -> 0.630978 0.751970 0.122650 0.146168
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName14
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -15.217811 31.054910 8.925990
+  Orientation -> 0.692814 0.252164 0.231065 0.634847
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName15
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -5.236856 26.146658 9.865598
+  Orientation -> 0.648459 0.648459 -0.281958 0.281958
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName16
+  Static -> 1
+  Scale -> 2.151522
+  Position -> 10.567625 42.400989 12.139035
+  Orientation -> 0.982971 0.060121 -0.173324 0.010601
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -22.161439 27.778912 8.875134
+  Orientation -> 0.308397 -0.870887 -0.127742 -0.360733
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -49.245105 13.367748 3.810444
+  Orientation -> 0.049325 0.049325 0.705384 -0.705384
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 145 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Puenteau_Plano
+  Name -> NoName2
+  Static -> 1
+  Scale -> 0.803396
+  Position -> -9.278672 -14.448992 13.744037
+  Orientation -> 0.465142 0.532422 -0.462708 0.534857
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -4.078022 -12.711874 10.984179
+  Orientation -> 0.253404 0.253404 -0.660141 0.660141
+
+  nFires -> 1
+  FireIntensity -> 0 40
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 255 153 40
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -29.660760 -28.449044 8.346692
+  Orientation -> 0.683013 0.683013 0.183013 -0.183013
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 14.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 155 45
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName9
+  Static -> 1
+  Scale -> 2.522829
+  Position -> -6.116556 -24.096087 17.452778
+  Orientation -> 0.909961 -0.414693 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName10
+  Static -> 1
+  Scale -> 1.533978
+  Position -> 0.250298 -17.970713 15.968760
+  Orientation -> 0.382683 -0.923880 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.704814
+  Position -> -14.954124 -27.434698 15.187566
+  Orientation -> 0.013559 -0.115734 0.093838 -0.988745
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Peanapiedra
+  Name -> NoName2
+  Static -> 1
+  Scale -> 26.671862
+  Position -> 10.401273 12.417287 -108.839386
+  Orientation -> 0.653282 0.653282 0.270598 -0.270598
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Peanapiedra
+  Name -> NoName4
+  Static -> 1
+  Scale -> 24.877327
+  Position -> -26.357522 -33.996650 -104.450915
+  Orientation -> 0.400510 0.400510 -0.582745 0.582745
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 56.154175 -23.742617 17.759733
+  Orientation -> 0.688984 0.688984 0.159064 -0.159064
+
+  nFires -> 1
+  FireIntensity -> 0 7
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 165 66
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -39.387789 21.542655 6.638105
+  Orientation -> 0.185639 0.192235 0.669394 -0.693178
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 156 47
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.548057
+  Position -> -33.614130 -21.117022 16.018620
+  Orientation -> 0.881981 -0.438046 0.147970 -0.091269
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 2.238883
+  Position -> -37.881080 -14.209244 17.094527
+  Orientation -> 0.996195 0.087156 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.497851
+  Position -> -41.890607 -3.923700 18.047025
+  Orientation -> 0.700909 -0.713251 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.704814
+  Position -> -34.285399 -5.125330 17.320023
+  Orientation -> 0.719340 -0.694658 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName4
+  Static -> 1
+  Scale -> 2.173037
+  Position -> -30.702128 2.230416 17.236362
+  Orientation -> 0.754710 -0.656059 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName5
+  Static -> 1
+  Scale -> 2.704814
+  Position -> -22.989988 4.302484 17.608523
+  Orientation -> 0.281780 -0.335812 0.688516 0.577734
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName6
+  Static -> 1
+  Scale -> 2.548057
+  Position -> -14.497284 7.081954 17.590862
+  Orientation -> 0.762550 -0.606560 -0.176049 -0.140035
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.599273
+  Position -> 1.151100 10.761555 18.033300
+  Orientation -> 0.549525 0.549525 0.444997 0.444997
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.126825
+  Position -> -43.659024 -47.656406 6.617460
+  Orientation -> 0.366501 0.930418 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -42.065647 -31.372622 9.517736
+  Orientation -> 0.944332 -0.191303 -0.221236 0.150650
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -44.666317 -31.366037 9.195309
+  Orientation -> 0.686892 0.725410 0.012283 -0.042527
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -43.138069 -29.363794 9.402013
+  Orientation -> 0.159317 -0.970684 -0.049500 0.173034
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -39.679206 -50.043227 6.707282
+  Orientation -> 0.965037 -0.099239 -0.215345 0.111721
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_02
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -40.663467 -49.501433 6.656555
+  Orientation -> 0.745002 0.640368 -0.025181 -0.185115
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_03
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -39.513915 -48.593550 6.678306
+  Orientation -> 0.648733 0.755370 -0.047540 -0.079375
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_03
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.431854 -47.363167 6.979678
+  Orientation -> 0.278683 0.428768 -0.586569 0.628038
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 34.408454 19.171509 9.193458
+  Orientation -> 0.134922 0.134922 0.694115 -0.694115
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.040000
+  LightColor -> 0 255 154 43
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.612226
+  Position -> 35.382316 21.413892 12.040537
+  Orientation -> 0.121435 -0.285235 -0.712003 -0.630037
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName7
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 32.946687 19.301897 11.422375
+  Orientation -> 0.924768 -0.295384 -0.124332 0.205170
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 34.309349 20.056888 11.315041
+  Orientation -> 0.267963 -0.769027 0.017967 0.580061
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_04
+  Name -> NoName13
+  Static -> 1
+  Scale -> 0.749342
+  Position -> 33.239901 21.027168 11.242899
+  Orientation -> 0.007489 -0.975016 0.079307 -0.207361
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName14
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -39.489962 6.738994 3.089277
+  Orientation -> 0.207716 0.193698 0.653913 -0.701236
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 149 32
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName15
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -47.517088 -28.565031 -0.921581
+  Orientation -> 0.459229 0.459229 0.537688 -0.537688
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 173 83
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName16
+  Static -> 1
+  Scale -> 1.518790
+  Position -> -49.066343 13.640925 6.270904
+  Orientation -> 0.600012 0.753901 -0.248533 -0.099253
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName17
+  Static -> 1
+  Scale -> 1.082857
+  Position -> -48.352074 10.110346 4.723182
+  Orientation -> 0.958863 -0.027046 -0.133180 0.249224
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName18
+  Static -> 1
+  Scale -> 2.088246
+  Position -> -45.987511 1.106763 5.449872
+  Orientation -> 0.332193 -0.273839 0.574115 0.696457
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName19
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -42.179358 6.681001 4.926876
+  Orientation -> 0.941831 -0.241770 -0.051683 0.227661
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName20
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.750051 8.094342 4.910171
+  Orientation -> 0.718750 -0.139869 -0.679431 0.046994
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName21
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -40.405803 7.119263 4.818046
+  Orientation -> 0.243314 -0.956770 -0.123301 0.100928
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_04
+  Name -> NoName22
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.139951 5.188721 4.761356
+  Orientation -> 0.600310 0.767901 -0.222903 -0.016420
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_xl
+  Name -> NoName23
+  Static -> 1
+  Scale -> 1.711410
+  Position -> -42.278748 3.855514 4.390128
+  Orientation -> 0.461737 0.587316 -0.591588 0.303120
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName24
+  Static -> 1
+  Scale -> 1.694466
+  Position -> -43.065003 2.723464 4.244133
+  Orientation -> 0.434554 0.719622 -0.534120 0.089575
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName25
+  Static -> 1
+  Scale -> 1.388690
+  Position -> -45.654543 -25.490234 0.407026
+  Orientation -> 0.706864 0.706864 0.018510 -0.018510
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName26
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -5.209215 -37.355350 15.609576
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 147 28
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName27
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -4.145364 -38.726414 17.759128
+  Orientation -> 0.965601 -0.146194 0.037972 0.211662
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_09
+  Name -> NoName28
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -4.339245 -36.443541 17.601772
+  Orientation -> 0.252128 -0.941678 -0.117029 0.189678
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_03
+  Name -> NoName29
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -4.552022 -37.783280 17.663694
+  Orientation -> 0.691078 0.722008 -0.017961 -0.028169
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Piedra_01
+  Name -> NoName30
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -5.235570 -38.544621 17.600846
+  Orientation -> 0.139918 0.027030 0.834223 -0.532695
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_xl
+  Name -> NoName31
+  Static -> 1
+  Scale -> 2.928926
+  Position -> -25.628763 -21.735580 4.865205
+  Orientation -> 0.016291 -0.882813 -0.006255 -0.469400
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Peanapiedra
+  Name -> NoName0
+  Static -> 1
+  Scale -> 17.215233
+  Position -> -30.687238 11.706241 -111.160541
+  Orientation -> 0.270598 0.270598 0.653282 -0.653282
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> GargolaFernando
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.899927
+  Position -> -18.211924 -43.545480 -20.290692
+  Orientation -> 0.030844 0.030844 0.706434 -0.706434
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> GargolaFernando
+  Name -> NoName3
+  Static -> 1
+  Scale -> 3.017675
+  Position -> 8.741659 -43.599727 -20.320816
+  Orientation -> 0.006164 0.006171 0.707080 -0.707080
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Meson
+  Name -> meson1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -27.388521 -21.197916 -5.115729
+  Orientation -> 0.482246 0.482246 -0.517145 0.517145
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.219263 -11.227910 -5.101092
+  Orientation -> 0.684584 0.684584 0.177045 -0.177045
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -29.753279 -9.229878 -5.098164
+  Orientation -> 0.486740 0.486740 -0.512917 0.512917
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -28.388078 -9.931730 -5.097319
+  Orientation -> 0.486740 0.486740 -0.512917 0.512917
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon4
+  Static -> 1
+  Scale -> 1.172579
+  Position -> -29.150873 -9.846666 -6.312521
+  Orientation -> 0.491175 0.494853 -0.507313 0.506459
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -25.022035 -12.856140 -5.322461
+  Orientation -> 0.703515 -0.081222 0.089503 -0.700328
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.644632
+  Position -> -32.662713 -15.818196 -4.888812
+  Orientation -> 0.696428 0.697417 0.117954 0.121183
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.677689
+  Position -> -30.508573 -13.841637 -4.562401
+  Orientation -> 0.640856 0.640856 0.298836 -0.298836
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_xl
+  Name -> NoName10
+  Static -> 1
+  Scale -> 1.474123
+  Position -> -30.111516 -14.415721 -4.638353
+  Orientation -> 0.632748 0.612505 -0.309564 0.358660
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName11
+  Static -> 1
+  Scale -> 1.853212
+  Position -> -35.790539 -1.602273 -6.098822
+  Orientation -> 0.561605 0.563949 0.429728 0.426492
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Barril
+  Name -> barril2
+  Static -> 1
+  Scale -> 1.430769
+  Position -> -31.649990 -0.462693 -5.106571
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Barril
+  Name -> barril1
+  Static -> 1
+  Scale -> 1.518790
+  Position -> -31.806061 -1.899202 -5.138584
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Barril
+  Name -> barril3
+  Static -> 1
+  Scale -> 1.580459
+  Position -> -32.534027 -1.333731 -4.983302
+  Orientation -> 0.239503 0.183172 0.952297 0.047076
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon7
+  Static -> 1
+  Scale -> 1.282432
+  Position -> -31.063097 6.916039 -5.264843
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon6
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -29.065097 6.017155 -5.101758
+  Orientation -> 0.464707 0.465947 -0.532244 0.532594
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candelpeque
+  Name -> candelpe1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -28.777497 -21.106472 -5.820045
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 8
+
+  nLights -> 1
+  LightIntensity -> 0 1.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 145 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Jarra
+  Name -> jarra1
+  Static -> 1
+  Scale -> 1.694466
+  Position -> -26.512483 -21.088442 -5.743234
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> GanchoAurelio
+  Name -> NoName21
+  Static -> 1
+  Scale -> 1.232392
+  Position -> -32.636973 9.393210 -10.630265
+  Orientation -> 0.000000 0.000000 0.707107 -0.707107
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Mesa
+  Name -> mesa1
+  Static -> 1
+  Scale -> 1.138093
+  Position -> -27.685892 11.917217 -12.395796
+  Orientation -> 0.512917 0.512917 -0.486740 0.486740
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Vigaro1
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.072135
+  Position -> -16.666155 -32.085495 -89.408835
+  Orientation -> 0.147016 0.147016 0.691655 -0.691655
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Vigaro1
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -6.004264 -32.241726 -63.421699
+  Orientation -> 0.006164 0.006171 -0.707080 0.707080
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Vigaro1
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.172579
+  Position -> 12.853456 3.877570 -56.552379
+  Orientation -> 0.512917 0.512917 -0.486740 0.486740
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Peanapiedra
+  Name -> NoName6
+  Static -> 1
+  Scale -> 25.887447
+  Position -> 9.499378 -30.009314 -105.244115
+  Orientation -> 0.653282 0.653282 -0.270598 0.270598
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Vigaro1
+  Name -> NoName7
+  Static -> 1
+  Scale -> 0.819545
+  Position -> 11.896467 6.242306 -88.862385
+  Orientation -> 0.635543 0.635543 -0.309975 0.309975
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 3.171606
+  Position -> 106.596923 -33.658211 3.276116
+  Orientation -> 0.984808 -0.173648 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.173037
+  Position -> 124.782271 -32.530386 4.568943
+  Orientation -> 0.721030 0.596727 0.055020 0.347859
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.173037
+  Position -> 121.601667 -55.516429 11.753133
+  Orientation -> 0.246285 0.142927 -0.139337 0.948420
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Arbolseco2
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.518790
+  Position -> 136.777836 -33.948837 4.211840
+  Orientation -> 0.898794 0.438371 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName6
+  Static -> 1
+  Scale -> 3.682137
+  Position -> 109.557455 -61.807196 -1.691500
+  Orientation -> 0.374607 0.927184 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName7
+  Static -> 1
+  Scale -> 2.151522
+  Position -> 126.922975 -74.047327 5.607458
+  Orientation -> 0.374321 0.903691 -0.079564 -0.192085
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName8
+  Static -> 1
+  Scale -> 2.194768
+  Position -> 121.656001 -75.876647 3.605764
+  Orientation -> 0.320704 0.889435 -0.103593 0.308744
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName9
+  Static -> 1
+  Scale -> 3.718959
+  Position -> 117.320202 -70.679254 0.822759
+  Orientation -> 0.224998 -0.184625 0.771847 -0.565281
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName10
+  Static -> 1
+  Scale -> 2.306723
+  Position -> 121.843432 -56.291006 14.703101
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName11
+  Static -> 1
+  Scale -> 2.928925
+  Position -> 93.094842 -55.396289 9.621441
+  Orientation -> 0.339709 0.109716 0.928041 0.106307
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Arbolseco2
+  Name -> NoName12
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 100.276118 -44.736491 9.088155
+  Orientation -> 0.736249 0.359093 0.515527 -0.251439
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cofre
+  Name -> cofre3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -2.016504 -21.037769 -12.553122
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cofre
+  Name -> cofre4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -2.242353 -27.573052 -12.555069
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon
+  Name -> cajona1
+  Static -> 1
+  Scale -> 0.658419
+  Position -> -6.876473 -21.135393 -12.398879
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon8
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -5.161441 -21.129477 -12.542707
+  Orientation -> 0.000000 0.601815 0.000000 0.798635
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varillaancha
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.596263
+  Position -> -10.798646 -30.579630 -13.274138
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varillaancha
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.612226
+  Position -> -3.436887 -30.690041 -13.263203
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Taburete
+  Name -> taburete2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.394400 9.099633 -12.088050
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Taburete
+  Name -> taburete3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -27.439060 9.728713 -12.026771
+  Orientation -> 0.300362 -0.548498 0.430887 -0.650591
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Taburete
+  Name -> taburete1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.691963 5.962130 -12.087974
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Mesa
+  Name -> mesa2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -25.081800 4.841036 -12.315641
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Palangana
+  Name -> NoName10
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -25.129842 4.489674 -12.904877
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 20
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Paletilla
+  Name -> come1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -25.287075 5.438944 -12.828718
+  Orientation -> 0.473575 0.089307 -0.464019 0.743261
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Caliz
+  Name -> NoName12
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -28.288615 11.614540 -12.997245
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Caliz
+  Name -> NoName13
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -24.683974 7.665651 -11.853639
+  Orientation -> 0.997491 0.046245 0.022192 -0.048791
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Caliz
+  Name -> NoName14
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -27.058570 11.742556 -13.004325
+  Orientation -> 0.026177 0.999657 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> BotellaVerde
+  Name -> NoName15
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -28.140065 11.978324 -13.164073
+  Orientation -> 0.183013 0.183013 -0.683013 0.683013
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Caja_i_i
+  Name -> NoName16
+  Static -> 1
+  Scale -> 1.196148
+  Position -> -13.361194 -28.475828 -5.574736
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Caja_i_r
+  Name -> NoName17
+  Static -> 1
+  Scale -> 0.712973
+  Position -> -12.180264 -28.815301 -5.430917
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -21.450809 -23.271159 -5.597557
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon10
+  Static -> 1
+  Scale -> 1.257163
+  Position -> -21.615844 -24.994028 -5.750494
+  Orientation -> 0.495618 0.495618 -0.504344 0.504344
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cajon2
+  Name -> cajon11
+  Static -> 1
+  Scale -> 0.720103
+  Position -> -21.580213 -23.752761 -6.783185
+  Orientation -> 0.351090 0.618918 -0.606370 0.354953
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 74.295295 25.271663 16.025248
+  Orientation -> 0.545621 0.545621 0.449775 -0.449775
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 237 137 27
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2Aurelio
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.599273
+  Position -> 31.023618 1.578615 10.625226
+  Orientation -> 0.113203 -0.993572 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Garfio2
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.628348
+  Position -> 5.990136 -9.087484 -23.648307
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1Aurelio
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.986894
+  Position -> 49.642107 36.634186 -4.336491
+  Orientation -> 0.979925 0.199368 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varilla
+  Name -> NoName1
+  Static -> 1
+  Scale -> 2.448633
+  Position -> -17.481229 -9.087991 -33.396472
+  Orientation -> 0.495618 0.495618 -0.504344 0.504344
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName0
+  Static -> 1
+  Scale -> 5.819467
+  Position -> -57.067006 -37.074171 -69.821573
+  Orientation -> 0.793311 0.312494 0.486142 -0.191496
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName1
+  Static -> 1
+  Scale -> 8.001421
+  Position -> -75.519939 2.882465 -61.344325
+  Orientation -> 0.035056 -0.578836 0.342364 0.739261
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -11.792217 -20.536771 -114.532630
+  Orientation -> 0.517145 0.517145 0.482246 -0.482246
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 145 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Adoquinpulsador
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.678033
+  Position -> -25.019450 4.347356 -118.519021
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Adoquinpulsador
+  Name -> NoName4
+  Static -> 1
+  Scale -> 2.400385
+  Position -> -26.002172 4.847872 -122.527362
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candil2
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -27.304840 -9.452550 -33.304551
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 10
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.060000
+  LightColor -> 0 244 129 0
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varilla
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.677689
+  Position -> -27.308038 -9.463793 -33.801611
+  Orientation -> 0.512917 0.512917 -0.486740 0.486740
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> lamparan2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -1.752485 -3.933693 -26.675337
+  Orientation -> 0.055479 0.055479 0.704927 -0.704927
+
+  nFires -> 1
+  FireIntensity -> 0 11
+
+  nLights -> 1
+  LightIntensity -> 0 8.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 124 137 148
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> lamparan1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -1.767504 -14.460458 -26.773109
+  Orientation -> 0.024678 0.024678 0.706676 -0.706676
+
+  nFires -> 1
+  FireIntensity -> 0 12
+
+  nLights -> 1
+  LightIntensity -> 0 5.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 136 154 174
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Vigaro1
+  Name -> NoName0
+  Static -> 1
+  Scale -> 0.705914
+  Position -> -10.811221 3.761462 -32.700931
+  Orientation -> 0.073913 0.073913 0.703233 -0.703233
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Lampcolg
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -10.859975 4.808574 -31.644911
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 6
+
+  nLights -> 1
+  LightIntensity -> 0 20.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 253 133 0
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaKongo
+  Name -> lampk4
+  Static -> 1
+  Scale -> 1.503752
+  Position -> -15.422493 3.988123 -41.617517
+  Orientation -> 0.486740 0.486740 0.512917 -0.512917
+
+  nFires -> 1
+  FireIntensity -> 0 35
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.130000
+  LightColor -> 0 255 101 9
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaKongo
+  Name -> lampk2
+  Static -> 1
+  Scale -> 1.518790
+  Position -> -6.634236 -20.792343 -43.413124
+  Orientation -> 0.000000 0.000000 0.707107 -0.707107
+
+  nFires -> 1
+  FireIntensity -> 0 30
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 255 57 0
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaKongo
+  Name -> lampk1
+  Static -> 1
+  Scale -> 1.549318
+  Position -> -14.809440 -20.961003 -43.413045
+  Orientation -> 0.012342 0.012341 -0.706999 0.706999
+
+  nFires -> 1
+  FireIntensity -> 0 32
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 196 128
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Viga
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.842787
+  Position -> -4.669976 -3.064466 -73.678595
+  Orientation -> 0.270598 0.270598 0.653282 -0.653282
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_rota
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.522829
+  Position -> -29.701565 -13.041126 -86.876296
+  Orientation -> 0.707080 0.707080 0.006171 0.006171
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName1
+  Static -> 1
+  Scale -> 2.731862
+  Position -> -27.142739 -14.390376 -87.031810
+  Orientation -> 0.706755 0.677650 -0.189387 0.073623
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.522829
+  Position -> -28.340940 -12.069602 -86.910857
+  Orientation -> 0.705384 0.705384 -0.049325 -0.049325
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.678033
+  Position -> -28.985832 -6.397617 -87.036779
+  Orientation -> 0.705788 0.705788 -0.043168 -0.043168
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName0
+  Static -> 1
+  Scale -> 3.609585
+  Position -> -18.706406 -22.095290 -110.981280
+  Orientation -> 0.685676 0.722013 -0.072536 0.057307
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_rota
+  Name -> NoName1
+  Static -> 1
+  Scale -> 2.353088
+  Position -> -21.294864 -20.532556 -110.979138
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_rota
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.731862
+  Position -> -23.993180 4.007839 -110.920213
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName4
+  Static -> 1
+  Scale -> 3.047852
+  Position -> -24.228650 0.562550 -110.994850
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName5
+  Static -> 1
+  Scale -> 2.704814
+  Position -> -19.616197 2.799409 -111.027552
+  Orientation -> 0.691926 0.716780 -0.086305 -0.004097
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName0
+  Static -> 1
+  Scale -> 6.756220
+  Position -> 65.087028 -39.847822 0.288188
+  Orientation -> 0.566938 -0.794818 0.125687 -0.176207
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName1
+  Static -> 1
+  Scale -> 5.704800
+  Position -> 62.696227 -55.292869 -1.171962
+  Orientation -> 0.499188 0.813851 -0.295565 0.033147
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 42.127548 50.490119 15.001955
+  Orientation -> 0.657904 0.657904 0.259156 -0.259156
+
+  nFires -> 1
+  FireIntensity -> 0 8
+
+  nLights -> 1
+  LightIntensity -> 0 8.000000
+  LightPrecission -> 0 0.090000
+  LightColor -> 0 249 185 53
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.067570
+  Position -> 137.363568 -34.175843 9.294035
+  Orientation -> 0.117253 -0.806277 0.462751 -0.349328
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca2
+  Name -> NoName1
+  Static -> 1
+  Scale -> 2.842787
+  Position -> 13.610318 40.979128 16.740100
+  Orientation -> 0.766044 0.642788 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Roca1
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.448633
+  Position -> 17.669044 47.966744 19.261253
+  Orientation -> 0.061010 0.872489 -0.033819 -0.483629
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 74.702346 2.215383 15.622272
+  Orientation -> 0.635543 0.635543 -0.309975 0.309975
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 150 34
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 71.043084 -7.359436 11.147616
+  Orientation -> 0.657904 0.657904 0.259156 -0.259156
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 159 53
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 80.608895 -10.521354 6.455560
+  Orientation -> 0.309975 0.309975 0.635543 -0.635543
+
+  nFires -> 1
+  FireIntensity -> 0 4
+
+  nLights -> 1
+  LightIntensity -> 0 4.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 145 23
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 81.322096 -11.159519 1.067240
+  Orientation -> 0.512917 0.512917 0.486740 -0.486740
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 15.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 155 45
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 63.407310 -4.580042 16.826843
+  Orientation -> 0.508650 0.508650 -0.491198 0.491198
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 13.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 163 60
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Reja
+  Name -> NoName0
+  Static -> 1
+  Scale -> 3.300387
+  Position -> -0.528734 -9.111756 -6.899829
+  Orientation -> 0.504344 0.504344 -0.495618 0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 66.150967 -18.863124 -6.435785
+  Orientation -> 0.067773 0.067773 -0.703851 0.703851
+
+  nFires -> 1
+  FireIntensity -> 0 7
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.080000
+  LightColor -> 0 255 158 51
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_rota
+  Name -> NoName2
+  Static -> 1
+  Scale -> 2.306723
+  Position -> 5.237753 8.235819 -11.918366
+  Orientation -> 0.843039 0.517121 -0.144649 0.030782
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_rota
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.628348
+  Position -> 4.702354 11.972744 -15.044797
+  Orientation -> 0.704927 0.703851 -0.055479 -0.067773
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Adoquinpulsador
+  Name -> NoName4
+  Static -> 1
+  Scale -> 2.283884
+  Position -> 1.880538 11.350368 -16.499431
+  Orientation -> 0.504344 0.512917 -0.486740 0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Adoquinpulsador
+  Name -> NoName5
+  Static -> 1
+  Scale -> 2.306723
+  Position -> 3.704402 10.335157 -13.094743
+  Orientation -> 0.813443 0.575789 0.043000 0.070205
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Baldosa_01
+  Name -> NoName6
+  Static -> 1
+  Scale -> 2.261271
+  Position -> 2.025953 10.825426 -17.035093
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaNegra
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.257163
+  Position -> 86.967721 -20.752001 -3.137798
+  Orientation -> 0.012342 0.012341 0.706999 -0.706999
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 192 45
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rail2
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.402577
+  Position -> -28.899590 -24.883544 -86.380108
+  Orientation -> 0.259156 0.259156 0.657904 -0.657904
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rail2
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.402577
+  Position -> -25.716001 -28.154003 -86.494395
+  Orientation -> 0.270598 0.270598 -0.653282 0.653282
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rail2
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.430769
+  Position -> -26.525434 -22.535852 -86.768881
+  Orientation -> 0.653282 0.653282 0.270598 -0.270598
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rail2
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.459527
+  Position -> -23.327975 -25.722320 -87.002106
+  Orientation -> 0.655618 0.655618 -0.264887 0.264887
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorchaenpared
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -21.360002 -23.687969 -90.108770
+  Orientation -> 0.073913 0.073913 -0.703233 0.703233
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 20.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 136 4
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Candil2
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.402577
+  Position -> -14.289627 -9.127308 -62.119021
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 30.000000
+  LightPrecission -> 0 0.200000
+  LightColor -> 0 255 155 45
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cirio
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 5.770521 -7.740054 -44.270174
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 16.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 95 17
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Cirio
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 9.980764 -20.264568 -42.026814
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 6
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.088000
+  LightColor -> 0 255 74 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Columna
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 1.726841 -27.634051 -41.418969
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaMiguelSinPeana
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 1.742706 -27.681261 -42.022723
+  Orientation -> 0.707107 0.707107 0.000001 -0.000001
+
+  nFires -> 1
+  FireIntensity -> 0 5
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 68 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaKongo
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.704544 -17.986470 -56.327905
+  Orientation -> 0.006164 0.006171 -0.707080 0.707080
+
+  nFires -> 1
+  FireIntensity -> 0 7
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 134 0
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Columna
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 1.188947 -1.606008 -45.418918
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaMiguelSinPeana
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 1.212278 -1.631164 -46.018298
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 7
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.990000
+  LightColor -> 0 255 63 6
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Brasero1
+  Name -> olimpia
+  Static -> 1
+  Scale -> 2.448633
+  Position -> -14.257363 -5.927000 -39.978537
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 49
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 70 9
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaMiguel
+  Name -> Lsector4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 0.936948 -14.641792 -33.837172
+  Orientation -> 0.500000 0.500000 -0.500000 0.500000
+
+  nFires -> 1
+  FireIntensity -> 0 37
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.077000
+  LightColor -> 0 255 145 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaKongo
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.183420 -17.643685 -41.081191
+  Orientation -> 0.018510 0.018510 -0.706864 0.706864
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.031250
+  LightColor -> 0 255 142 17
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 2.589141 5.204475 -36.542058
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 6.000000
+  LightPrecission -> 0 0.066000
+  LightColor -> 0 255 165 64
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varillaancha
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.257163
+  Position -> -2.965410 -9.053934 -88.837413
+  Orientation -> 0.504344 0.504344 -0.495618 0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varillaancha
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.488864
+  Position -> -3.283931 -8.856165 -88.785462
+  Orientation -> 0.504344 0.504344 -0.495618 0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Varillaancha
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.220190
+  Position -> -3.581105 -9.061622 -88.802684
+  Orientation -> 0.504344 0.504344 -0.495618 0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaMiguel
+  Name -> Lsector2
+  Static -> 1
+  Scale -> 1.160969
+  Position -> -7.338934 -28.480308 -33.624331
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 36
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 137 6
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaMiguel
+  Name -> Lsector1
+  Static -> 1
+  Scale -> 1.321291
+  Position -> -14.332114 -20.213979 -33.642576
+  Orientation -> 0.000000 0.000000 0.707107 -0.707107
+
+  nFires -> 1
+  FireIntensity -> 0 42
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.077000
+  LightColor -> 0 255 142 17
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaMiguel
+  Name -> Lsector3
+  Static -> 1
+  Scale -> 1.040604
+  Position -> 0.974109 -25.059195 -33.713713
+  Orientation -> 0.491198 0.491198 -0.508650 0.508650
+
+  nFires -> 1
+  FireIntensity -> 0 52
+
+  nLights -> 1
+  LightIntensity -> 0 0.000000
+  LightPrecission -> 0 0.077000
+  LightColor -> 0 255 141 15
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaKongo
+  Name -> Demonputch
+  Static -> 1
+  Scale -> 2.047099
+  Position -> -18.921502 -9.240651 -92.718303
+  Orientation -> 0.504344 0.504344 -0.495618 0.495618
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.099000
+  LightColor -> 0 255 154 43
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName0
+  Static -> 1
+  Scale -> 0.756836
+  Position -> 1.076197 7.998559 -21.490733
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.077000
+  LightColor -> 0 255 138 9
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> LamparaAurelio
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -25.402052 6.905147 -62.477943
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+  nFires -> 1
+  FireIntensity -> 0 0
+
+  nLights -> 1
+  LightIntensity -> 0 15.000000
+  LightPrecission -> 0 0.235000
+  LightColor -> 0 255 151 36
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Adoquinpulsador
+  Name -> NoName0
+  Static -> 1
+  Scale -> 2.814640
+  Position -> -19.153315 4.676955 -124.743737
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Adoquinpulsador
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.967222
+  Position -> -119.125273 4.610111 -124.496743
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Antorcha2
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -111.786239 -20.479922 -114.564997
+  Orientation -> 0.495618 0.495618 0.504344 -0.504344
+
+  nFires -> 1
+  FireIntensity -> 0 8
+
+  nLights -> 1
+  LightIntensity -> 0 10.000000
+  LightPrecission -> 0 0.100000
+  LightColor -> 0 255 145 21
+  LightGlow -> 0 0
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Armadura
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -8.659046 -11.364040 -18.993051
+  Orientation -> 0.653282 0.653282 0.270598 -0.270598
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Armadura
+  Name -> NoName2
+  Static -> 1
+  Scale -> 0.942045
+  Position -> -8.766618 -6.951669 -18.999015
+  Orientation -> 0.293232 0.293232 0.643440 -0.643440
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Altar
+  Name -> NoName3
+  Static -> 1
+  Scale -> 0.429223
+  Position -> -7.533478 -9.149756 -18.364752
+  Orientation -> 0.508650 0.508650 -0.491198 0.491198
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Altar
+  Name -> NoName6
+  Static -> 1
+  Scale -> 0.424974
+  Position -> -7.206170 -18.208939 -18.363362
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Altar
+  Name -> NoName7
+  Static -> 1
+  Scale -> 0.429223
+  Position -> -14.804865 -18.238128 -18.368693
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Altar
+  Name -> NoName13
+  Static -> 1
+  Scale -> 0.503298
+  Position -> -20.223961 -1.745454 -18.431375
+  Orientation -> 0.500000 0.500000 -0.500000 0.500000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Altar
+  Name -> NoName15
+  Static -> 1
+  Scale -> 0.503298
+  Position -> -20.224282 -16.520575 -18.427458
+  Orientation -> 0.500000 0.500000 -0.500000 0.500000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Armero2
+  Name -> ArmeroA3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -1.640847 -16.738923 -18.733692
+  Orientation -> 0.500000 0.500000 0.500000 -0.500000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Armero2
+  Name -> ArmeroA2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -1.533630 -3.194435 -18.735535
+  Orientation -> 0.504344 0.504344 0.495618 -0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Armero
+  Name -> ArmeroA1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -1.669357 -1.158605 -18.837042
+  Orientation -> 0.512917 0.512917 0.486740 -0.486740
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Armero
+  Name -> ArmeroA4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -17.840855 0.274434 -18.835038
+  Orientation -> 0.006164 0.006171 0.707080 -0.707080
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Altar
+  Name -> NoName26
+  Static -> 1
+  Scale -> 0.498315
+  Position -> -4.280677 0.308032 -18.431449
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza2
+  Name -> NoName29
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.769749 -3.041348 -4.600733
+  Orientation -> 0.588456 0.392199 0.391259 0.588911
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza4
+  Name -> NoName30
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -31.045802 -4.632611 -4.549346
+  Orientation -> 0.031852 0.903183 -0.418271 -0.091082
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza6
+  Name -> NoName31
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -30.415803 -3.412683 -4.541278
+  Orientation -> 0.214383 -0.670022 0.295273 -0.646471
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza1
+  Name -> NoName33
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -31.471672 -3.482956 -4.635846
+  Orientation -> 0.965866 0.052428 0.034367 0.251343
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza1
+  Name -> NoName34
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 15.704413 -28.117480 -11.126608
+  Orientation -> 0.999128 0.040074 0.008430 -0.008110
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza4
+  Name -> NoName35
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 14.939546 -28.283187 -11.050914
+  Orientation -> 0.331800 0.642347 -0.506084 -0.470296
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza4
+  Name -> NoName36
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 15.532802 -27.278869 -11.051985
+  Orientation -> 0.008434 0.598237 -0.800574 -0.033510
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza6
+  Name -> NoName37
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 16.241019 -28.580827 -11.034074
+  Orientation -> 0.348036 -0.385362 0.820909 -0.237647
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza2
+  Name -> NoName38
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 15.418578 -28.982016 -11.093599
+  Orientation -> 0.818838 0.470102 -0.273361 0.183799
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Pocima200
+  Name -> towerpoc1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 14.601954 -28.716611 -11.080833
+  Orientation -> 0.992772 -0.106481 -0.055292 0.002950
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Pocima100
+  Name -> towerpoc2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -6.226855 -21.972475 -18.458031
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza6
+  Name -> NoName0
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -6.675316 -22.916576 -18.298678
+  Orientation -> 0.146973 0.847995 0.341081 0.378111
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza1
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -6.949985 -22.305700 -18.377114
+  Orientation -> 0.999081 0.041947 0.007743 0.004263
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza2
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -6.268267 -23.464916 -18.345850
+  Orientation -> 0.853608 0.519796 0.019109 -0.028283
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza6
+  Name -> NoName3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -7.577031 -22.995764 -18.298831
+  Orientation -> 0.056532 0.923936 0.345905 0.153283
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza6
+  Name -> NoName4
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -5.551976 -21.958761 -18.283812
+  Orientation -> 0.253873 -0.431407 0.842403 -0.199484
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza6
+  Name -> NoName5
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 129.090418 -30.506086 4.962456
+  Orientation -> 0.190618 0.446510 0.867065 0.111767
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza2
+  Name -> NoName6
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 128.130409 -31.144011 4.905315
+  Orientation -> 0.866888 0.493655 -0.060265 0.034325
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza2
+  Name -> NoName7
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 129.839617 -31.523129 4.905472
+  Orientation -> 0.878476 0.475070 -0.050880 0.000193
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza1
+  Name -> NoName8
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 130.370388 -30.913275 4.871589
+  Orientation -> 0.957411 0.042853 0.285104 -0.015613
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza1
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 127.951897 -30.133538 4.963213
+  Orientation -> 0.976004 0.182905 -0.107104 -0.049916
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Pocima200
+  Name -> towerpoc3
+  Static -> 1
+  Scale -> 1.000000
+  Position -> 127.928745 -31.679952 4.920795
+  Orientation -> 0.424566 0.458992 -0.550180 -0.553509
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> PocimaTodo
+  Name -> towerpoc11
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -7.997439 -9.088992 -77.216678
+  Orientation -> 0.707107 0.707107 0.000000 0.000000
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rastrillo
+  Name -> NoName1
+  Static -> 1
+  Scale -> 1.184304
+  Position -> -33.553716 -9.694360 -31.828826
+  Orientation -> 0.491198 0.491198 -0.508650 0.508650
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Rastrillo
+  Name -> NoName2
+  Static -> 1
+  Scale -> 1.347849
+  Position -> -33.413043 -16.639999 -32.184280
+  Orientation -> 0.504344 0.504344 -0.495618 0.495618
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName3
+  Static -> 1
+  Scale -> 2.548057
+  Position -> -17.586069 -13.588208 12.104313
+  Orientation -> 0.674380 0.674380 0.212631 -0.212631
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_rota
+  Name -> NoName4
+  Static -> 1
+  Scale -> 2.006763
+  Position -> -15.983305 -16.918800 12.103530
+  Orientation -> 0.674380 0.674380 0.212631 -0.212631
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Tabla_xl
+  Name -> NoName5
+  Static -> 1
+  Scale -> 3.140205
+  Position -> -16.698878 -15.122883 11.905740
+  Orientation -> 0.643440 0.643440 -0.293232 0.293232
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Puenteau_Plano
+  Name -> NoName7
+  Static -> 1
+  Scale -> 0.844377
+  Position -> -18.928760 -16.990989 16.795706
+  Orientation -> 0.176031 -0.865222 -0.093598 -0.460047
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> Puenteau_Plano
+  Name -> NoName8
+  Static -> 1
+  Scale -> 0.951466
+  Position -> -28.525015 -24.014276 12.162561
+  Orientation -> 0.576700 -0.673888 -0.316742 -0.336105
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza2
+  Name -> NoName9
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.005665 -12.210294 16.149119
+  Orientation -> 0.507639 0.484291 0.491729 0.515721
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza1
+  Name -> NoName10
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.885961 -11.821969 16.120629
+  Orientation -> 0.748387 0.087046 0.656758 -0.031778
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza4
+  Name -> NoName11
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.639862 -11.277318 16.197875
+  Orientation -> 0.150685 0.821725 -0.411229 -0.364627
+
+
+
+
+EndObject
+
+
+BeginObject
+  Kind -> EsqueletoPieza4
+  Name -> NoName12
+  Static -> 1
+  Scale -> 1.000000
+  Position -> -41.698933 -12.342453 16.197525
+  Orientation -> 0.013615 0.970746 0.203889 -0.126077
+
+
+
+
+EndObject

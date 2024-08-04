@@ -1,0 +1,353 @@
+NumGhostSectors => 19
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => 8.000000
+  RoofHeight => 10.000000
+  Vertex => 322.750000 200.625000
+  Vertex => 322.875000 222.750000
+  Vertex => 330.000000 222.750000
+  Vertex => 330.000000 200.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 10000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector275
+  FloorHeight => 7.000000
+  RoofHeight => 8.000000
+  Vertex => 384.256365 213.687983
+  Vertex => 340.500000 213.750000
+  Vertex => 340.500000 225.750000
+  Vertex => 384.125000 225.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector276
+  FloorHeight => 0.000000
+  RoofHeight => 5.000000
+  Vertex => 287.625000 194.875000
+  Vertex => 287.625000 197.000000
+  Vertex => 289.375000 197.000000
+  Vertex => 289.375000 194.875000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector277
+  FloorHeight => 7.000000
+  RoofHeight => 8.000000
+  Vertex => 290.750000 212.000000
+  Vertex => 290.625000 235.125000
+  Vertex => 310.375000 235.000000
+  Vertex => 310.125000 212.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector278
+  FloorHeight => 8.000000
+  RoofHeight => 9.000000
+  Vertex => 353.000000 176.125000
+  Vertex => 353.000000 183.875000
+  Vertex => 359.000000 183.875000
+  Vertex => 359.000000 176.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 10000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector279
+  FloorHeight => 7.000000
+  RoofHeight => 8.000000
+  Vertex => 373.128391 191.814336
+  Vertex => 373.128391 200.064336
+  Vertex => 390.250000 200.125000
+  Vertex => 390.375000 191.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector280
+  FloorHeight => 8.000000
+  RoofHeight => 9.000000
+  Vertex => 317.375000 144.000000
+  Vertex => 317.375000 155.625000
+  Vertex => 332.375000 155.625000
+  Vertex => 332.375000 144.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 15000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector281
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => 320.375000 98.750000
+  Vertex => 309.125000 105.750000
+  Vertex => 309.000000 124.000000
+  Vertex => 320.375000 134.125000
+  Vertex => 329.625000 134.125000
+  Vertex => 336.000000 122.750000
+  Vertex => 335.125000 109.000000
+  Vertex => 329.375000 98.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 25000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector282
+  FloorHeight => -20.000000
+  RoofHeight => -14.000000
+  Vertex => 300.625000 88.125000
+  Vertex => 313.875000 93.625000
+  Vertex => 315.375000 91.875000
+  Vertex => 301.750000 86.375000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 7000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector283
+  FloorHeight => -35.000000
+  RoofHeight => -25.000000
+  Vertex => 284.000000 91.000000
+  Vertex => 281.250000 92.250000
+  Vertex => 281.375000 95.375000
+  Vertex => 283.250000 97.000000
+  Vertex => 286.250000 98.250000
+  Vertex => 288.750000 98.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 10000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector284
+  FloorHeight => 0.000000
+  RoofHeight => 10.000000
+  Vertex => 317.875000 41.500000
+  Vertex => 318.125000 74.125000
+  Vertex => 332.500000 74.250000
+  Vertex => 332.500000 41.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 15000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector285
+  FloorHeight => -30.000000
+  RoofHeight => -10.000000
+  Vertex => 371.625000 -62.375000
+  Vertex => 351.125000 -26.125000
+  Vertex => 438.500000 -26.500000
+  Vertex => 439.000000 -84.875000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector286
+  FloorHeight => -40.000000
+  RoofHeight => -10.000000
+  Vertex => 440.500000 -88.500000
+  Vertex => 455.250000 -108.375000
+  Vertex => 449.875000 -112.875000
+  Vertex => 435.500000 -92.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector287
+  FloorHeight => -40.000000
+  RoofHeight => -10.000000
+  Vertex => 457.000000 -116.875000
+  Vertex => 458.750000 -111.375000
+  Vertex => 476.000000 -111.375000
+  Vertex => 478.750000 -117.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector288
+  FloorHeight => -40.000000
+  RoofHeight => -10.000000
+  Vertex => 479.875000 -108.625000
+  Vertex => 507.000000 -80.000000
+  Vertex => 515.000000 -85.875000
+  Vertex => 484.875000 -115.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector289
+  FloorHeight => -45.000000
+  RoofHeight => -15.000000
+  Vertex => 509.125000 -76.625000
+  Vertex => 509.125000 -51.125000
+  Vertex => 515.375000 -51.125000
+  Vertex => 515.375000 -76.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector290
+  FloorHeight => -50.000000
+  RoofHeight => -10.000000
+  Vertex => 436.625000 -10.000000
+  Vertex => 464.875000 3.250000
+  Vertex => 467.500000 -6.500000
+  Vertex => 443.125000 -22.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector291
+  FloorHeight => -50.000000
+  RoofHeight => -10.000000
+  Vertex => 470.500000 -6.875000
+  Vertex => 474.375000 4.375000
+  Vertex => 518.500000 -40.875000
+  Vertex => 502.000000 -44.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => -100.000000
+  RoofHeight => 100.000000
+  Vertex => 311.500000 8.875000
+  Vertex => 319.383333 16.986667
+  Vertex => 330.508333 16.861667
+  Vertex => 338.508333 8.986667
+  Vertex => 338.616667 -2.236667
+  Vertex => 330.750000 -10.125000
+  Vertex => 319.383333 -10.138333
+  Vertex => 311.508333 -2.263333
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

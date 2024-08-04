@@ -1,0 +1,473 @@
+NumGhostSectors => 26
+
+BeginGhostSector
+  Name => sextisla
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => 14.875000 -46.125000
+  Vertex => 24.375000 51.250000
+  Vertex => 38.000000 64.875000
+  Vertex => 45.000000 -56.375000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector2276
+  FloorHeight => 6.000000
+  RoofHeight => 10.000000
+  Vertex => 9.750000 29.000000
+  Vertex => 9.750000 43.375000
+  Vertex => 17.927331 43.409175
+  Vertex => 17.004612 29.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => spatiotras
+  FloorHeight => 5.000000
+  RoofHeight => 15.000000
+  Vertex => -5.875000 -10.625000
+  Vertex => 11.875000 -10.625000
+  Vertex => 11.875000 -18.500000
+  Vertex => -6.000000 -18.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 1000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => spuentower
+  FloorHeight => 8.000000
+  RoofHeight => 36.000000
+  Vertex => -10.875000 -32.250000
+  Vertex => -10.875000 -29.250000
+  Vertex => -10.250000 -29.250000
+  Vertex => -10.250000 -32.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 6000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurall4
+  FloorHeight => 7.000000
+  RoofHeight => 15.000000
+  Vertex => -46.750000 -66.125000
+  Vertex => -46.750000 -62.500000
+  Vertex => -26.750000 -62.500000
+  Vertex => -26.750000 -66.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurallup3
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -41.875000 -78.125000
+  Vertex => -41.875000 -74.375000
+  Vertex => -32.500000 -74.375000
+  Vertex => -32.500000 -78.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 3000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurall3
+  FloorHeight => 9.000000
+  RoofHeight => 15.000000
+  Vertex => -66.750000 -56.125000
+  Vertex => -65.125000 -55.250000
+  Vertex => -54.625000 -63.250000
+  Vertex => -56.375000 -66.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurallup2
+  FloorHeight => 8.000000
+  RoofHeight => 15.000000
+  Vertex => -66.125000 -72.875000
+  Vertex => -65.000000 -71.625000
+  Vertex => -60.750000 -73.000000
+  Vertex => -60.750000 -74.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.6
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurall2
+  FloorHeight => 3.000000
+  RoofHeight => 15.000000
+  Vertex => -68.375000 -53.000000
+  Vertex => -68.375000 -38.125000
+  Vertex => -66.000000 -38.125000
+  Vertex => -66.000000 -53.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurallup1
+  FloorHeight => 8.000000
+  RoofHeight => 15.000000
+  Vertex => -79.875000 -54.875000
+  Vertex => -79.125000 -21.875000
+  Vertex => -74.000000 -21.750000
+  Vertex => -73.750000 -54.875000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 3000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smurall1
+  FloorHeight => 0.000000
+  RoofHeight => 10.000000
+  Vertex => -70.750000 -22.875000
+  Vertex => -70.750000 -19.875000
+  Vertex => -65.250000 -19.875000
+  Vertex => -65.250000 -22.875000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 5000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector2286
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => -72.750000 -1.625000
+  Vertex => -72.750000 12.000000
+  Vertex => -63.250000 12.000000
+  Vertex => -59.875000 -1.750000
+  Vertex => -65.625000 -5.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => spatiopal
+  FloorHeight => 5.000000
+  RoofHeight => 25.000000
+  Vertex => -55.125000 -2.000000
+  Vertex => -49.625000 2.000000
+  Vertex => -31.375000 3.000000
+  Vertex => -31.375000 -2.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 1000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector2288
+  FloorHeight => 14.000000
+  RoofHeight => 16.000000
+  Vertex => -24.000000 4.500000
+  Vertex => -24.000000 25.000000
+  Vertex => -19.500000 24.875000
+  Vertex => -19.500000 4.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 4000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector2289
+  FloorHeight => 8.000000
+  RoofHeight => 15.000000
+  Vertex => -66.125000 23.000000
+  Vertex => -66.125000 36.875000
+  Vertex => -63.500000 39.250000
+  Vertex => -59.125000 39.250000
+  Vertex => -59.125000 23.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector2290
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => -44.125000 29.125000
+  Vertex => -44.125000 48.625000
+  Vertex => -30.500000 48.625000
+  Vertex => -30.500000 29.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 10000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector2291
+  FloorHeight => 1.000000
+  RoofHeight => 15.000000
+  Vertex => -26.625000 29.125000
+  Vertex => -26.625000 33.500000
+  Vertex => -18.750000 33.500000
+  Vertex => -18.750000 29.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => sintower
+  FloorHeight => -20.000000
+  RoofHeight => 100.000000
+  Vertex => -49.500000 -43.750000
+  Vertex => -49.625000 -18.000000
+  Vertex => -26.750000 -17.875000
+  Vertex => -26.875000 -44.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist1.wav
+  Volumen => 1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 10000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => sinicio1
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => -169.625000 9.500000
+  Vertex => -181.375000 39.875000
+  Vertex => -157.125000 46.375000
+  Vertex => -151.375000 12.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => sinicio2
+  FloorHeight => -20.000000
+  RoofHeight => 15.000000
+  Vertex => -150.625000 -28.000000
+  Vertex => -153.625000 -16.750000
+  Vertex => -142.216489 -7.699074
+  Vertex => -138.749337 -26.634039
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => spuente1
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => -141.625000 -47.125000
+  Vertex => -141.625000 -31.125000
+  Vertex => -127.750000 -30.375000
+  Vertex => -128.000000 -47.375000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => spuente2
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => -116.000000 -48.250000
+  Vertex => -115.750000 -29.250000
+  Vertex => -103.500000 -28.125000
+  Vertex => -103.750000 -46.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => spuente3
+  FloorHeight => 0.000000
+  RoofHeight => 15.000000
+  Vertex => -88.000000 -40.125000
+  Vertex => -87.725438 -20.171485
+  Vertex => -81.625000 -19.625000
+  Vertex => -81.762829 -39.641563
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-mov-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => smazmorra
+  FloorHeight => -25.000000
+  RoofHeight => -10.000000
+  Vertex => -48.750000 -13.000000
+  Vertex => -49.500000 55.375000
+  Vertex => 28.625000 56.125000
+  Vertex => 25.250000 -12.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist1.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => chorrito1
+  FloorHeight => -5.250000
+  RoofHeight => 1.400000
+  Vertex => -37.125000 15.812500
+  Vertex => -35.125000 15.812500
+  Vertex => -34.625000 14.062500
+  Vertex => -36.125000 12.312500
+  Vertex => -37.625000 14.062500
+  Grupo => Grupo1
+  Sonido => ../../Sounds/agua-canal.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 1000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => chorrito2
+  FloorHeight => -5.250000
+  RoofHeight => 1.400000
+  Vertex => -42.375000 15.812500
+  Vertex => -40.375000 15.812500
+  Vertex => -39.375000 14.062500
+  Vertex => -41.125000 11.812500
+  Vertex => -43.125000 14.312500
+  Grupo => Grupo1
+  Sonido => ../../Sounds/agua-canal.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 2000
+  Escala => 1.0
+EndGhostSector

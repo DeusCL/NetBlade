@@ -1,0 +1,28 @@
+Bitmaps -> ice.mmp
+Bitmaps -> vid.mmp
+
+Bitmaps -> ../../3dchars/tkn.mmp
+
+Bitmaps -> Skl.mmp
+Bitmaps -> ../../3dChars/Ldm.mmp
+Bitmaps -> ../../3dChars/min.mmp
+Bitmaps -> ../../3dChars/cosita.mmp
+
+Bitmaps -> ../../3dChars/DarkKnight.mmp
+Bitmaps -> ../../3dChars/Crow.mmp
+
+Bitmaps -> NOBJS.mmp
+Bitmaps -> ../../3dobjs/3dobjs.mmp
+Bitmaps -> ../../3dobjs/genericos.mmp
+Bitmaps -> ../../3dobjs/weapons.mmp
+Bitmaps -> ../../3dobjs/objetos_p.mmp
+
+Bitmaps -> ../../3dchars/Ldm.mmp
+
+Bitmaps -> ../../3dchars/Actors.mmp
+Bitmaps -> ../../3dchars/actors_javi.mmp
+
+
+World -> ice.bw
+GammaC -> 1.0
+WorldDome -> ice_d.mmp

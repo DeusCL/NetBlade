@@ -1,0 +1,42 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => KASHGARC
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -57.000000 18.750000
+  Vertex => -57.750000 18.500000
+  Vertex => -58.500000 19.250000
+  Vertex => -58.250000 20.250000
+  Vertex => -57.250000 20.250000
+  Vertex => -56.750000 19.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => KASHGARF
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -18.750000 44.500000
+  Vertex => -9.750000 3.500000
+  Vertex => -32.250000 -25.000000
+  Vertex => -66.750000 -26.000000
+  Vertex => -101.750000 -1.750000
+  Vertex => -94.750000 44.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

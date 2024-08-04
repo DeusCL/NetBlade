@@ -1,0 +1,25 @@
+rGammaC -> 70
+Bitmaps -> defile.mmp
+Bitmaps -> piedras.mmp
+
+Bitmaps -> ../../3dchars/Amz.mmp
+Bitmaps -> ../../3dChars/Bar.mmp
+Bitmaps -> ../../3dchars/Dwf.mmp
+Bitmaps -> ../../3dChars/Kgt.mmp
+Bitmaps -> ../../3dchars/Gok.mmp
+Bitmaps -> ../../3dchars/TKN.mmp
+Bitmaps -> ../../3dchars/Ork.mmp
+Bitmaps -> ../../3dchars/trl_dk.mmp
+Bitmaps -> ../../3dchars/trl_SN.mmp
+Bitmaps -> ../../3dchars/Lch.mmp
+Bitmaps -> ../../3dchars/Glm_st.mmp
+Bitmaps -> ../../3dchars/Glm_ic.mmp
+Bitmaps -> ../../3dchars/DarkKnight.mmp
+Bitmaps -> ../../3dobjs/3dobjs.mmp
+Bitmaps -> ../../3dobjs/weapons.mmp
+Bitmaps -> ../../3dobjs/genericos.mmp
+
+
+World -> defile.bw
+
+WorldDome -> dome.mmp

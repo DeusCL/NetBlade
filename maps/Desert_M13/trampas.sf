@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => sectortr1
+  FloorHeight => -11.500000
+  RoofHeight => -6.000000
+  Vertex => -37.750000 27.062500
+  Vertex => -37.750000 18.062500
+  Vertex => -41.750000 18.062500
+  Vertex => -41.750000 27.062500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

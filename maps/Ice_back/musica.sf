@@ -1,0 +1,76 @@
+NumGhostSectors => 4
+
+BeginGhostSector
+  Name => ambiente0
+  FloorHeight => -1.000000
+  RoofHeight => 5.000000
+  Vertex => -2.250000 -20.000000
+  Vertex => -1.500000 -19.000000
+  Vertex => -1.500000 -25.000000
+  Vertex => -2.250000 -23.937500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => ambiente1
+  FloorHeight => -1.000000
+  RoofHeight => 5.000000
+  Vertex => -21.000000 -38.000000
+  Vertex => -21.000000 -36.500000
+  Vertex => -15.500000 -36.500000
+  Vertex => -15.500000 -38.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => ambiente2
+  FloorHeight => -1.000000
+  RoofHeight => 5.000000
+  Vertex => -20.750000 -6.250000
+  Vertex => -20.750000 -4.500000
+  Vertex => -14.750000 -4.500000
+  Vertex => -15.000000 -6.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => ambiente3
+  FloorHeight => 8.000000
+  RoofHeight => 12.000000
+  Vertex => 22.500000 -52.125000
+  Vertex => 22.500000 -47.750000
+  Vertex => 30.375000 -47.750000
+  Vertex => 30.375000 -52.125000
+  Vertex => 29.875000 -52.625000
+  Vertex => 23.000000 -52.625000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

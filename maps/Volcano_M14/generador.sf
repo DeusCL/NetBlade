@@ -1,0 +1,38 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => SKL1
+  FloorHeight => -8.000000
+  RoofHeight => -5.000000
+  Vertex => -13.000000 -21.750000
+  Vertex => -13.250000 -15.500000
+  Vertex => 0.250000 -15.500000
+  Vertex => -3.000000 -23.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => SKL2
+  FloorHeight => -8.000000
+  RoofHeight => -5.000000
+  Vertex => -4.000000 -33.000000
+  Vertex => -12.000000 -24.500000
+  Vertex => -2.000000 -21.750000
+  Vertex => 0.500000 -26.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

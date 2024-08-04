@@ -1,0 +1,81 @@
+NumGhostSectors => 4
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => 0.000000
+  RoofHeight => 20.000000
+  Vertex => 5.750000 6.250000
+  Vertex => 4.250000 17.750000
+  Vertex => 12.500000 25.750000
+  Vertex => 28.250000 27.000000
+  Vertex => 32.250000 20.250000
+  Vertex => 29.500000 7.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 120
+  FloorHeight => 0.000000
+  RoofHeight => 20.000000
+  Vertex => -3.250000 -35.500000
+  Vertex => -8.000000 -29.500000
+  Vertex => -2.250000 -21.000000
+  Vertex => 4.750000 -21.750000
+  Vertex => 4.000000 -32.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-clifftop-wind.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.2
+EndGhostSector
+
+BeginGhostSector
+  Name => 121
+  FloorHeight => 0.000000
+  RoofHeight => 20.000000
+  Vertex => -23.250000 -6.500000
+  Vertex => -30.750000 0.750000
+  Vertex => -40.750000 14.250000
+  Vertex => -26.250000 24.500000
+  Vertex => -4.500000 13.250000
+  Vertex => -4.750000 -7.750000
+  Vertex => -15.000000 -11.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/frog-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1.3
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => -2.000000
+  RoofHeight => 4.000000
+  Vertex => -5.000000 -5.500000
+  Vertex => -15.750000 -4.500000
+  Vertex => -20.000000 7.750000
+  Vertex => -17.000000 17.500000
+  Vertex => -2.500000 14.500000
+  Vertex => -1.500000 1.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

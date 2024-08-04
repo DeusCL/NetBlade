@@ -1,0 +1,22 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => 0.000000
+  RoofHeight => 30.000000
+  Vertex => 3.921619 138.549071
+  Vertex => 1.171619 141.299071
+  Vertex => 0.921619 145.799071
+  Vertex => 8.421619 148.549071
+  Vertex => 12.921619 145.799071
+  Vertex => 12.421619 140.049071
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

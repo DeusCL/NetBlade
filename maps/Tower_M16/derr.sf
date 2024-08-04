@@ -1,0 +1,40 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => derr1
+  FloorHeight => -20.000000
+  RoofHeight => 7.000000
+  Vertex => 57.593750 8.375000
+  Vertex => 55.097429 9.754299
+  Vertex => 54.593750 13.375000
+  Vertex => 58.093750 14.375000
+  Vertex => 60.093750 11.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => derr2
+  FloorHeight => -20.000000
+  RoofHeight => 7.000000
+  Vertex => 57.057718 20.209173
+  Vertex => 54.750000 23.000000
+  Vertex => 54.593750 26.875000
+  Vertex => 59.250000 32.250000
+  Vertex => 60.869391 30.228427
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

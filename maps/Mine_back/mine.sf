@@ -1,0 +1,352 @@
+NumGhostSectors => 19
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -25.000000
+  RoofHeight => 40.000000
+  Vertex => 52.120522 -59.380178
+  Vertex => 32.046454 47.867976
+  Vertex => 69.788975 62.795479
+  Vertex => 92.338661 -53.880178
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 5000
+  DistMaximaVertical => 2000
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2570
+  FloorHeight => 0.000000
+  RoofHeight => 35.000000
+  Vertex => 66.750000 63.000000
+  Vertex => 35.250000 46.750000
+  Vertex => 19.250000 55.000000
+  Vertex => 22.500000 84.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 5000
+  DistMaximaVertical => 2000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2571
+  FloorHeight => 0.000000
+  RoofHeight => 35.000000
+  Vertex => 24.000000 84.750000
+  Vertex => 20.250000 52.000000
+  Vertex => -39.500000 52.250000
+  Vertex => -49.250000 71.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 5000
+  DistMaximaVertical => 2000
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2572
+  FloorHeight => -15.000000
+  RoofHeight => 35.000000
+  Vertex => -73.500000 0.250000
+  Vertex => -72.000000 52.500000
+  Vertex => -51.750000 77.500000
+  Vertex => -37.000000 54.750000
+  Vertex => -53.500000 13.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2573
+  FloorHeight => 28.000000
+  RoofHeight => 40.000000
+  Vertex => -52.120590 1.816075
+  Vertex => -47.500000 38.000000
+  Vertex => -36.250000 53.250000
+  Vertex => -19.250000 52.250000
+  Vertex => -18.250000 6.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 2000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2574
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => 75.250000 58.750000
+  Vertex => 59.000000 91.750000
+  Vertex => 79.750000 108.000000
+  Vertex => 106.000000 74.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2575
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => 82.500000 109.250000
+  Vertex => 60.000000 89.500000
+  Vertex => 39.250000 95.750000
+  Vertex => 41.250000 121.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2576
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => 42.750000 124.000000
+  Vertex => 42.500000 96.000000
+  Vertex => -3.500000 94.250000
+  Vertex => 4.500000 124.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2577
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => -47.750000 81.250000
+  Vertex => -50.000000 110.500000
+  Vertex => -41.000000 129.500000
+  Vertex => -3.000000 121.250000
+  Vertex => -11.500000 89.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2578
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => -113.500000 3.000000
+  Vertex => -116.500000 49.500000
+  Vertex => -77.250000 38.500000
+  Vertex => -78.000000 4.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 5000
+  DistMaximaVertical => 20000
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2579
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => -61.250000 73.500000
+  Vertex => -77.000000 59.250000
+  Vertex => -115.250000 53.250000
+  Vertex => -145.250000 56.750000
+  Vertex => -125.500000 91.000000
+  Vertex => -74.250000 96.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2580
+  FloorHeight => 0.000000
+  RoofHeight => 40.000000
+  Vertex => 41.250000 137.500000
+  Vertex => 37.250000 189.500000
+  Vertex => 84.750000 178.000000
+  Vertex => 74.000000 138.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2581
+  FloorHeight => -10.000000
+  RoofHeight => 16.000000
+  Vertex => -15.750000 20.000000
+  Vertex => -15.000000 35.750000
+  Vertex => 11.000000 37.000000
+  Vertex => 11.000000 18.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Water-dripsL.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2583
+  FloorHeight => 0.000000
+  RoofHeight => 30.000000
+  Vertex => -20.000000 132.000000
+  Vertex => -44.250000 132.000000
+  Vertex => -52.000000 213.500000
+  Vertex => -23.250000 216.000000
+  Vertex => -2.250000 141.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/deep-int-wind.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2584
+  FloorHeight => 0.000000
+  RoofHeight => 30.000000
+  Vertex => -157.000000 133.500000
+  Vertex => -157.000000 155.750000
+  Vertex => -56.750000 180.500000
+  Vertex => -49.250000 144.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2585
+  FloorHeight => -10.000000
+  RoofHeight => 30.000000
+  Vertex => 126.500000 152.500000
+  Vertex => 109.000000 147.500000
+  Vertex => 101.000000 156.500000
+  Vertex => 100.500000 171.500000
+  Vertex => 120.500000 180.000000
+  Vertex => 132.000000 171.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lago-acido-atmos3.wav
+  Volumen => 0.8
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2586
+  FloorHeight => -2.000000
+  RoofHeight => 10.000000
+  Vertex => 161.000000 144.500000
+  Vertex => 163.500000 151.000000
+  Vertex => 173.500000 156.500000
+  Vertex => 176.500000 148.000000
+  Vertex => 170.500000 143.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lago-acido-atmos3.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2587
+  FloorHeight => -50.000000
+  RoofHeight => 20.000000
+  Vertex => 119.000000 -41.500000
+  Vertex => 112.500000 -14.500000
+  Vertex => 140.500000 -4.000000
+  Vertex => 159.500000 -34.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/highalt-wind2.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2588
+  FloorHeight => -27.000000
+  RoofHeight => -15.000000
+  Vertex => 168.000000 -0.500000
+  Vertex => 166.500000 6.000000
+  Vertex => 175.500000 8.500000
+  Vertex => 176.080019 1.077568
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

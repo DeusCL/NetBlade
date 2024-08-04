@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => ascensor
+  FloorHeight => -25.000000
+  RoofHeight => -14.000000
+  Vertex => 338.008333 134.111667
+  Vertex => 338.008333 136.361667
+  Vertex => 339.758333 138.111667
+  Vertex => 341.508333 138.111667
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

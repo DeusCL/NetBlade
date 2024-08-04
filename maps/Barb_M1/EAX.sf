@@ -1,0 +1,62 @@
+NumGhostSectors => 3
+
+BeginGhostSector
+  Name => GR1
+  FloorHeight => 29.000000
+  RoofHeight => 38.799999
+  Vertex => -38.000000 -200.750000
+  Vertex => -38.000000 -182.000000
+  Vertex => -20.750000 -183.000000
+  Vertex => -22.500000 -200.250000
+  Grupo => Grupo1 
+  Sonido => EAXMOUNTAINS  
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GR2
+  FloorHeight => 29.000000
+  RoofHeight => 38.799999
+  Vertex => -20.500000 -183.000000
+  Vertex => -37.750000 -182.000000
+  Vertex => -43.250000 -171.500000
+  Vertex => -32.500000 -157.250000
+  Vertex => -24.250000 -150.000000
+  Vertex => 9.500000 -148.500000
+  Vertex => 15.000000 -160.250000
+  Grupo => Grupo1 
+  Sonido => EAXMOUNTAINS  
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GR3
+  FloorHeight => 9.700000
+  RoofHeight => 19.000000
+  Vertex => -78.250000 58.750000
+  Vertex => -82.250000 62.750000
+  Vertex => -90.750000 77.250000
+  Vertex => -84.750000 95.000000
+  Vertex => -60.750000 109.000000
+  Vertex => -49.000000 85.500000
+  Vertex => -69.250000 58.750000
+  Grupo => Grupo1 
+  Sonido => EAXCAVE 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

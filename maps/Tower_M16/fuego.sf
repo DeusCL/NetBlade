@@ -1,0 +1,57 @@
+NumGhostSectors => 3
+
+BeginGhostSector
+  Name => Fuego1
+  FloorHeight => -16.000000
+  RoofHeight => -6.000000
+  Vertex => 58.250000 -68.250000
+  Vertex => 57.750000 -67.750000
+  Vertex => 58.250000 -67.250000
+  Vertex => 58.750000 -67.500000
+  Vertex => 58.750000 -68.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Fuego2
+  FloorHeight => 36.000000
+  RoofHeight => 45.000000
+  Vertex => -15.156250 -8.375000
+  Vertex => -15.156250 -7.375000
+  Vertex => -13.156250 -7.375000
+  Vertex => -13.156250 -8.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Fuego3
+  FloorHeight => 36.000000
+  RoofHeight => 45.000000
+  Vertex => -15.156250 -4.375000
+  Vertex => -15.156250 -3.375000
+  Vertex => -13.156250 -3.375000
+  Vertex => -13.156250 -4.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

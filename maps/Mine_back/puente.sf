@@ -1,0 +1,38 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => 15.000000
+  RoofHeight => 17.000000
+  Vertex => -9.750000 53.750000
+  Vertex => -9.750000 62.000000
+  Vertex => 1.500000 62.000000
+  Vertex => 1.500000 53.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => antes del derrumbamiento
+  FloorHeight => 16.000000
+  RoofHeight => 40.000000
+  Vertex => 4.500000 56.000000
+  Vertex => 4.500000 60.250000
+  Vertex => 6.250000 60.250000
+  Vertex => 6.250000 56.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

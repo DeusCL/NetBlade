@@ -1,0 +1,561 @@
+NumGhostSectors => 31
+
+BeginGhostSector
+  Name => entratorre
+  FloorHeight => 4.200000
+  RoofHeight => 9.000000
+  Vertex => -37.125000 -59.000000
+  Vertex => -40.625000 -59.000000
+  Vertex => -40.625000 -58.000000
+  Vertex => -37.125000 -58.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => salesalatrono
+  FloorHeight => 4.600000
+  RoofHeight => 9.000000
+  Vertex => -36.375000 -16.812500
+  Vertex => -39.875000 -16.812500
+  Vertex => -39.875000 -16.312500
+  Vertex => -36.375000 -16.312500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entraisla
+  FloorHeight => -0.200000
+  RoofHeight => 6.000000
+  Vertex => -100.000000 -41.500000
+  Vertex => -101.250000 -41.500000
+  Vertex => -101.250000 -34.250000
+  Vertex => -100.250000 -34.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrapasoel
+  FloorHeight => 6.250000
+  RoofHeight => 11.000000
+  Vertex => -66.000000 16.000000
+  Vertex => -66.000000 19.000000
+  Vertex => -64.500000 19.000000
+  Vertex => -64.500000 16.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrasegundopiso
+  FloorHeight => 10.750000
+  RoofHeight => 14.000000
+  Vertex => -14.875000 -32.062500
+  Vertex => -15.625000 -32.062500
+  Vertex => -15.625000 -29.562500
+  Vertex => -14.875000 -29.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => salesegundopiso
+  FloorHeight => 16.500000
+  RoofHeight => 20.500000
+  Vertex => -14.625000 -32.062500
+  Vertex => -14.875000 -32.062500
+  Vertex => -14.875000 -29.562500
+  Vertex => -14.625000 -29.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => centrozonaminorx
+  FloorHeight => 11.000000
+  RoofHeight => 22.000000
+  Vertex => -35.375000 -34.062500
+  Vertex => -40.875000 -34.062500
+  Vertex => -40.875000 -27.562500
+  Vertex => -35.375000 -27.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entratorreoscura
+  FloorHeight => 22.500000
+  RoofHeight => 27.000000
+  Vertex => -16.125000 -32.812500
+  Vertex => -18.125000 -32.812500
+  Vertex => -18.125000 -28.812500
+  Vertex => -16.125000 -28.812500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrademonio
+  FloorHeight => 48.000000
+  RoofHeight => 52.000000
+  Vertex => -47.375000 -34.312500
+  Vertex => -51.375000 -34.312500
+  Vertex => -51.375000 -33.562500
+  Vertex => -47.375000 -33.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => saledemonio
+  FloorHeight => 48.250000
+  RoofHeight => 52.000000
+  Vertex => -30.625000 -35.562500
+  Vertex => -30.625000 -35.062500
+  Vertex => -26.625000 -35.062500
+  Vertex => -26.625000 -35.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => saledeposito
+  FloorHeight => -1.500000
+  RoofHeight => 4.000000
+  Vertex => -47.000000 34.625000
+  Vertex => -50.750000 34.625000
+  Vertex => -50.750000 37.375000
+  Vertex => -47.000000 37.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entraenmazmorra
+  FloorHeight => -1.300000
+  RoofHeight => 5.500000
+  Vertex => -17.875000 22.750000
+  Vertex => -17.875000 20.000000
+  Vertex => -23.375000 20.000000
+  Vertex => -23.375000 22.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrasombra
+  FloorHeight => 22.500000
+  RoofHeight => 27.000000
+  Vertex => -24.625000 -26.562500
+  Vertex => -24.625000 -35.062500
+  Vertex => -26.375000 -35.062500
+  Vertex => -26.375000 -26.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => salezonaoscura1
+  FloorHeight => 37.000000
+  RoofHeight => 42.000000
+  Vertex => -31.375000 -36.062500
+  Vertex => -23.375000 -36.062500
+  Vertex => -23.375000 -38.062500
+  Vertex => -31.375000 -38.062500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => salezonaoscura2
+  FloorHeight => 36.500000
+  RoofHeight => 40.500000
+  Vertex => -44.875000 -34.062500
+  Vertex => -42.375000 -34.062500
+  Vertex => -42.375000 -35.562500
+  Vertex => -44.875000 -35.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrazonaskl1
+  FloorHeight => 41.500000
+  RoofHeight => 47.000000
+  Vertex => -44.875000 -21.812500
+  Vertex => -46.125000 -21.812500
+  Vertex => -46.125000 -18.562500
+  Vertex => -44.875000 -18.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrazonaskl2
+  FloorHeight => 41.500000
+  RoofHeight => 47.000000
+  Vertex => -40.625000 -39.562500
+  Vertex => -40.625000 -35.812500
+  Vertex => -34.375000 -35.812500
+  Vertex => -34.375000 -39.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrabanios
+  FloorHeight => -7.250000
+  RoofHeight => 3.400000
+  Vertex => -40.625000 15.812500
+  Vertex => -32.125000 15.812500
+  Vertex => -32.125000 11.312500
+  Vertex => -40.625000 11.312500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entramazmext
+  FloorHeight => -2.800000
+  RoofHeight => 2.000000
+  Vertex => 11.750000 1.687500
+  Vertex => 8.750000 1.687500
+  Vertex => 8.750000 23.437500
+  Vertex => 11.750000 23.437500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => antesdeldeposito
+  FloorHeight => -9.100000
+  RoofHeight => -5.500000
+  Vertex => -23.875000 54.375000
+  Vertex => -26.625000 54.375000
+  Vertex => -26.625000 57.250000
+  Vertex => -23.875000 57.187500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrarmadura
+  FloorHeight => 4.100000
+  RoofHeight => 10.500000
+  Vertex => 5.375000 26.187500
+  Vertex => -0.875000 26.187500
+  Vertex => 1.375000 29.187500
+  Vertex => 3.125000 29.187500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrasecreto
+  FloorHeight => -12.800000
+  RoofHeight => -8.000000
+  Vertex => -12.375000 40.937500
+  Vertex => -6.875000 40.937500
+  Vertex => -6.875000 38.937500
+  Vertex => -12.375000 38.937500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrazonaoscura2
+  FloorHeight => 35.099998
+  RoofHeight => 39.099998
+  Vertex => -42.125000 -38.312500
+  Vertex => -42.125000 -35.812500
+  Vertex => -40.625000 -35.812500
+  Vertex => -40.625000 -38.312500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrazonaoscura3
+  FloorHeight => 36.250000
+  RoofHeight => 41.000000
+  Vertex => -23.375000 -34.062500
+  Vertex => -29.875000 -34.062500
+  Vertex => -29.875000 -33.062500
+  Vertex => -23.375000 -33.062500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entratablilla
+  FloorHeight => -8.300000
+  RoofHeight => -4.500000
+  Vertex => -7.250000 1.937500
+  Vertex => -8.000000 1.937500
+  Vertex => -8.000000 5.937500
+  Vertex => -7.250000 5.937500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entratablilla2
+  FloorHeight => -19.000000
+  RoofHeight => -12.000000
+  Vertex => -36.750000 -11.562500
+  Vertex => -39.750000 -11.562500
+  Vertex => -39.750000 -10.562500
+  Vertex => -36.750000 -10.562500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => saletablilla
+  FloorHeight => -7.300000
+  RoofHeight => -4.500000
+  Vertex => -1.250000 8.437500
+  Vertex => -5.750000 8.437500
+  Vertex => -4.000000 10.437500
+  Vertex => -1.250000 10.437500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entradungeon
+  FloorHeight => -2.500000
+  RoofHeight => 3.000000
+  Vertex => -20.125000 -8.062500
+  Vertex => -20.125000 -7.562500
+  Vertex => -17.625000 -7.562500
+  Vertex => -17.625000 -8.062500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => pasalmural
+  FloorHeight => 55.250000
+  RoofHeight => 62.000000
+  Vertex => -24.375000 -37.562500
+  Vertex => -30.875000 -37.562500
+  Vertex => -30.875000 -36.062500
+  Vertex => -27.625000 -32.812500
+  Vertex => -24.375000 -36.062500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entrasalachimenea
+  FloorHeight => 4.700000
+  RoofHeight => 16.000000
+  Vertex => -15.375000 3.312500
+  Vertex => -15.375000 23.312500
+  Vertex => -4.500000 23.250000
+  Vertex => -4.375000 3.312500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => primerapuerta
+  FloorHeight => -4.000000
+  RoofHeight => 2.000000
+  Vertex => -144.500000 -36.500000
+  Vertex => -143.750000 -36.500000
+  Vertex => -143.750000 -40.000000
+  Vertex => -144.500000 -40.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

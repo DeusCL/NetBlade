@@ -1,0 +1,210 @@
+NumGhostSectors => 11
+
+BeginGhostSector
+  Name => GLucero13
+  FloorHeight => -344.000000
+  RoofHeight => -300.000000
+  Vertex => 910.750000 -190.000000
+  Vertex => 913.500000 -173.250000
+  Vertex => 964.375000 -173.250000
+  Vertex => 953.500000 -201.375000
+  Vertex => 913.500000 -201.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero12
+  FloorHeight => -344.000000
+  RoofHeight => -300.000000
+  Vertex => 913.500000 -167.250000
+  Vertex => 908.250000 -145.875000
+  Vertex => 920.625000 -135.000000
+  Vertex => 964.375000 -141.875000
+  Vertex => 965.000000 -167.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero11
+  FloorHeight => -344.000000
+  RoofHeight => -300.000000
+  Vertex => 905.500000 -163.250000
+  Vertex => 905.500000 -177.250000
+  Vertex => 888.500000 -177.000000
+  Vertex => 888.500000 -163.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero10
+  FloorHeight => -344.000000
+  RoofHeight => -300.000000
+  Vertex => 882.000000 -177.000000
+  Vertex => 865.500000 -177.000000
+  Vertex => 865.625000 -163.500000
+  Vertex => 882.000000 -163.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero8
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 843.750000 -170.625000
+  Vertex => 860.875000 -187.125000
+  Vertex => 860.750000 -205.750000
+  Vertex => 839.625000 -205.750000
+  Vertex => 839.625000 -170.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero9
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 843.375000 -168.250000
+  Vertex => 839.500000 -168.375000
+  Vertex => 839.625000 -136.875000
+  Vertex => 860.875000 -137.500000
+  Vertex => 860.750000 -154.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero5
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 833.000000 -186.250000
+  Vertex => 821.000000 -186.250000
+  Vertex => 821.000000 -154.250000
+  Vertex => 833.000000 -154.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero7
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 803.750000 -204.875000
+  Vertex => 805.625000 -200.875000
+  Vertex => 808.625000 -197.625000
+  Vertex => 813.750000 -194.500000
+  Vertex => 817.875000 -193.250000
+  Vertex => 833.000000 -193.375000
+  Vertex => 833.000000 -205.625000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero6
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 817.500000 -147.875000
+  Vertex => 811.125000 -146.500000
+  Vertex => 807.250000 -143.500000
+  Vertex => 804.250000 -140.000000
+  Vertex => 803.375000 -137.125000
+  Vertex => 833.000000 -137.125000
+  Vertex => 833.000000 -147.875000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero3
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 817.000000 -150.375000
+  Vertex => 816.875000 -166.250000
+  Vertex => 794.750000 -166.250000
+  Vertex => 780.625000 -152.125000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => GLucero4
+  FloorHeight => -340.000000
+  RoofHeight => -300.000000
+  Vertex => 816.750000 -174.500000
+  Vertex => 816.750000 -190.375000
+  Vertex => 780.750000 -189.625000
+  Vertex => 794.750000 -174.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

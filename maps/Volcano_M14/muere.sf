@@ -1,0 +1,19 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => muere
+  FloorHeight => -12.000000
+  RoofHeight => -1.000000
+  Vertex => -11.000000 121.000000
+  Vertex => -11.500000 159.500000
+  Vertex => 22.500000 160.000000
+  Vertex => 23.000000 121.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/lava-flow.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

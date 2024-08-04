@@ -1,0 +1,57 @@
+NumGhostSectors => 3
+
+BeginGhostSector
+  Name => EXTSF2
+  FloorHeight => 53.000000
+  RoofHeight => 70.000000
+  Vertex => 84.750000 -126.250000
+  Vertex => 88.250000 -119.875000
+  Vertex => 95.500000 -123.000000
+  Vertex => 92.000000 -128.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => EXTSF3
+  FloorHeight => 53.000000
+  RoofHeight => 70.000000
+  Vertex => 109.500000 -128.000000
+  Vertex => 108.250000 -123.000000
+  Vertex => 117.500000 -120.250000
+  Vertex => 117.500000 -130.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => EXTSF4
+  FloorHeight => 51.200001
+  RoofHeight => 65.000000
+  Vertex => 55.500000 -120.750000
+  Vertex => 55.000000 -110.750000
+  Vertex => 64.750000 -104.750000
+  Vertex => 78.250000 -109.250000
+  Vertex => 72.500000 -124.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

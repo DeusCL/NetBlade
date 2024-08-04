@@ -1,0 +1,214 @@
+NumGhostSectors => 10
+
+BeginGhostSector
+  Name => KASHGARC
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -57.000000 18.750000
+  Vertex => -57.750000 18.500000
+  Vertex => -58.500000 19.250000
+  Vertex => -58.250000 20.250000
+  Vertex => -57.250000 20.250000
+  Vertex => -56.750000 19.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => KASHGARF
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -18.750000 44.500000
+  Vertex => -9.750000 3.500000
+  Vertex => -32.250000 -25.000000
+  Vertex => -66.750000 -26.000000
+  Vertex => -101.750000 -1.750000
+  Vertex => -94.750000 44.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+##################################################
+
+
+BeginGhostSector
+  Name => TELL-HALLAFC
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -77.750000 0.750000
+  Vertex => -79.000000 0.750000
+  Vertex => -79.750000 1.750000
+  Vertex => -78.750000 3.250000
+  Vertex => -77.250000 2.750000
+  Vertex => -77.000000 1.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TELL-HALLAFF
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -86.500000 20.500000
+  Vertex => -65.500000 16.000000
+  Vertex => -59.000000 -3.250000
+  Vertex => -73.750000 -18.750000
+  Vertex => -89.750000 -13.750000
+  Vertex => -98.000000 4.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+
+#####################################################3
+
+
+BeginGhostSector
+  Name => KELBEGENC
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -88.750000 -3.000000
+  Vertex => -90.500000 -4.250000
+  Vertex => -92.500000 -2.500000
+  Vertex => -92.000000 -0.250000
+  Vertex => -88.750000 -0.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => KELBEGENF
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -87.250000 -22.250000
+  Vertex => -107.500000 -17.000000
+  Vertex => -116.000000 2.000000
+  Vertex => -103.250000 21.000000
+  Vertex => -85.500000 17.250000
+  Vertex => -75.250000 3.250000
+  Vertex => -77.000000 -13.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+
+###############################################################3
+
+BeginGhostSector
+  Name => EFIRAC
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -67.750000 -15.750000
+  Vertex => -70.500000 -15.750000
+  Vertex => -72.000000 -12.750000
+  Vertex => -70.250000 -10.250000
+  Vertex => -66.000000 -11.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+
+
+BeginGhostSector
+  Name => EFIRAF
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -68.250000 -34.750000
+  Vertex => -85.250000 -28.500000
+  Vertex => -86.750000 -10.750000
+  Vertex => -78.250000 7.000000
+  Vertex => -53.750000 3.000000
+  Vertex => -50.000000 -18.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+##########################################3
+BeginGhostSector
+  Name => KARUMC
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -58.500000 -26.750000
+  Vertex => -61.250000 -25.000000
+  Vertex => -60.500000 -22.000000
+  Vertex => -57.250000 -21.500000
+  Vertex => -55.500000 -24.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+
+BeginGhostSector
+  Name => KARUMF
+  FloorHeight => -16.000000
+  RoofHeight => 16.500000
+  Vertex => -55.750000 -53.500000
+  Vertex => -76.500000 -43.750000
+  Vertex => -83.500000 -21.000000
+  Vertex => -75.250000 -1.500000
+  Vertex => -48.250000 3.250000
+  Vertex => -32.000000 -20.750000
+  Vertex => -37.500000 -42.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector

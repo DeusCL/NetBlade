@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => generador2
+  FloorHeight => -2.250000
+  RoofHeight => 10.000000
+  Vertex => -35.750000 -0.250000
+  Vertex => -35.500000 7.500000
+  Vertex => -11.000000 7.500000
+  Vertex => -11.000000 0.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

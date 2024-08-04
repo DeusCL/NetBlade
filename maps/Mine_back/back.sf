@@ -1,0 +1,41 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => back1
+  FloorHeight => 16.000000
+  RoofHeight => 20.000000
+  Vertex => -21.486235 154.501812
+  Vertex => -9.875000 162.000000
+  Vertex => 2.250000 162.000000
+  Vertex => 5.500000 143.875000
+  Vertex => -1.250000 143.125000
+  Vertex => -13.500000 145.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => back2
+  FloorHeight => 16.000000
+  RoofHeight => 20.000000
+  Vertex => 11.250000 144.250000
+  Vertex => 6.000000 163.375000
+  Vertex => 29.000000 177.625000
+  Vertex => 34.750000 177.375000
+  Vertex => 34.250000 154.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

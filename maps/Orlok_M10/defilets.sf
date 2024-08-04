@@ -1,0 +1,153 @@
+NumGhostSectors => 8
+
+BeginGhostSector
+  Name => Explanada
+  FloorHeight => 32.000000
+  RoofHeight => 38.000000
+  Vertex => 21.500000 -61.000000
+  Vertex => 21.500000 -58.000000
+  Vertex => 23.500000 -56.000000
+  Vertex => 26.500000 -56.000000
+  Vertex => 28.500000 -58.000000
+  Vertex => 28.500000 -61.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => ZonaOrbe
+  FloorHeight => 41.000000
+  RoofHeight => 44.000000
+  Vertex => 28.250000 -61.500000
+  Vertex => 38.500000 -60.250000
+  Vertex => 47.000000 -60.250000
+  Vertex => 47.000000 -73.250000
+  Vertex => 43.750000 -73.250000
+  Vertex => 28.250000 -64.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Final
+  FloorHeight => 32.000000
+  RoofHeight => 40.000000
+  Vertex => 27.750000 -160.750000
+  Vertex => 27.750000 -158.000000
+  Vertex => 38.250000 -158.000000
+  Vertex => 38.250000 -160.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => SalidaFort
+  FloorHeight => 32.000000
+  RoofHeight => 36.000000
+  Vertex => 23.000000 -76.750000
+  Vertex => 27.000000 -76.750000
+  Vertex => 27.000000 -77.750000
+  Vertex => 23.000000 -77.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TrampaPinchos
+  FloorHeight => 26.000000
+  RoofHeight => 27.500000
+  Vertex => -68.250000 -4.375000
+  Vertex => -66.812500 -1.312500
+  Vertex => -63.237159 -3.725373
+  Vertex => -65.375000 -5.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TSGenerador1
+  FloorHeight => 36.000000
+  RoofHeight => 40.000000
+  Vertex => -52.250000 -39.750000
+  Vertex => -52.250000 -52.250000
+  Vertex => -64.500000 -54.000000
+  Vertex => -71.750000 -49.000000
+  Vertex => -65.250000 -39.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TSGenerador2
+  FloorHeight => 36.000000
+  RoofHeight => 40.000000
+  Vertex => -52.250000 -39.750000
+  Vertex => -47.250000 -44.750000
+  Vertex => -47.250000 -54.250000
+  Vertex => -61.750000 -54.250000
+  Vertex => -65.750000 -52.000000
+  Vertex => -61.750000 -39.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TSGenerador3
+  FloorHeight => 36.000000
+  RoofHeight => 40.000000
+  Vertex => -39.750000 -52.000000
+  Vertex => -56.750000 -53.750000
+  Vertex => -55.750000 -39.750000
+  Vertex => -39.750000 -44.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

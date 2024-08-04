@@ -1,0 +1,115 @@
+NumGhostSectors => 6
+
+BeginGhostSector
+  Name => fuego0
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => -23.500000 -21.750000
+  Vertex => -23.500000 -18.750000
+  Vertex => -21.500000 -19.000000
+  Vertex => -20.750000 -20.500000
+  Vertex => -21.750000 -21.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire-curtains.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 25000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego1
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => 14.250000 19.250000
+  Vertex => 11.000000 19.250000
+  Vertex => 11.000000 20.750000
+  Vertex => 12.000000 21.750000
+  Vertex => 13.750000 21.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire-curtains.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 25000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego2
+  FloorHeight => -3.000000
+  RoofHeight => 19.000000
+  Vertex => 110.000000 -6.000000
+  Vertex => 108.250000 -6.000000
+  Vertex => 108.000000 -4.750000
+  Vertex => 108.750000 -4.000000
+  Vertex => 110.250000 -5.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire-curtains.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 2000
+  DistanciaMaxima => 25000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego3
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => -10.250000 -34.500000
+  Vertex => -10.750000 -34.000000
+  Vertex => -10.250000 -33.500000
+  Vertex => -9.750000 -33.750000
+  Vertex => -9.750000 -34.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire-curtains.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego4
+  FloorHeight => -7.000000
+  RoofHeight => -1.000000
+  Vertex => 50.250000 -45.000000
+  Vertex => 49.500000 -45.250000
+  Vertex => 49.000000 -44.500000
+  Vertex => 49.750000 -44.000000
+  Vertex => 50.500000 -44.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire-curtains.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => fuego5
+  FloorHeight => -1.000000
+  RoofHeight => 19.000000
+  Vertex => 27.750000 20.750000
+  Vertex => 26.250000 21.000000
+  Vertex => 26.000000 22.000000
+  Vertex => 27.000000 22.500000
+  Vertex => 28.000000 22.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Fire-curtains.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

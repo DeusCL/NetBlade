@@ -1,0 +1,820 @@
+NumGhostSectors => 43
+
+BeginGhostSector
+  Name => TorreOS
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => -54.500000 9.500000
+  Vertex => -61.000000 9.500000
+  Vertex => -66.500000 15.000000
+  Vertex => -66.500000 22.500000
+  Vertex => -61.000000 28.000000
+  Vertex => -54.500000 28.000000
+  Vertex => -49.000000 22.500000
+  Vertex => -49.000000 15.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreON
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => -54.500000 -9.500000
+  Vertex => -49.000000 -15.000000
+  Vertex => -49.000000 -22.500000
+  Vertex => -54.500000 -28.000000
+  Vertex => -61.000000 -28.000000
+  Vertex => -66.500000 -22.500000
+  Vertex => -66.500000 -15.000000
+  Vertex => -61.000000 -9.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreNO
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => -15.000000 -48.500000
+  Vertex => -9.000000 -54.500000
+  Vertex => -9.000000 -61.500000
+  Vertex => -14.500000 -67.000000
+  Vertex => -23.000000 -67.000000
+  Vertex => -28.500000 -61.500000
+  Vertex => -28.500000 -54.500000
+  Vertex => -22.500000 -48.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreNE
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => 15.000000 -48.500000
+  Vertex => 22.500000 -48.500000
+  Vertex => 28.500000 -54.500000
+  Vertex => 28.500000 -61.500000
+  Vertex => 23.000000 -67.000000
+  Vertex => 14.500000 -67.000000
+  Vertex => 9.000000 -61.500000
+  Vertex => 9.000000 -54.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreEN
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => 49.000000 -15.000000
+  Vertex => 54.500000 -9.500000
+  Vertex => 61.000000 -9.500000
+  Vertex => 66.500000 -15.000000
+  Vertex => 66.500000 -22.500000
+  Vertex => 61.000000 -28.000000
+  Vertex => 54.500000 -28.000000
+  Vertex => 49.000000 -22.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreES
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => 54.500000 9.500000
+  Vertex => 49.000000 15.000000
+  Vertex => 49.000000 22.500000
+  Vertex => 54.500000 28.000000
+  Vertex => 61.000000 28.000000
+  Vertex => 66.500000 22.500000
+  Vertex => 66.500000 15.000000
+  Vertex => 61.000000 9.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreSO
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => -22.500000 48.500000
+  Vertex => -28.500000 54.500000
+  Vertex => -28.500000 61.500000
+  Vertex => -22.500000 67.500000
+  Vertex => -15.000000 67.500000
+  Vertex => -9.000000 61.500000
+  Vertex => -9.000000 54.500000
+  Vertex => -15.000000 48.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreSE
+  FloorHeight => -1.750000
+  RoofHeight => 12.000000
+  Vertex => 15.000000 48.500000
+  Vertex => 9.000000 54.500000
+  Vertex => 9.000000 61.500000
+  Vertex => 15.000000 67.500000
+  Vertex => 22.500000 67.500000
+  Vertex => 28.500000 61.500000
+  Vertex => 28.500000 54.500000
+  Vertex => 22.500000 48.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AlcantarillaS
+  FloorHeight => -6.000000
+  RoofHeight => -3.000000
+  Vertex => -1.000000 51.000000
+  Vertex => 1.000000 51.000000
+  Vertex => 1.000000 50.000000
+  Vertex => -1.000000 50.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AlcantarillaN
+  FloorHeight => -6.000000
+  RoofHeight => -1.000000
+  Vertex => 7.000000 18.500000
+  Vertex => 7.000000 15.500000
+  Vertex => 6.000000 15.500000
+  Vertex => 6.000000 18.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AlcantarillaC
+  FloorHeight => -6.000000
+  RoofHeight => -1.000000
+  Vertex => 2.500000 25.500000
+  Vertex => 1.500000 25.500000
+  Vertex => 1.500000 29.500000
+  Vertex => 2.500000 29.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => ZonaTablilla
+  FloorHeight => -6.000000
+  RoofHeight => -1.000000
+  Vertex => 3.500000 29.500000
+  Vertex => 4.500000 29.500000
+  Vertex => 4.500000 25.500000
+  Vertex => 3.500000 25.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TrampaTablilla
+  FloorHeight => -11.000000
+  RoofHeight => -5.500000
+  Vertex => 25.500000 1.500000
+  Vertex => 25.500000 -3.500000
+  Vertex => 24.500000 -3.500000
+  Vertex => 24.500000 1.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExtPuertaO
+  FloorHeight => 6.000000
+  RoofHeight => 11.000000
+  Vertex => -37.750000 -1.500000
+  Vertex => -38.250000 -2.000000
+  Vertex => -38.250000 2.000000
+  Vertex => -37.750000 1.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloIntPuertaO
+  FloorHeight => 6.000000
+  RoofHeight => 11.000000
+  Vertex => -34.750000 -2.000000
+  Vertex => -35.250000 -1.500000
+  Vertex => -35.250000 1.500000
+  Vertex => -34.750000 2.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloIntPuertaE
+  FloorHeight => 6.000000
+  RoofHeight => 11.000000
+  Vertex => 35.250000 -1.500000
+  Vertex => 34.750000 -2.000000
+  Vertex => 34.750000 2.000000
+  Vertex => 35.250000 1.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExtPuertaE
+  FloorHeight => 6.000000
+  RoofHeight => 11.000000
+  Vertex => 38.250000 -2.000000
+  Vertex => 37.750000 -1.500000
+  Vertex => 37.750000 1.500000
+  Vertex => 38.250000 2.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt2
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => -46.500000 -14.250000
+  Vertex => -52.500000 -8.250000
+  Vertex => -47.000000 -2.750000
+  Vertex => -38.250000 -2.750000
+  Vertex => -38.250000 -14.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt1
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => -47.000000 2.750000
+  Vertex => -52.500000 8.250000
+  Vertex => -46.500000 14.250000
+  Vertex => -38.250000 14.250000
+  Vertex => -38.250000 2.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt3
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => -23.750000 -48.500000
+  Vertex => -26.500000 -51.250000
+  Vertex => -27.500000 -51.250000
+  Vertex => -24.250000 -48.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt4
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => -21.500000 -46.750000
+  Vertex => -16.000000 -46.750000
+  Vertex => -16.000000 -47.500000
+  Vertex => -21.500000 -47.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt5
+  FloorHeight => -3.000000
+  RoofHeight => 8.000000
+  Vertex => -13.750000 -48.500000
+  Vertex => -14.250000 -46.500000
+  Vertex => 14.250000 -46.500000
+  Vertex => 13.750000 -48.500000
+  Vertex => 9.000000 -53.250000
+  Vertex => -9.000000 -53.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt6
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => 16.000000 -46.750000
+  Vertex => 21.500000 -46.750000
+  Vertex => 21.500000 -47.500000
+  Vertex => 16.000000 -47.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt7
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => 23.750000 -48.500000
+  Vertex => 24.250000 -48.000000
+  Vertex => 27.500000 -51.250000
+  Vertex => 26.500000 -51.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt8
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => 38.250000 -2.750000
+  Vertex => 47.000000 -2.750000
+  Vertex => 52.500000 -8.250000
+  Vertex => 46.500000 -14.250000
+  Vertex => 38.250000 -14.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt9
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => 38.250000 2.750000
+  Vertex => 38.250000 14.250000
+  Vertex => 46.500000 14.250000
+  Vertex => 52.500000 8.250000
+  Vertex => 47.000000 2.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt10
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => 21.500000 47.500000
+  Vertex => 21.500000 46.750000
+  Vertex => 16.000000 46.750000
+  Vertex => 16.000000 47.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt11
+  FloorHeight => -2.000000
+  RoofHeight => 7.000000
+  Vertex => -16.000000 47.500000
+  Vertex => -16.000000 46.750000
+  Vertex => -21.500000 46.750000
+  Vertex => -21.500000 47.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloExt12
+  FloorHeight => -3.000000
+  RoofHeight => 7.000000
+  Vertex => -9.000000 61.500000
+  Vertex => 9.000000 61.500000
+  Vertex => 9.000000 48.500000
+  Vertex => -9.000000 48.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloInt1
+  FloorHeight => 8.000000
+  RoofHeight => 12.000000
+  Vertex => -22.750000 5.250000
+  Vertex => -19.500000 2.000000
+  Vertex => -19.500000 -2.000000
+  Vertex => -24.000000 -2.000000
+  Vertex => -24.000000 4.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloInt2
+  FloorHeight => 0.000000
+  RoofHeight => 9.000000
+  Vertex => -5.250000 -28.750000
+  Vertex => -5.250000 -27.000000
+  Vertex => 5.250000 -27.000000
+  Vertex => 5.250000 -28.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => AnilloInt3
+  FloorHeight => 8.000000
+  RoofHeight => 12.000000
+  Vertex => 19.500000 2.000000
+  Vertex => 22.750000 5.250000
+  Vertex => 24.000000 4.000000
+  Vertex => 24.000000 -2.000000
+  Vertex => 19.500000 -2.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Silencio1
+  FloorHeight => 0.000000
+  RoofHeight => 6.000000
+  Vertex => -1.750000 -25.500000
+  Vertex => -1.750000 -24.125000
+  Vertex => 1.750000 -24.125000
+  Vertex => 1.750000 -25.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => EncuentraLlave
+  FloorHeight => 11.000000
+  RoofHeight => 15.000000
+  Vertex => -5.254464 -22.756288
+  Vertex => -2.000000 -19.500000
+  Vertex => 2.000000 -19.500000
+  Vertex => 5.260182 -22.749028
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreCentral1
+  FloorHeight => 1.000000
+  RoofHeight => 7.000000
+  Vertex => -6.500000 -19.500000
+  Vertex => -6.500000 -18.500000
+  Vertex => 6.500000 -18.500000
+  Vertex => 6.500000 -19.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreCentral2
+  FloorHeight => 8.000000
+  RoofHeight => 13.000000
+  Vertex => 18.250000 3.250000
+  Vertex => 17.750000 3.250000
+  Vertex => 17.750000 7.250000
+  Vertex => 19.750000 7.250000
+  Vertex => 21.000000 6.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreCentral3
+  FloorHeight => 8.000000
+  RoofHeight => 13.000000
+  Vertex => -21.000000 6.000000
+  Vertex => -19.750000 7.250000
+  Vertex => -17.750000 7.250000
+  Vertex => -17.750000 3.250000
+  Vertex => -18.250000 3.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => TorreCentral4
+  FloorHeight => 1.000000
+  RoofHeight => 5.000000
+  Vertex => 7.000000 14.500000
+  Vertex => 9.500000 14.500000
+  Vertex => 10.000000 14.000000
+  Vertex => 6.500000 14.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => ExteriorAzotea
+  FloorHeight => 28.000000
+  RoofHeight => 33.000000
+  Vertex => -1.000000 -17.000000
+  Vertex => -10.000000 -8.000000
+  Vertex => -5.000000 -3.000000
+  Vertex => 5.000000 -3.000000
+  Vertex => 10.000000 -8.000000
+  Vertex => 1.000000 -17.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => PuertaAzotea
+  FloorHeight => 25.700001
+  RoofHeight => 30.200001
+  Vertex => -1.250000 0.250000
+  Vertex => -1.250000 1.000000
+  Vertex => 1.250000 1.000000
+  Vertex => 1.250000 0.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => Susto
+  FloorHeight => 7.000000
+  RoofHeight => 10.500000
+  Vertex => 7.750000 -61.000000
+  Vertex => 7.750000 -59.000000
+  Vertex => 8.875000 -59.000000
+  Vertex => 8.875000 -61.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => SalaTrono
+  FloorHeight => 6.250000
+  RoofHeight => 10.000000
+  Vertex => 5.500000 2.000000
+  Vertex => 4.500000 2.000000
+  Vertex => 4.500000 5.500000
+  Vertex => 5.500000 5.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => DesactivaSusto
+  FloorHeight => 4.500000
+  RoofHeight => 8.000000
+  Vertex => 17.500000 -63.000000
+  Vertex => 17.500000 -67.500000
+  Vertex => 16.000000 -67.500000
+  Vertex => 16.000000 -63.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

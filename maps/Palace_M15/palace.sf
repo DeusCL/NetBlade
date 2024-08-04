@@ -1,0 +1,1447 @@
+NumGhostSectors => 80
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -31.479725 10.922134
+  Vertex => -31.690261 29.790282
+  Vertex => -16.717245 29.744251
+  Vertex => -16.853490 10.945723
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 50
+EndGhostSector
+
+BeginGhostSector
+  Name => 2363
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -20.922387 46.546831
+  Vertex => -26.885021 46.193326
+  Vertex => -28.492901 63.455415
+  Vertex => -19.493633 63.452769
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2364
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -29.175429 42.326768
+  Vertex => -78.967752 37.217809
+  Vertex => -81.546540 70.054173
+  Vertex => -28.312757 67.017742
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 1001
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2365
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -12.065781 -7.983658
+  Vertex => -34.507946 -7.879384
+  Vertex => -33.713237 5.801568
+  Vertex => -13.720115 5.801568
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 50
+EndGhostSector
+
+BeginGhostSector
+  Name => 2366
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -16.311027 66.324062
+  Vertex => -9.701137 63.472414
+  Vertex => -9.608159 62.734861
+  Vertex => -17.838999 49.211175
+  Vertex => -19.646192 49.236150
+  Vertex => -19.781723 64.212840
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 6000
+  DistMaximaVertical => 20000
+  Escala => 20
+EndGhostSector
+
+BeginGhostSector
+  Name => 2367
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -29.748594 -29.601829
+  Vertex => -29.916176 -18.851829
+  Vertex => -19.003137 -18.796918
+  Vertex => -19.064896 -29.646918
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 8000
+  DistMaximaVertical => 20000
+  Escala => 20
+EndGhostSector
+
+BeginGhostSector
+  Name => 2368
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -8.045304 42.990858
+  Vertex => -15.655693 44.010339
+  Vertex => -17.969297 48.873717
+  Vertex => -9.615644 63.295028
+  Vertex => -0.987014 59.077645
+  Vertex => 1.343343 57.195919
+  Vertex => 1.692423 54.893073
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 1001
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2369
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -18.403355 -59.907025
+  Vertex => -35.484074 -59.883983
+  Vertex => -35.484074 -35.633983
+  Vertex => -18.350471 -35.474333
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2370
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 4.487199 59.741786
+  Vertex => -20.500363 70.981932
+  Vertex => -20.426492 74.179938
+  Vertex => 5.638704 62.212150
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-drips.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2371
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 4.956676 -61.875101
+  Vertex => -13.821102 -61.986213
+  Vertex => -14.043324 -39.986213
+  Vertex => 4.734453 -39.986213
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2372
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 40.299604 -57.449291
+  Vertex => 9.141085 -57.800484
+  Vertex => 9.149604 -40.857624
+  Vertex => 40.066271 -40.865958
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 6000
+  DistMaximaVertical => 20000
+  Escala => 20
+EndGhostSector
+
+BeginGhostSector
+  Name => 2373
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 62.430160 -59.549291
+  Vertex => 43.930160 -59.924291
+  Vertex => 43.680160 -39.049291
+  Vertex => 62.805160 -39.049291
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 50
+EndGhostSector
+
+BeginGhostSector
+  Name => 2374
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 81.292961 -58.871864
+  Vertex => 75.692961 -58.871864
+  Vertex => 75.692961 -39.771864
+  Vertex => 81.392961 -39.771864
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 6000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2375
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 82.778814 -104.820016
+  Vertex => 56.607386 -105.177159
+  Vertex => 56.707386 -65.205731
+  Vertex => 82.578814 -65.062873
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2376
+  FloorHeight => -20.000000
+  RoofHeight => -3.000000
+  Vertex => -17.271856 -110.278824
+  Vertex => -31.938523 -110.389935
+  Vertex => -31.938523 -85.278824
+  Vertex => -17.494078 -85.389935
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist1.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 0
+  Escala => 20
+EndGhostSector
+
+BeginGhostSector
+  Name => 2377
+  FloorHeight => -3.000000
+  RoofHeight => 30.000000
+  Vertex => -8.419596 -107.264277
+  Vertex => -12.931495 -82.260714
+  Vertex => 39.401839 -82.260714
+  Vertex => 38.997071 -107.097611
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 7000
+  DistMaximaVertical => 0
+  Escala => 2
+EndGhostSector
+
+BeginGhostSector
+  Name => 2378
+  FloorHeight => -3.000000
+  RoofHeight => 30.000000
+  Vertex => 20.996104 -95.435715
+  Vertex => -41.027706 -87.983334
+  Vertex => -41.432467 -66.554762
+  Vertex => 21.281818 -67.697619
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 12000
+  DistMaximaVertical => 0
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2379
+  FloorHeight => -3.000000
+  RoofHeight => 30.000000
+  Vertex => -15.433471 -116.649278
+  Vertex => -34.019330 -116.725325
+  Vertex => -33.986142 -98.896609
+  Vertex => -15.590758 -99.439611
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2380
+  FloorHeight => -3.000000
+  RoofHeight => 30.000000
+  Vertex => -14.800000 -138.502381
+  Vertex => -33.243002 -138.792713
+  Vertex => -33.385860 -122.578427
+  Vertex => -14.942857 -122.645238
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2381
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -14.784394 -150.945094
+  Vertex => -32.984394 -151.345094
+  Vertex => -33.384394 -140.945094
+  Vertex => -14.584394 -140.745094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2382
+  FloorHeight => -6.000000
+  RoofHeight => 30.000000
+  Vertex => -7.843032 -181.961032
+  Vertex => -7.054441 -154.899105
+  Vertex => 53.430873 -154.844559
+  Vertex => 53.619185 -181.652351
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 8000
+  DistMaximaVertical => 0
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2383
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -65.025420 -196.050452
+  Vertex => -85.445932 -195.978660
+  Vertex => -85.461317 -151.794045
+  Vertex => -64.645932 -151.809430
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 16000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 2384
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -14.000000 -184.000000
+  Vertex => -47.750000 -184.000000
+  Vertex => -47.213532 -166.006745
+  Vertex => -14.000000 -165.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 14000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2385
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 26.414605 -204.573179
+  Vertex => -0.949031 -204.601151
+  Vertex => -0.823157 -192.894857
+  Vertex => 26.624395 -192.824927
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 6000
+  DistMaximaVertical => 20000
+  Escala => 10
+EndGhostSector
+
+BeginGhostSector
+  Name => 2386
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -6.676340 -205.978116
+  Vertex => -19.750000 -206.000000
+  Vertex => -19.504011 -191.926471
+  Vertex => -6.689468 -191.963964
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 8000
+  DistMaximaVertical => 20000
+  Escala => 20
+EndGhostSector
+
+BeginGhostSector
+  Name => 2387
+  FloorHeight => -20.000000
+  RoofHeight => -5.000000
+  Vertex => 13.323010 -226.644939
+  Vertex => -37.271417 -226.997881
+  Vertex => -39.314761 -201.579924
+  Vertex => 13.675951 -206.762586
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-drips.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 6000
+  DistMaximaVertical => 0
+  Escala => 3
+EndGhostSector
+
+BeginGhostSector
+  Name => 2388
+  FloorHeight => -4.000000
+  RoofHeight => 30.000000
+  Vertex => -22.576990 -223.674351
+  Vertex => -31.788755 -223.656704
+  Vertex => -31.147578 -207.586116
+  Vertex => -21.382872 -207.703763
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 8000
+  DistMaximaVertical => 0
+  Escala => 20
+EndGhostSector
+
+BeginGhostSector
+  Name => 2389
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -2.752432 -225.600822
+  Vertex => -20.250000 -225.500000
+  Vertex => -20.046550 -207.953763
+  Vertex => -2.281844 -207.953763
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2390
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -50.633607 -75.559591
+  Vertex => -69.155346 -75.646547
+  Vertex => -69.155346 -64.776982
+  Vertex => -50.894476 -64.863939
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2391
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 69.707090 -280.866039
+  Vertex => -13.182521 -282.784871
+  Vertex => -10.404112 -231.182598
+  Vertex => 58.416791 -229.299774
+  Grupo => Grupo1
+  Sonido => ../../Sounds/underground-water-tunnel.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 50
+EndGhostSector
+
+BeginGhostSector
+  Name => 2392
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -11.353072 -239.649659
+  Vertex => -11.261590 -255.231927
+  Vertex => -31.160940 -255.045239
+  Vertex => -30.096101 -239.456669
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.08
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 15000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 2393
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 62.168492 -147.492848
+  Vertex => 36.060606 -148.209557
+  Vertex => 36.303030 -111.648951
+  Vertex => 62.168492 -111.326181
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2394
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 93.722257 -152.735356
+  Vertex => 67.000000 -152.900000
+  Vertex => 66.648485 -114.870163
+  Vertex => 94.166667 -114.670163
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2395
+  FloorHeight => -20.000000
+  RoofHeight => -6.000000
+  Vertex => 30.151804 -178.284446
+  Vertex => 20.916510 -178.284446
+  Vertex => 20.916510 -170.813858
+  Vertex => 30.034157 -170.813858
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2396
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 15.139528 -225.009401
+  Vertex => 1.957710 -225.191219
+  Vertex => 2.139528 -208.100310
+  Vertex => 14.503164 -208.282128
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2397
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -20.339792 -239.314186
+  Vertex => -39.576634 -239.319449
+  Vertex => -39.945055 -227.845765
+  Vertex => -22.418739 -227.982607
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 0
+  DistanciaMaxima => 1
+  DistMaximaVertical => 0
+  Escala => 2.0
+EndGhostSector
+
+BeginGhostSector
+  Name => 2398
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => -39.665523 -241.267987
+  Vertex => -51.765523 -240.267987
+  Vertex => -50.665523 -213.267987
+  Vertex => -39.865523 -213.167987
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.08
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 1
+EndGhostSector
+
+BeginGhostSector
+  Name => 2399
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 108.292017 -224.249733
+  Vertex => 77.092017 -225.049733
+  Vertex => 79.492017 -204.249733
+  Vertex => 108.092017 -203.849733
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2400
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 70.292017 -221.649733
+  Vertex => 52.092017 -221.449733
+  Vertex => 51.692017 -212.649733
+  Vertex => 71.092017 -212.249733
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2401
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 114.092017 -189.011572
+  Vertex => 74.092017 -189.011572
+  Vertex => 74.492017 -161.611572
+  Vertex => 114.092017 -161.611572
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2402
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 104.292017 -244.849733
+  Vertex => 73.892017 -246.849733
+  Vertex => 74.692017 -237.449733
+  Vertex => 104.492017 -235.049733
+  Grupo => Grupo1
+  Sonido => ../../Sounds/catacomb-wind.wav
+  Volumen => 0.08
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 10000
+  DistMaximaVertical => 20000
+  Escala => 40
+EndGhostSector
+
+BeginGhostSector
+  Name => 2403
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 23.634426 -132.541475
+  Vertex => -7.000000 -132.500000
+  Vertex => -7.000000 -126.000000
+  Vertex => 24.000000 -126.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2404
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 17.413534 54.694192
+  Vertex => 5.496867 52.194192
+  Vertex => 3.300520 57.264968
+  Vertex => 5.859881 62.762685
+  Vertex => 10.996867 65.194192
+  Grupo => Grupo1
+  Sonido => ../../Sounds/water-drips.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 3000
+  DistMaximaVertical => 20000
+  Escala => 66
+EndGhostSector
+
+BeginGhostSector
+  Name => 2405
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => -17.671574 -28.578427
+  Vertex => -18.215873 -11.029167
+  Vertex => -14.771429 -11.140278
+  Vertex => -15.421574 -28.578427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2406
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => -35.671574 -34.828427
+  Vertex => -35.671574 -12.078427
+  Vertex => -30.326984 -12.140278
+  Vertex => -30.549206 -35.029167
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2407
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => -31.671574 31.171573
+  Vertex => -32.077112 38.083650
+  Vertex => -16.743779 38.083650
+  Vertex => -16.671574 31.171573
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.25
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2408
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => -74.460010 45.254475
+  Vertex => -74.626677 66.587809
+  Vertex => -22.293344 68.087809
+  Vertex => -33.460010 45.087809
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2409
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => -27.460010 59.087809
+  Vertex => -24.460010 65.754475
+  Vertex => 4.539990 51.587809
+  Vertex => -2.293344 41.087809
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2410
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => -25.293344 70.587809
+  Vertex => -22.293344 75.087809
+  Vertex => 12.048635 60.569555
+  Vertex => 8.742807 54.663286
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2411
+  FloorHeight => -30.000000
+  RoofHeight => 20.000000
+  Vertex => 5.524927 57.818875
+  Vertex => 8.181559 62.924491
+  Vertex => 13.706656 59.587809
+  Vertex => 11.310273 54.845280
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2412
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -31.126677 39.087809
+  Vertex => -31.460010 43.254475
+  Vertex => -17.626677 43.421142
+  Vertex => -17.793344 39.087809
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2413
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -20.671574 -55.328427
+  Vertex => -20.921574 -39.328427
+  Vertex => -16.171574 -39.328427
+  Vertex => -16.171574 -56.078427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2414
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -33.671574 6.171573
+  Vertex => -33.671574 10.171573
+  Vertex => -14.671574 10.171573
+  Vertex => -14.671574 6.171573
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2415
+  FloorHeight => -30.000000
+  RoofHeight => 10.000000
+  Vertex => -30.960010 -82.500000
+  Vertex => -31.126677 -58.500000
+  Vertex => -18.626677 -58.333333
+  Vertex => -19.126677 -83.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2416
+  FloorHeight => -30.000000
+  RoofHeight => 0.000000
+  Vertex => -30.921574 -109.828427
+  Vertex => -30.921574 -87.828427
+  Vertex => -18.460010 -87.666667
+  Vertex => -18.460010 -110.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2417
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -85.809437 -75.383879
+  Vertex => -86.142771 -66.050546
+  Vertex => -77.309437 -65.383879
+  Vertex => -76.809437 -75.217212
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2418
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -75.500000 -76.000000
+  Vertex => -76.309437 -65.550546
+  Vertex => -71.000000 -65.000000
+  Vertex => -70.000000 -75.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2419
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -65.500000 -72.500000
+  Vertex => -65.500000 -68.000000
+  Vertex => -56.000000 -68.500000
+  Vertex => -55.500000 -72.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2420
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -50.500000 -68.250000
+  Vertex => -50.642771 -65.550546
+  Vertex => -38.476104 -65.050546
+  Vertex => -38.309437 -68.883879
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2421
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -39.171574 -78.828427
+  Vertex => -39.171574 -69.578427
+  Vertex => -15.671574 -68.578427
+  Vertex => -16.171574 -79.328427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2422
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => 25.578426 -77.828427
+  Vertex => 25.578426 -71.078427
+  Vertex => 33.828426 -71.078427
+  Vertex => 33.857229 -78.717212
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2423
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -33.671574 -122.578427
+  Vertex => -33.671574 -118.078427
+  Vertex => -14.671574 -118.078427
+  Vertex => -14.671574 -122.578427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2424
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -63.642771 -184.050546
+  Vertex => -63.642771 -166.717212
+  Vertex => -49.809437 -166.717212
+  Vertex => -49.750000 -184.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2425
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -99.921574 -181.578424
+  Vertex => -99.921574 -168.328424
+  Vertex => -87.421574 -168.328424
+  Vertex => -87.642771 -182.383879
+  Grupo => Grupo1
+  Sonido => ../../Sounds/whistlingwind-thruconduit.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2426
+  FloorHeight => 0.000000
+  RoofHeight => 20.000000
+  Vertex => -33.671574 -98.078427
+  Vertex => -33.804907 -80.878427
+  Vertex => -16.471574 -80.711761
+  Vertex => -16.304907 -98.211761
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2427
+  FloorHeight => -10.000000
+  RoofHeight => 20.000000
+  Vertex => -31.804907 -135.211761
+  Vertex => -32.471574 -122.378427
+  Vertex => -13.804907 -122.211761
+  Vertex => -13.804907 -135.545094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2428
+  FloorHeight => -3.000000
+  RoofHeight => 30.000000
+  Vertex => -47.022180 -164.443880
+  Vertex => -47.138240 -154.711761
+  Vertex => -13.471574 -153.211761
+  Vertex => -14.000000 -163.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2429
+  FloorHeight => 0.000000
+  RoofHeight => 10.000000
+  Vertex => 25.000000 -143.250000
+  Vertex => 25.000000 -116.500000
+  Vertex => 34.695093 -115.545094
+  Vertex => 34.361760 -143.878427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2430
+  FloorHeight => 0.000000
+  RoofHeight => 20.000000
+  Vertex => -12.671574 -137.078427
+  Vertex => -13.138240 -121.878427
+  Vertex => -7.971574 -122.045094
+  Vertex => -8.304907 -137.878427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2431
+  FloorHeight => -20.000000
+  RoofHeight => 30.000000
+  Vertex => 62.695093 -146.878427
+  Vertex => 62.361760 -114.545094
+  Vertex => 65.528426 -114.545094
+  Vertex => 65.861760 -147.211761
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.15
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2432
+  FloorHeight => -5.000000
+  RoofHeight => 20.000000
+  Vertex => -13.250000 -181.500000
+  Vertex => -13.138240 -166.045094
+  Vertex => -8.250000 -165.500000
+  Vertex => -9.000000 -181.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2433
+  FloorHeight => -20.000000
+  RoofHeight => -6.000000
+  Vertex => 14.500000 -187.250000
+  Vertex => 13.500000 -170.500000
+  Vertex => 19.195093 -170.878427
+  Vertex => 20.500000 -187.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2434
+  FloorHeight => -10.000000
+  RoofHeight => 2.000000
+  Vertex => 13.695093 -191.711761
+  Vertex => 14.500000 -188.250000
+  Vertex => 27.361760 -188.211761
+  Vertex => 27.500000 -192.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/open-eerie-wind.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2435
+  FloorHeight => 0.000000
+  RoofHeight => 10.000000
+  Vertex => -6.750000 -204.000000
+  Vertex => -6.750000 -193.500000
+  Vertex => -1.304907 -193.545094
+  Vertex => -1.638240 -204.378427
+  Grupo => Grupo1
+  Sonido => ../../Sounds/light-wind-bg.wav
+  Volumen => 0.1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2436
+  FloorHeight => -5.000000
+  RoofHeight => 20.000000
+  Vertex => -26.750000 -207.000000
+  Vertex => -27.304907 -195.545094
+  Vertex => -21.250000 -195.250000
+  Vertex => -21.638240 -207.045094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/int-wind-loop.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2437
+  FloorHeight => -5.000000
+  RoofHeight => 20.000000
+  Vertex => 7.028426 -180.045094
+  Vertex => 6.861760 -162.211761
+  Vertex => 12.195093 -162.211761
+  Vertex => 12.361760 -180.045094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2438
+  FloorHeight => -5.000000
+  RoofHeight => 20.000000
+  Vertex => 13.028426 -164.711761
+  Vertex => 13.028426 -157.878427
+  Vertex => 45.695093 -157.711761
+  Vertex => 45.195093 -165.045094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2439
+  FloorHeight => -5.000000
+  RoofHeight => 20.000000
+  Vertex => 36.695093 -180.711761
+  Vertex => 36.750000 -165.500000
+  Vertex => 45.028426 -165.545094
+  Vertex => 45.028426 -181.045094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2441
+  FloorHeight => -20.000000
+  RoofHeight => 20.000000
+  Vertex => -36.471574 -9.378427
+  Vertex => -34.804907 8.621573
+  Vertex => -13.304907 8.954906
+  Vertex => -10.638240 -9.545094
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector
+
+BeginGhostSector
+  Name => 2442
+  FloorHeight => -30.000000
+  RoofHeight => -5.000000
+  Vertex => -30.304907 -222.378427
+  Vertex => -30.471574 -209.545094
+  Vertex => 13.028426 -210.711761
+  Vertex => 12.500000 -223.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/olas-suaves1.wav
+  Volumen => 0.2
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 4000
+  DistMaximaVertical => 20000
+  Escala => 99
+EndGhostSector

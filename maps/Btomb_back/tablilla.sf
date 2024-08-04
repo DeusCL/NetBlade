@@ -1,0 +1,28 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => xtablilla
+  FloorHeight => -8.000000
+  RoofHeight => -4.000000
+  Vertex => 323.258333 -19.763333
+  Vertex => 322.133333 -18.513333
+  Vertex => 322.133333 -16.513333
+  Vertex => 322.508333 -16.138333
+  Vertex => 323.133333 -15.888333
+  Vertex => 324.133333 -15.888333
+  Vertex => 325.883333 -15.888333
+  Vertex => 326.883333 -15.888333
+  Vertex => 327.508333 -16.138333
+  Vertex => 327.883333 -16.513333
+  Vertex => 327.883333 -18.513333
+  Vertex => 326.758333 -19.763333
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

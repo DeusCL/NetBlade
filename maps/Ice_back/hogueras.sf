@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => hoguera1
+  FloorHeight => 0.100000
+  RoofHeight => 2.100000
+  Vertex => 1.250000 -111.250000
+  Vertex => 1.250000 -110.500000
+  Vertex => 2.000000 -110.500000
+  Vertex => 2.000000 -111.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

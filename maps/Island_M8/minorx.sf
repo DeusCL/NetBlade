@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => minorx
+  FloorHeight => 11.000000
+  RoofHeight => 13.000000
+  Vertex => -47.875000 -43.062500
+  Vertex => -47.875000 -19.312500
+  Vertex => -29.125000 -19.312500
+  Vertex => -29.125000 -43.062500
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

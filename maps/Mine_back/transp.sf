@@ -1,0 +1,116 @@
+NumGhostSectors => 6
+
+BeginGhostSector
+  Name => transp1
+  FloorHeight => 19.000000
+  RoofHeight => 23.000000
+  Vertex => -53.500000 23.500000
+  Vertex => -58.500000 23.500000
+  Vertex => -58.008089 33.567547
+  Vertex => -53.178460 32.273452
+  Vertex => -50.000000 29.000000
+  Vertex => -50.500000 25.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => transp2
+  FloorHeight => 29.000000
+  RoofHeight => 33.000000
+  Vertex => -35.375000 -16.000000
+  Vertex => -32.000000 1.500000
+  Vertex => -23.250000 1.500000
+  Vertex => -24.500000 -7.500000
+  Vertex => -26.000000 -13.500000
+  Vertex => -29.000000 -19.500000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => transp3
+  FloorHeight => 6.000000
+  RoofHeight => 10.000000
+  Vertex => -23.500000 88.000000
+  Vertex => -23.500000 120.000000
+  Vertex => -8.500000 112.500000
+  Vertex => -8.500000 95.500000
+  Vertex => -12.000000 91.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => transp4
+  FloorHeight => 16.500000
+  RoofHeight => 20.500000
+  Vertex => -24.625000 180.250000
+  Vertex => -37.750000 180.375000
+  Vertex => -50.500000 204.125000
+  Vertex => -44.125000 211.500000
+  Vertex => -29.875000 210.125000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => transp5
+  FloorHeight => 17.500000
+  RoofHeight => 21.500000
+  Vertex => 71.263765 161.501812
+  Vertex => 71.263765 168.001812
+  Vertex => 92.013765 168.001812
+  Vertex => 92.013765 161.501812
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => transp6
+  FloorHeight => 8.000000
+  RoofHeight => 12.000000
+  Vertex => 87.750000 155.875000
+  Vertex => 76.875000 158.000000
+  Vertex => 82.875000 159.500000
+  Vertex => 89.375000 159.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

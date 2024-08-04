@@ -1,0 +1,38 @@
+NumGhostSectors => 2
+
+BeginGhostSector
+  Name => sfT1
+  FloorHeight => -7.000000
+  RoofHeight => -1.000000
+  Vertex => -45.250000 127.250000
+  Vertex => -38.250000 127.250000
+  Vertex => -32.750000 113.750000
+  Vertex => -50.250000 113.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => sfT2
+  FloorHeight => -3.500000
+  RoofHeight => 2.000000
+  Vertex => -54.500000 -134.187500
+  Vertex => -54.500000 -126.250000
+  Vertex => -50.000000 -126.250000
+  Vertex => -50.000000 -134.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

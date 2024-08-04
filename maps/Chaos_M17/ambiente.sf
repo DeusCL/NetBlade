@@ -1,0 +1,406 @@
+NumGhostSectors => 21
+
+BeginGhostSector
+  Name => Tmp
+  FloorHeight => -40.000000
+  RoofHeight => 20.000000
+  Vertex => 309.000000 -13.625000
+  Vertex => 323.000000 2.250000
+  Vertex => 360.625000 2.250000
+  Vertex => 360.625000 -30.625000
+  Vertex => 315.625000 -30.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector228
+  FloorHeight => -5.000000
+  RoofHeight => 0.000000
+  Vertex => 296.000000 -5.500000
+  Vertex => 296.125000 12.875000
+  Vertex => 304.000000 12.875000
+  Vertex => 304.000000 -5.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector229
+  FloorHeight => -40.000000
+  RoofHeight => -33.000000
+  Vertex => 307.250000 -35.625000
+  Vertex => 272.625000 -35.750000
+  Vertex => 272.500000 20.500000
+  Vertex => 307.250000 14.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector230
+  FloorHeight => -40.000000
+  RoofHeight => -33.000000
+  Vertex => 308.625000 -10.750000
+  Vertex => 308.500000 21.875000
+  Vertex => 329.125000 21.875000
+  Vertex => 329.125000 3.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 0.3
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector231
+  FloorHeight => -40.000000
+  RoofHeight => -33.000000
+  Vertex => 328.875000 22.750000
+  Vertex => 291.000000 22.750000
+  Vertex => 286.000000 64.375000
+  Vertex => 332.875000 60.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector232
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 296.875000 66.625000
+  Vertex => 296.875000 102.000000
+  Vertex => 397.875000 102.500000
+  Vertex => 396.875000 66.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector233
+  FloorHeight => -15.000000
+  RoofHeight => 0.000000
+  Vertex => 313.750000 24.750000
+  Vertex => 295.000000 33.875000
+  Vertex => 297.625000 37.625000
+  Vertex => 316.375000 28.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector234
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 387.000000 47.375000
+  Vertex => 382.875000 49.625000
+  Vertex => 382.375000 55.750000
+  Vertex => 382.125000 62.000000
+  Vertex => 390.750000 61.625000
+  Vertex => 390.875000 47.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector235
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 415.625000 24.500000
+  Vertex => 411.500000 28.375000
+  Vertex => 411.500000 55.750000
+  Vertex => 434.875000 55.750000
+  Vertex => 434.875000 24.625000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/sacred-atmos.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector236
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 414.000000 20.875000
+  Vertex => 436.375000 20.875000
+  Vertex => 436.375000 -39.375000
+  Vertex => 401.250000 -39.375000
+  Vertex => 401.250000 -5.375000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/sacred-atmos.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector237
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 440.750000 -47.500000
+  Vertex => 440.750000 -0.500000
+  Vertex => 547.250000 40.750000
+  Vertex => 564.000000 19.875000
+  Vertex => 564.000000 -47.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/sacred-atmos.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector238
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 475.250000 -234.000000
+  Vertex => 475.250000 -55.625000
+  Vertex => 670.375000 -56.125000
+  Vertex => 670.375000 -234.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/sacred-atmos.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector239
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 678.875000 -236.000000
+  Vertex => 678.875000 -98.250000
+  Vertex => 782.125000 -98.750000
+  Vertex => 781.125000 -236.000000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/sacred-atmos.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector240
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 789.125000 -209.375000
+  Vertex => 789.125000 -124.250000
+  Vertex => 971.125000 -124.250000
+  Vertex => 972.125000 -209.375000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist1.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector241
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 388.125000 45.250000
+  Vertex => 408.250000 45.375000
+  Vertex => 409.750000 21.750000
+  Vertex => 403.625000 14.625000
+  Vertex => 390.250000 14.750000
+  Vertex => 387.375000 18.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Int-tower.wav
+  Volumen => 1
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector242
+  FloorHeight => -40.000000
+  RoofHeight => -33.000000
+  Vertex => 281.625000 48.125000
+  Vertex => 323.750000 36.000000
+  Vertex => 335.375000 15.625000
+  Vertex => 330.500000 4.875000
+  Vertex => 299.500000 -13.125000
+  Vertex => 264.250000 -13.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector243
+  FloorHeight => -40.000000
+  RoofHeight => -33.000000
+  Vertex => 266.875000 -18.125000
+  Vertex => 303.125000 -16.375000
+  Vertex => 320.375000 -34.000000
+  Vertex => 301.125000 -40.125000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector244
+  FloorHeight => -40.000000
+  RoofHeight => -33.000000
+  Vertex => 289.750000 46.875000
+  Vertex => 294.750000 54.375000
+  Vertex => 302.500000 58.750000
+  Vertex => 313.000000 60.500000
+  Vertex => 326.000000 62.250000
+  Vertex => 328.750000 54.375000
+  Vertex => 328.125000 49.125000
+  Vertex => 308.000000 44.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/wind-mist4.wav
+  Volumen => 0.4
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma0
+  FloorHeight => 5.000000
+  RoofHeight => 20.000000
+  Vertex => 320.500000 2.500000
+  Vertex => 273.250000 14.500000
+  Vertex => 278.250000 22.250000
+  Vertex => 295.500000 23.750000
+  Vertex => 314.000000 20.250000
+  Vertex => 328.250000 12.250000
+  Vertex => 329.750000 5.500000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.5
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => SectorFantasma1
+  FloorHeight => 6.000000
+  RoofHeight => 20.000000
+  Vertex => 269.750000 12.500000
+  Vertex => 262.750000 10.750000
+  Vertex => 250.500000 12.750000
+  Vertex => 241.750000 18.500000
+  Vertex => 237.000000 27.250000
+  Vertex => 235.000000 38.250000
+  Vertex => 236.500000 48.000000
+  Vertex => 240.750000 56.750000
+  Vertex => 249.750000 59.250000
+  Vertex => 257.000000 55.000000
+  Vertex => 266.250000 49.500000
+  Vertex => 273.000000 41.000000
+  Vertex => 276.250000 33.500000
+  Vertex => 276.250000 23.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/ext-scene-windL.wav
+  Volumen => 0.7
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
+
+BeginGhostSector
+  Name => Sector-842150388
+  FloorHeight => -500.000000
+  RoofHeight => 500.000000
+  Vertex => 200.750000 -40.750000
+  Vertex => 200.750000 102.000000
+  Vertex => 381.750000 102.000000
+  Vertex => 381.750000 -40.750000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/bg-volcano-rumble.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector

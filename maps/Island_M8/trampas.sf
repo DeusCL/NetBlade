@@ -1,0 +1,20 @@
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => vampir
+  FloorHeight => 55.250000
+  RoofHeight => 62.000000
+  Vertex => -23.625000 -45.375000
+  Vertex => -31.625000 -45.375000
+  Vertex => -31.625000 -20.375000
+  Vertex => -23.625000 -20.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

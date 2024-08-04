@@ -1,0 +1,227 @@
+NumGhostSectors => 12
+
+BeginGhostSector
+  Name => extsagrado
+  FloorHeight => 8.000000
+  RoofHeight => 80.000000
+  Vertex => 85.500000 -125.375000
+  Vertex => 88.250000 -119.875000
+  Vertex => 95.500000 -123.000000
+  Vertex => 92.250000 -127.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => dolmen
+  FloorHeight => 51.200001
+  RoofHeight => 57.000000
+  Vertex => 60.000000 -117.375000
+  Vertex => 57.500000 -117.375000
+  Vertex => 57.250000 -114.125000
+  Vertex => 59.500000 -113.875000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => sfgruta2
+  FloorHeight => -3.100000
+  RoofHeight => 6.000000
+  Vertex => -80.000000 -1.750000
+  Vertex => -83.750000 -3.750000
+  Vertex => -89.250000 -2.750000
+  Vertex => -87.000000 5.750000
+  Vertex => -83.000000 4.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => sfgruta1
+  FloorHeight => -3.100000
+  RoofHeight => 6.000000
+  Vertex => -57.000000 14.000000
+  Vertex => -58.000000 8.750000
+  Vertex => -65.500000 6.000000
+  Vertex => -69.000000 11.000000
+  Vertex => -69.000000 16.500000
+  Vertex => -61.500000 19.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => rocasup1
+  FloorHeight => 19.000000
+  RoofHeight => 25.000000
+  Vertex => -12.500000 -26.250000
+  Vertex => -10.500000 -18.750000
+  Vertex => -7.500000 -17.750000
+  Vertex => -7.500000 -22.250000
+  Vertex => -10.000000 -26.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => delantepuertapu
+  FloorHeight => 8.000000
+  RoofHeight => 80.000000
+  Vertex => -85.500000 -85.500000
+  Vertex => -91.500000 -81.250000
+  Vertex => -90.000000 -73.000000
+  Vertex => -86.500000 -74.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => subpueblo2
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -189.500000 -176.750000
+  Vertex => -185.000000 -163.250000
+  Vertex => -173.750000 -167.000000
+  Vertex => -178.250000 -176.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => subpueblo1
+  FloorHeight => 10.000000
+  RoofHeight => 20.000000
+  Vertex => -181.450000 -148.950000
+  Vertex => -179.200000 -150.450000
+  Vertex => -179.700000 -151.450000
+  Vertex => -181.950000 -149.950000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => platjefe
+  FloorHeight => 27.000000
+  RoofHeight => 55.000000
+  Vertex => -91.750000 -181.000000
+  Vertex => -102.750000 -182.750000
+  Vertex => -107.250000 -182.250000
+  Vertex => -106.750000 -174.750000
+  Vertex => -98.750000 -165.750000
+  Vertex => -91.750000 -171.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entracasaj
+  FloorHeight => 30.700001
+  RoofHeight => 35.500000
+  Vertex => -81.000000 -160.750000
+  Vertex => -81.000000 -153.500000
+  Vertex => -80.000000 -152.750000
+  Vertex => -73.250000 -153.750000
+  Vertex => -72.750000 -154.625000
+  Vertex => -75.250000 -160.250000
+  Vertex => -76.250000 -160.750000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => entratrampa
+  FloorHeight => 29.700001
+  RoofHeight => 34.000000
+  Vertex => -51.500000 -167.000000
+  Vertex => -49.250000 -165.500000
+  Vertex => -47.750000 -167.750000
+  Vertex => -50.000000 -169.250000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => casaguagua
+  FloorHeight => 10.000000
+  RoofHeight => 18.000000
+  Vertex => -200.750000 -170.000000
+  Vertex => -200.750000 -166.750000
+  Vertex => -196.500000 -167.000000
+  Vertex => -196.500000 -170.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

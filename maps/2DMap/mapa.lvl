@@ -1,0 +1,13 @@
+Bitmaps -> mapa.mmp
+
+Bitmaps -> ../../3dObjs/nube.mmp
+Bitmaps -> ../../3dObjs/weapons.mmp
+Bitmaps -> ../../3dObjs/esferagemaroja.mmp
+Bitmaps -> ../../3dObjs/weapons.mmp
+
+BOD -> ../../3dobjs/Mapa3d.BOD
+
+BOD -> ../../3dobjs/Ghostpointer.BOD
+
+World -> mapa.bw
+WorldDome -> mapa_d.mmp

@@ -1,0 +1,27 @@
+Bitmaps -> dwarf.mmp
+Bitmaps -> ../../3dChars/Dwf.mmp
+
+Bitmaps -> ../../3dChars/ork.mmp
+Bitmaps -> ../../3dChars/Gok.mmp
+Bitmaps -> ../../3dChars/spd.mmp
+Bitmaps -> Skl.mmp
+Bitmaps -> ../../3dChars/trl_dk.mmp
+Bitmaps -> ../../3dChars/cosita.mmp
+Bitmaps -> ../../3dChars/enanos.mmp
+
+Bitmaps -> ../../3dObjs/3dobjs.mmp
+Bitmaps -> ../../3dObjs/telaranya.mmp
+Bitmaps -> ../../3dObjs/nube.mmp
+Bitmaps -> NOBJS.mmp
+
+
+
+BOD -> ../../3dChars/enano1.BOD
+BOD -> ../../3dChars/enano2.BOD
+BOD -> ../../3dChars/enano3.BOD
+BOD -> ../../3dChars/enano4.BOD
+
+
+
+World -> dwarf.bw
+WorldDome -> dwarf_d.mmp

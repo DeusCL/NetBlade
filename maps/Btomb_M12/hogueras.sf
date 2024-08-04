@@ -1,0 +1,56 @@
+NumGhostSectors => 3
+
+BeginGhostSector
+  Name => hoguera1
+  FloorHeight => -38.000000
+  RoofHeight => -35.000000
+  Vertex => 304.125000 96.375000
+  Vertex => 304.125000 97.125000
+  Vertex => 304.875000 97.125000
+  Vertex => 304.875000 96.375000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => hoguera2
+  FloorHeight => -39.000000
+  RoofHeight => -36.000000
+  Vertex => 333.500000 -24.000000
+  Vertex => 333.500000 -23.375000
+  Vertex => 334.250000 -23.375000
+  Vertex => 334.250000 -24.000000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+
+BeginGhostSector
+  Name => hoguera3
+  FloorHeight => -58.900002
+  RoofHeight => -57.000000
+  Vertex => 510.250000 -56.125000
+  Vertex => 510.250000 -55.125000
+  Vertex => 511.250000 -55.125000
+  Vertex => 511.250000 -56.125000
+  Grupo => Grupo1 
+  Sonido => Sonido1 
+  Volumen => 1.0 
+  VolumenBase => 1.0 
+  DistanciaMinima => 1000 
+  DistanciaMaxima => 20000 
+  DistMaximaVertical => 20000 
+  Escala => 1.0 
+EndGhostSector
+

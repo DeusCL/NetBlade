@@ -1,0 +1,20 @@
+
+NumGhostSectors => 1
+
+BeginGhostSector
+  Name => Sector7486
+  FloorHeight => -8.000000
+  RoofHeight => 50.000000
+  Vertex => 431.000000 -52.500000
+  Vertex => 432.000000 -40.250000
+  Vertex => 451.750000 -39.250000
+  Vertex => 451.750000 -52.250000
+  Grupo => Grupo1
+  Sonido => ../../Sounds/Light-Wind-bg.wav
+  Volumen => 1.0
+  VolumenBase => 1.0
+  DistanciaMinima => 1000
+  DistanciaMaxima => 20000
+  DistMaximaVertical => 20000
+  Escala => 1.0
+EndGhostSector
