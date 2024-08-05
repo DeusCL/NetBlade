@@ -363,6 +363,9 @@ class Client:
 			del acts['pickup']
 			self.action_pickup(obj_name)
 
+		if 'lck' in acts.keys():
+			print("Another player used a door!!!")
+
 
 	def action_drp(self, pers, inv, drp_data):
 		""" Drop/Throw Action Manager. For when a non local player throws
@@ -525,8 +528,8 @@ class Client:
 
 	def LockUseFunc(self, lock_name, use_from):
 		""" Local side """
-		print("Using lock: " + str(lock_name) + " from " + str(use_from))
 		self.aux_LockUseFunc(lock_name, use_from)
+		self.actions.update({'lck':(lock_name, use_from)})
 
 
 	def disconnect(self):
