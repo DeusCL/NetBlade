@@ -363,19 +363,13 @@ class Client:
 
 		if 'lck' in acts.keys():
 			lock_name = acts['lck']
-
-			pers.LaunchAnmType("key")	
-			pers.AddAnmEventFunc("Activate", self.action_lock)
-
-			lock_object = Bladex.GetEntity(lock_name)
-
-			pers.Data.obj_used = lock_object
+			Bladex.AddScheduledFunc(Bladex.GetTime()+1, self.action_lock, (lock_name,))
 
 
-	def action_lock(self, entity_name):
-		""" For when a non local player is opening a door """
-		pers = Bladex.GetEntity(entity_name)
-		lock = pers.Data.obj_used.Data.lockdata
+	def action_lock(self, lock_name):
+		""" For when a non local player is opening a door with a lock key"""
+		lock_object = Bladex.GetEntity(lock_name)
+		lock = lock_object.Data.lockdata
 
 		if lock.state == UNLOCK:
 			lock.Lock()
