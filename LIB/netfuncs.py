@@ -12,6 +12,7 @@ import Bladex
 import Reference
 import ItemTypes
 import Actions
+import Locks
 
 import netplayer
 
@@ -172,6 +173,11 @@ class Client:
 		self.aux_PickupEventHandler = Actions.PickupEventHandler
 		Actions.PickupEventHandler = self.PickupEventHandler
 
+		# Change Locks events
+		self.aux_LockUseFunc = Locks.LockUseFunc
+		Locks.LockUseFunc = self.LockUseFunc
+		
+
 
 		# Send initial player data
 		data = {
@@ -222,74 +228,6 @@ class Client:
 		self.actions = {}
 
 		self.send_data(data, self.compact_info)
-
-
-	def PickupEventHandler(self, entity_name, event_name, force_take=1):
-		self.aux_PickupEventHandler(entity_name, event_name, force_take)
-		if entity_name == "Player1":
-			me = Bladex.GetEntity(entity_name)
-			obj_name = me.Data.pickup_entity
-			self.actions.update({'pickup':obj_name})
-
-
-	def DropReleaseEventHandler(self, entity_name, event_name, test_hit=1):
-		""" Catch this action for every entity in the world """
-		obj = None
-
-		if entity_name == "Player1":
-			me = Bladex.GetEntity(entity_name)
-
-			if event_name == "DropLeftEvent":
-				obj = Bladex.GetEntity(me.InvLeft)
-			else:
-				obj = Bladex.GetEntity(me.InvRight)
-
-		self.aux_DropReleaseEventHandler(entity_name, event_name, test_hit)
-
-		if obj:
-			name = obj.Name
-			kind = obj.Kind
-			pos = obj.Position
-			orientation = obj.Orientation
-			weapon = obj.Weapon
-			vel = obj.Velocity
-			ang_vel = obj.AngularVelocity
-
-			self.actions.update({'drp':(name, kind, pos, orientation, weapon, vel, ang_vel, 'drp')})
-
-
-	def ThrowReleaseEventHandler(self, entity_name, event_name):
-		""" Catch this action for every entity in the world """
-		obj = None
-
-		if entity_name == "Player1":
-			me = Bladex.GetEntity(entity_name)
-
-			if event_name == "ThrowLeftEvent":
-				if me.InvLeft == "None" or not me.InvLeft:
-					return
-
-				obj = Bladex.GetEntity(me.InvLeft)
-
-			else:
-				if me.InvRight == "None" or not me.InvRight:
-					return
-
-				obj = Bladex.GetEntity(me.InvRight)
-
-		self.aux_ThrowReleaseEventHandler(entity_name, event_name)
-
-		if obj:
-			name = obj.Name
-			kind = obj.Kind
-			pos = obj.Position
-			orientation = obj.Orientation
-			weapon = obj.Weapon
-			vel = obj.Velocity
-			ang_vel = obj.AngularVelocity
-
-			self.actions.update({'drp':(name, kind, pos, orientation, weapon, vel, ang_vel, event_name)})
-
 
 
 	def send_data(self, data, compact=0):
@@ -516,6 +454,79 @@ class Client:
 		else:
 			pickup_entity.Stop()
 			pickup_entity.Position = 0, 1000000, 0
+
+
+	def PickupEventHandler(self, entity_name, event_name, force_take=1):
+		self.aux_PickupEventHandler(entity_name, event_name, force_take)
+		if entity_name == "Player1":
+			me = Bladex.GetEntity(entity_name)
+			obj_name = me.Data.pickup_entity
+			self.actions.update({'pickup':obj_name})
+
+
+	def DropReleaseEventHandler(self, entity_name, event_name, test_hit=1):
+		""" Catch this action for every entity in the world """
+		obj = None
+
+		if entity_name == "Player1":
+			me = Bladex.GetEntity(entity_name)
+
+			if event_name == "DropLeftEvent":
+				obj = Bladex.GetEntity(me.InvLeft)
+			else:
+				obj = Bladex.GetEntity(me.InvRight)
+
+		self.aux_DropReleaseEventHandler(entity_name, event_name, test_hit)
+
+		if obj:
+			name = obj.Name
+			kind = obj.Kind
+			pos = obj.Position
+			orientation = obj.Orientation
+			weapon = obj.Weapon
+			vel = obj.Velocity
+			ang_vel = obj.AngularVelocity
+
+			self.actions.update({'drp':(name, kind, pos, orientation, weapon, vel, ang_vel, 'drp')})
+
+
+	def ThrowReleaseEventHandler(self, entity_name, event_name):
+		""" Catch this action for every entity in the world """
+		obj = None
+
+		if entity_name == "Player1":
+			me = Bladex.GetEntity(entity_name)
+
+			if event_name == "ThrowLeftEvent":
+				if me.InvLeft == "None" or not me.InvLeft:
+					return
+
+				obj = Bladex.GetEntity(me.InvLeft)
+
+			else:
+				if me.InvRight == "None" or not me.InvRight:
+					return
+
+				obj = Bladex.GetEntity(me.InvRight)
+
+		self.aux_ThrowReleaseEventHandler(entity_name, event_name)
+
+		if obj:
+			name = obj.Name
+			kind = obj.Kind
+			pos = obj.Position
+			orientation = obj.Orientation
+			weapon = obj.Weapon
+			vel = obj.Velocity
+			ang_vel = obj.AngularVelocity
+
+			self.actions.update({'drp':(name, kind, pos, orientation, weapon, vel, ang_vel, event_name)})
+
+
+	def LockUseFunc(self, lock_name, use_from):
+		""" Local side """
+		print("Using lock: " + str(lock_name) + " from " + str(use_from))
+		self.aux_LockUseFunc(lock_name, use_from)
 
 
 	def disconnect(self):

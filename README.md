@@ -13,19 +13,19 @@ First, run the python script on the root game directory, then, in the game you w
 - Check the drop and throw event (Working well)
 - Find out why the start of a map is so slow. (It was a crash caused by a corrupted file. It was fixed reinstalling the base game)
 - Multiplayer menu
+- Update the inventory system
 
 ## Testing in Multiplayer:
 - Nothing yet
 
 ## Working on:
-- Update the inventory system
-
-## TODO:
 - What to do when a player is opening a door or activating a trap?
   1. For this, every player should be nearby because there is some doors that closes instantly when the player crosses.
   2. A solution for the previous point is to share the keys between players.
   3. Hard to implement.
   4. Think a way to open the same door in all clients.
+
+## TODO:
 - When a player dies, what to do now?
   1. Give the player the possibility to respawn in the beginning. (Problems with continuity of the map)
   2. Give the players the possibility to revive the dying player. (Hard to implement)
