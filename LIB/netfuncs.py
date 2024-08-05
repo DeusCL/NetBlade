@@ -376,7 +376,7 @@ class Client:
 
 		if 'lvr' in acts.keys():
 			lever_name = acts['lvr']
-			Bladex.AddScheduledFunc(Bladex.GetTime()+0.87, self.action_lock, (lock_name,))
+			Bladex.AddScheduledFunc(Bladex.GetTime()+0.87, self.action_lever, (lever_name,))
 
 
 	def action_lever(self, lever_name):
