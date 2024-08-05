@@ -25,7 +25,7 @@ DEMO_PLAYERS=("AM", "BR", "KN", "DW")
 # To show debugging info or not
 #
 DEBUG_INFO   = 0
-PYTHON_DEBUG = 0
+PYTHON_DEBUG = 2
 
 def debugprint(Msg):
 	if DEBUG_INFO==0:
