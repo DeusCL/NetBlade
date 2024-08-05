@@ -55,7 +55,7 @@ class Client:
 		if nick == '':
 			self.nick = generate_funny_nickname()
 
-		self.char = None
+		self.local_player = None
 
 		# Actions: A set of actions performed by the player in the most recent frame
 		# before this set was sent to the server
@@ -193,14 +193,14 @@ class Client:
 		if self.connected:
 			Bladex.AddScheduledFunc(Bladex.GetTime()+1/float(TPS), self.send_player_data, ())
 
-		if not self.char:
+		if not self.local_player:
 			char = Bladex.GetEntity("Player1")
 			if not char:
 				return
 
-			self.char = char
+			self.local_player = char
 
-		char = self.char
+		char = self.local_player
 
 		inventory = get_char_inv(char)
 
@@ -401,17 +401,13 @@ class Client:
 
 
 		# Update inventory
+		received_inv = inv
+		pers_inv = get_char_inv(pers, kinds=0)
 
-		try:
-			received_inv = inv
-			pers_inv = get_char_inv(pers, kinds=0)
+		inv = pers.GetInventory()
 
-			inv = pers.GetInventory()
-
-			for slot in ['l', 'r', 'lb', 'rb']:
-				update_inv2(pers, inv, pers_inv, received_inv, slot)
-		except Exception:
-			traceback.print_exc()
+		for slot in ['l', 'r', 'lb', 'rb']:
+			update_inv2(pers, inv, pers_inv, received_inv, slot)
 
 
 		# Manage actions
@@ -422,82 +418,98 @@ class Client:
 		self.last_action = acts
 
 		if 'drp' in acts.keys():
-			name, kind, wpos, orientation, weapon, vel, ang_vel, event_name = acts['drp']
+			self.action_drp(pers, inv, acts['drp'])
 
-			obj = Bladex.GetEntity(name)
+		if 'pickup' in acts.keys():
+			obj_name = acts['pickup']
+			del acts['pickup']
+			self.action_pickup(obj_name)
 
-			if not obj:
+
+	def action_drp(self, pers, inv, drp_data):
+		""" Drop/Throw Action Manager. For when a non local player throws
+		or drops an object. """
+
+		name, kind, wpos, orientation, weapon, vel, ang_vel, event_name = drp_data
+
+		obj = Bladex.GetEntity(name)
+
+		if not obj:
+			if weapon:
+				obj = Bladex.CreateEntity(name, kind, 0, 0, 0, "Weapon")
+				ItemTypes.ItemDefaultFuncs(obj)
+			else:
+				obj = Bladex.CreateEntity(name, kind, 0, 0, 0)
+		else:
+			if obj.Kind != kind or obj.Parent:
 				if weapon:
-					obj = Bladex.CreateEntity(name, kind, 0, 0, 0, "Weapon")
+					obj = Bladex.CreateEntity(name+"2", kind, 0, 0, 0, "Weapon")
 					ItemTypes.ItemDefaultFuncs(obj)
 				else:
-					obj = Bladex.CreateEntity(name, kind, 0, 0, 0)
-			else:
-				if obj.Kind != kind or obj.Parent:
-					if weapon:
-						obj = Bladex.CreateEntity(name+"2", kind, 0, 0, 0, "Weapon")
-						ItemTypes.ItemDefaultFuncs(obj)
-					else:
-						obj = Bladex.CreateEntity(name+"2", kind, 0, 0, 0)
+					obj = Bladex.CreateEntity(name+"2", kind, 0, 0, 0)
 
 
-			obj.Position = wpos
-			obj.Orientation = orientation
+		obj.Position = wpos
+		obj.Orientation = orientation
 
-			if event_name[:5] == "Throw":
+		if event_name[:5] == "Throw":
 
-				try:
-					obj_class = eval("ItemTypes."+kind)
-				except:
-					obj_class = None
+			try:
+				obj_class = eval("ItemTypes."+kind)
+			except:
+				obj_class = None
 
-				if obj.Data and "ThrowReleaseEventHandler" in dir(obj_class):
-					prev_obj = Bladex.GetEntity(pers.InvRight)
+			if obj.Data and "ThrowReleaseEventHandler" in dir(obj_class):
+				prev_obj = Bladex.GetEntity(pers.InvRight)
 
-					if prev_obj:
-						inv.LinkRightHand('')
-						prev_obj.SubscribeToList('Pin')
+				if prev_obj:
+					inv.LinkRightHand('')
+					prev_obj.SubscribeToList('Pin')
 
-					inv.LinkRightHand(obj.Name)
+				inv.LinkRightHand(obj.Name)
 
-					pers.Position = pos
-					pers.Angle = ang
+				pers.Position = pos
+				pers.Angle = ang
 
-					pers.AddAnmEventFunc(event_name, obj.Data.ThrowReleaseEventHandler)
-
-				else:
-					obj.MessageEvent(Reference.MESSAGE_START_WEAPON, 0, 0)
-					obj.MessageEvent(Reference.MESSAGE_START_TRAIL, 0, 0)
-
-					obj.Impulse(0, 0, 0)
-
-					obj.Velocity = vel
-					obj.AngularVelocity = ang_vel
-
-					Bladex.AddScheduledFunc(Bladex.GetTime()+2.0, Actions.ThrownWeaponStopFunc, (obj.Name,))
+				pers.AddAnmEventFunc(event_name, obj.Data.ThrowReleaseEventHandler)
 
 			else:
+				obj.MessageEvent(Reference.MESSAGE_START_WEAPON, 0, 0)
+				obj.MessageEvent(Reference.MESSAGE_START_TRAIL, 0, 0)
+
 				obj.Impulse(0, 0, 0)
 
 				obj.Velocity = vel
 				obj.AngularVelocity = ang_vel
 
+				Bladex.AddScheduledFunc(Bladex.GetTime()+2.0, Actions.ThrownWeaponStopFunc, (obj.Name,))
+
+		else:
+			obj.Impulse(0, 0, 0)
+
+			obj.Velocity = vel
+			obj.AngularVelocity = ang_vel
 
 
-		if 'pickup' in acts.keys():
-			pickup_entity_name = acts['pickup']
+	def action_pickup(self, obj_name):
+		""" Pickup Action manager. For when a non local player picks up an object. """
 
-			del acts['pickup']
+		pickup_entity = Bladex.GetEntity(obj_name)
 
-			pickup_entity = Bladex.GetEntity(pickup_entity_name)
+		if not pickup_entity:
+			return
 
-			if pickup_entity_name[:5] == 'Llave':
-				print("Un jugador agarro una llave, que hacemos me pregunto yo.........")
+		object_flag = Reference.GiveObjectFlag(obj_name)
 
-			if pickup_entity:
-				# Send entity to another dimension
-				pickup_entity.Stop()
-				pickup_entity.Position = 0, 1000000, 0
+		if object_flag == Reference.OBJ_KEY:
+			# If a non local player picks up a key, then, add it to
+			# the local player inventory too.
+			inv = self.local_player.GetInventory()
+			inv.AddKey(obj_name)
+			self.local_player.Data.RegisterObjectAsTaken(obj_name)
+		else:
+			pickup_entity.Stop()
+			pickup_entity.Position = 0, 1000000, 0
 
 
 	def disconnect(self):
@@ -538,7 +550,9 @@ def update_inv2(pers, inv, pers_inv, received_inv, slot):
 
 	new_obj = Bladex.CreateEntity(pers.Name+'_inv_'+slot, target_kind, 0, 0, 0, 'Weapon')
 
-	if not target_kind[:5] in ["Llave",]:
+	object_flag = Reference.GiveObjectFlag(new_obj.Name)
+
+	if object_flag != Reference.OBJ_KEY:
 		ItemTypes.ItemDefaultFuncs(new_obj)
 
 	if slot == 'l':
