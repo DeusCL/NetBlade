@@ -22,7 +22,7 @@ class Server:
 		self.sock.bind(addr)
 
 		self.clients = {}
-		self.current_map = "Ragnar_M2"
+		self.current_map = "Mine_M5"
 		self.max_players = 2
 		self.compact_info = 1
 

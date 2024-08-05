@@ -381,7 +381,7 @@ class Client:
 
 	def action_lever(self, lever_name):
 		""" For when a non local player is interacting with a lever """
-		lever_object = Bladex.GetEntity(lock_name)
+		lever_object = Bladex.GetEntity(lever_name)
 		lever = lever_object.Data.leverdata
 
 		if lever.state == LEVER_ON:
