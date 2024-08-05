@@ -33,17 +33,15 @@ DEFAULT_NET_STATE = {
 # Used to find the entities that were created to display remote entities
 FOREIGN_ENTITY_PREFIX = "_foreign_"
 
-# Never used
-HEADER = 8
-
 # Used to fit the data being sent in this amount of bytes
 FULL_HEADER = 512
 
 # Used to receive data of foreign entities and update them in this amount of times per second
 TPS = 30
 
-# Never used
-DT = 1/60.0
+# Some constants
+LOCK = 0
+UNLOCK = 1
 
 
 class Client:
@@ -174,8 +172,8 @@ class Client:
 		Actions.PickupEventHandler = self.PickupEventHandler
 
 		# Change Locks events
-		self.aux_LockUseFunc2 = Locks.LockUseFunc2
-		Locks.LockUseFunc2 = self.LockUseFunc2
+		self.aux_LockUseFunc = Locks.LockUseFunc
+		Locks.LockUseFunc = self.LockUseFunc
 
 
 
@@ -364,9 +362,19 @@ class Client:
 			self.action_pickup(obj_name)
 
 		if 'lck' in acts.keys():
-			entity_name = acts['lck']
-			self.aux_LockUseFunc2(entity_name)
-			print("Another player used a door!!!")
+			lock_name = acts['lck']
+			print("Another player used a door called " + str(lock_name))
+			lock_object = Bladex.GetEntity(lock_name)
+			
+			if lock_object:
+				if lock_object.Data:
+					lock = lock_object.Data.lockdata
+
+					if lock:
+						if lock.state == UNLOCK:
+							lock.Lock()
+						elif lock.state == LOCK:
+							lock.UnLock()
 
 
 	def action_drp(self, pers, inv, drp_data):
@@ -528,11 +536,10 @@ class Client:
 			self.actions.update({'drp':(name, kind, pos, orientation, weapon, vel, ang_vel, event_name)})
 
 
-	def LockUseFunc2(self, entity_name):
+	def LockUseFunc(self, lock_name, use_from):
 		""" Local side """
-		print("Anothe player is opening a door!")
-		self.aux_LockUseFunc2(entity_name)
-		self.actions.update({'lck':(entity_name)})
+		self.aux_LockUseFunc(lock_name, use_from)
+		self.actions.update({'lck':(lock_name)})
 
 
 	def disconnect(self):
