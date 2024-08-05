@@ -8,9 +8,9 @@ import os
 import math
 import traceback
 
-import Bladex # type: ignore
+import Bladex
 import Reference
-import ItemTypes # type: ignore
+import ItemTypes
 import Actions
 
 import netplayer
@@ -485,10 +485,8 @@ class Client:
 				Bladex.AddScheduledFunc(Bladex.GetTime()+2.0, Actions.ThrownWeaponStopFunc, (obj.Name,))
 
 		else:
-			obj.Impulse(0, 0, 0)
 
-			obj.Velocity = vel
-			obj.AngularVelocity = ang_vel
+			Bladex.AddScheduledFunc(Bladex.GetTime()+0.01, drop_obj, (obj,))
 
 
 	def action_pickup(self, obj_name):
@@ -502,11 +500,19 @@ class Client:
 		object_flag = Reference.GiveObjectFlag(obj_name)
 
 		if object_flag == Reference.OBJ_KEY:
-			# If a non local player picks up a key, then, add it to
-			# the local player inventory too.
+			# If a non local player picks up a key, then, add it to the local player inventory too.
 			inv = self.local_player.GetInventory()
 			inv.AddKey(obj_name)
+
 			self.local_player.Data.RegisterObjectAsTaken(obj_name)
+
+			from Scorer import NewObjectAtInventory
+
+			new_key_sound = Bladex.GetSound("NewKeySound")
+			new_key_sound.PlayStereo()
+
+			NewObjectAtInventory(obj_name)
+
 		else:
 			pickup_entity.Stop()
 			pickup_entity.Position = 0, 1000000, 0
@@ -607,6 +613,14 @@ def get_char_inv(pers, kinds=1):
 
 
 	return inventory
+
+
+def drop_obj(obj):
+	obj.Impulse(0, 0, 0)
+
+	obj.Velocity = vel
+	obj.AngularVelocity = ang_vel
+
 
 
 
