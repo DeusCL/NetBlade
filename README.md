@@ -12,15 +12,11 @@ First, run the python script on the root game directory, then, in the game you w
 - Hide nametags when the nametag is behind the camera (Working fine)
 - Check the drop and throw event (Working well)
 - Find out why the start of a map is so slow. (It was a crash caused by a corrupted file. It was fixed reinstalling the base game)
-
 ## Testing in Multiplayer:
-- Nothing yet
-
-## Working on:
 - Multiplayer menu
-
-## TODO:
+## Working on:
 - Update the inventory system
+## TODO:
 - What to do when a player is opening a door or activating a trap?
   1. For this, every player should be nearby because there is some doors that closes instantly when the player crosses.
   2. A solution for the previous point is to share the keys between players.

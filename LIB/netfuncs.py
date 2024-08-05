@@ -21,9 +21,9 @@ NET_FILEPATH = '..\\..\\Config\\net_state.cfg'
 # The Default configuration of the NetState
 # This method needs to be updated soon
 DEFAULT_NET_STATE = {
-	'PORT': 49500,
-	'SERVER': '192.168.1.3',
-	'NICK': '$random',
+	'PORT': '49500',
+	'SERVER': '',
+	'NICK': '',
 	'NET_STATE': 0,
 	'KIND': 'Knight_N'
 }
@@ -45,13 +45,13 @@ DT = 1/60.0
 
 
 class Client:
-	def __init__(self, nick="$random", kind="Knight_N"):
+	def __init__(self, nick='', kind='Knight_N'):
 		self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 		self.kind = kind
 
 		self.nick = nick
-		if nick == '$random':
+		if nick == '':
 			self.nick = generate_funny_nickname()
 
 		self.char = None

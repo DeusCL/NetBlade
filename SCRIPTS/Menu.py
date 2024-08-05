@@ -23,9 +23,6 @@ else:
   import NetScorer
 
 
-def LoadMineM5(option):
-	Bladex.LoadLevel("Mine_M5")
-
 
 import Raster
 import BInput
@@ -91,29 +88,7 @@ def BackMenu(option):
 
 
 
-
-import netfuncs
-import random
-
-def request_denied(content):
-	print("Supreme F in the chat: "+str(content))
-
-
-def request_granted(content):
-	netfuncs.set_net_keystate('NET_STATE', 1)
-	print(content)
-	Bladex.LoadLevel(content)
-
-
-def LoadMultiPlayerMap(option):
-	net_state = netfuncs.get_net_state()
-	addr = (net_state['SERVER'], net_state['PORT'])
-
-	if net_state['NET_STATE']:
-		Bladex.LoadLevel(Bladex.GetCurrentMap())
-
-	client = netfuncs.Client()
-	client.request_join(addr, request_denied, request_granted)
+import netmenu
 
 
 
@@ -2651,14 +2626,55 @@ else:
                                            })
     ########## ENJOY!
 
-  # Add the multiplayer map option (char selection)
-  Desc1["ListDescr"].insert(1,
-    {
+  # Add the multiplayer map option
+  Desc1["ListDescr"].insert(1, {
     "Name":"MULTIPLAYER",
     "VSep":8,
     "Font":MenuFontBig,
-    "Command": LoadMultiPlayerMap
-  	})
+    "ListDescr": [
+      {
+        "Name":MenuText.GetMenuText("Connect to a server"),
+        "VSep":90,
+        "Font":MenuFontBig,
+        "Kind":MenuWidget.B_MenuItemTextNoFXNoFocus
+      },
+      {
+        "Name":MenuText.GetMenuText("NICK: "),
+        "Kind":netwidgets.B_InputBox,
+        "VSep":120,
+        "MaxSize":15,
+        "GetInput":netmenu.get_input_nick,
+        "SetInput":netmenu.set_input_nick
+      },
+      {
+        "Name":MenuText.GetMenuText("IP ADDRESS : "),
+        "Kind":netwidgets.B_InputBox,
+        "VSep":20,
+        "MaxSize":15,
+        "GetInput":netmenu.get_input_ip,
+        "SetInput":netmenu.set_input_ip
+      },
+      {
+        "Name":MenuText.GetMenuText("PORT: "),
+        "Kind":netwidgets.B_InputBox,
+        "VSep":20,
+        "MaxSize":15,
+        "GetInput":netmenu.get_input_port,
+        "SetInput":netmenu.set_input_port
+      },
+      {
+        "Name":MenuText.GetMenuText("JOIN"),
+        "VSep":40,
+        "Command":netmenu.connect_to_server,
+        "Font":MenuFontBig
+      },
+      BackOption,
+      {
+        "Name":"Back",
+        "Kind":MenuWidget.B_BackBlank
+      }
+    ]
+  })
 
 
 def BackMap():
