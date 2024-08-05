@@ -6,6 +6,7 @@ import random
 import time
 import os
 import math
+import traceback
 
 import Bladex # type: ignore
 import Reference
@@ -402,7 +403,6 @@ class Client:
 		# Update inventory
 
 		try:
-
 			received_inv = inv
 			pers_inv = get_char_inv(pers, kinds=0)
 
@@ -411,7 +411,7 @@ class Client:
 			for slot in ['l', 'r', 'lb', 'rb']:
 				update_inv2(pers, inv, pers_inv, received_inv, slot)
 		except Exception:
-			print("Error, lol xd")
+			traceback.print_exc()
 
 
 		# Manage actions
@@ -491,8 +491,10 @@ class Client:
 
 			pickup_entity = Bladex.GetEntity(pickup_entity_name)
 
-			if pickup_entity:
+			if pickup_entity_name[:5] == 'Llave':
+				print("Un jugador agarro una llave, que hacemos me pregunto yo.........")
 
+			if pickup_entity:
 				# Send entity to another dimension
 				pickup_entity.Stop()
 				pickup_entity.Position = 0, 1000000, 0
@@ -535,7 +537,9 @@ def update_inv2(pers, inv, pers_inv, received_inv, slot):
 		return
 
 	new_obj = Bladex.CreateEntity(pers.Name+'_inv_'+slot, target_kind, 0, 0, 0, 'Weapon')
-	ItemTypes.ItemDefaultFuncs(new_obj)
+
+	if not target_kind[:5] in ["Llave",]:
+		ItemTypes.ItemDefaultFuncs(new_obj)
 
 	if slot == 'l':
 		inv.LinkLeftHand(new_obj.Name)
