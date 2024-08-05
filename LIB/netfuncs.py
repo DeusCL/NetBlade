@@ -14,6 +14,7 @@ import ItemTypes
 import Actions
 import Locks
 import Levers
+import B3DLib
 
 import netplayer
 
@@ -376,17 +377,18 @@ class Client:
 
 		if 'lvr' in acts.keys():
 			lever_name = acts['lvr']
-			Bladex.AddScheduledFunc(Bladex.GetTime()+0.87, self.action_lever, (lever_name,))
+			Bladex.AddScheduledFunc(Bladex.GetTime()+0.56, self.action_lever, (lever_name,))
 
 
 	def action_lever(self, lever_name):
 		""" For when a non local player is interacting with a lever """
 		lever_object = Bladex.GetEntity(lever_name)
+
 		lever = lever_object.Data.leverdata
 
-		if lever.state == LEVER_ON:
+		if lever.state == Levers.LEVER_ON:
 			lever.TurnOff()
-		elif lever.state == LEVER_OFF:
+		elif lever.state == Levers.LEVER_OFF:
 			lever.TurnOn()
 
 
@@ -395,9 +397,9 @@ class Client:
 		lock_object = Bladex.GetEntity(lock_name)
 		lock = lock_object.Data.lockdata
 
-		if lock.state == UNLOCK:
+		if lock.state == Locks.UNLOCK:
 			lock.Lock()
-		elif lock.state == LOCK:
+		elif lock.state == Locks.LOCK:
 			lock.UnLock()
 
 
@@ -562,12 +564,16 @@ class Client:
 
 	def LockUseFunc(self, lock_name, use_from):
 		self.aux_LockUseFunc(lock_name, use_from)
-		self.actions.update({'lck':(lock_name)})
+		dist = B3DLib.GetXZDistance('Player1', lock_name)
+		if dist <= Locks.LOCK_DISTANCE:
+			self.actions.update({'lck':(lock_name, dist)})
 
 
 	def LeverUseFunc(self, lever_name, use_from):
 		self.aux_LeverUseFunc(lever_name, use_from)
-		self.actions.update({'lvr':(lever_name)})
+		dist = B3DLib.GetXZDistance('Player1', lever_name)
+		if dist < Levers.LEVER_DISTANCE:
+			self.actions.update({'lvr':(lever_name, dist)})
 
 
 	def disconnect(self):
