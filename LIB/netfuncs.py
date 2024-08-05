@@ -174,9 +174,9 @@ class Client:
 		Actions.PickupEventHandler = self.PickupEventHandler
 
 		# Change Locks events
-		self.aux_LockUseFunc = Locks.LockUseFunc
-		Locks.LockUseFunc = self.LockUseFunc
-		
+		self.aux_LockUseFunc2 = Locks.LockUseFunc2
+		Locks.LockUseFunc2 = self.LockUseFunc2
+
 
 
 		# Send initial player data
@@ -364,6 +364,8 @@ class Client:
 			self.action_pickup(obj_name)
 
 		if 'lck' in acts.keys():
+			entity_name = acts['lck']
+			self.aux_LockUseFunc2(entity_name)
 			print("Another player used a door!!!")
 
 
@@ -526,10 +528,11 @@ class Client:
 			self.actions.update({'drp':(name, kind, pos, orientation, weapon, vel, ang_vel, event_name)})
 
 
-	def LockUseFunc(self, lock_name, use_from):
+	def LockUseFunc2(self, entity_name):
 		""" Local side """
-		self.aux_LockUseFunc(lock_name, use_from)
-		self.actions.update({'lck':(lock_name, use_from)})
+		print("Anothe player is opening a door!")
+		self.aux_LockUseFunc2(entity_name)
+		self.actions.update({'lck':(entity_name)})
 
 
 	def disconnect(self):
