@@ -566,14 +566,14 @@ class Client:
 		self.aux_LockUseFunc(lock_name, use_from)
 		dist = B3DLib.GetXZDistance('Player1', lock_name)
 		if dist <= Locks.LOCK_DISTANCE:
-			self.actions.update({'lck':(lock_name, dist)})
+			self.actions.update({'lck':(lock_name)})
 
 
 	def LeverUseFunc(self, lever_name, use_from):
 		self.aux_LeverUseFunc(lever_name, use_from)
 		dist = B3DLib.GetXZDistance('Player1', lever_name)
 		if dist < Levers.LEVER_DISTANCE:
-			self.actions.update({'lvr':(lever_name, dist)})
+			self.actions.update({'lvr':(lever_name)})
 
 
 	def disconnect(self):
