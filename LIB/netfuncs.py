@@ -13,6 +13,7 @@ import Reference
 import ItemTypes
 import Actions
 import Locks
+import Levers
 
 import netplayer
 
@@ -42,6 +43,12 @@ TPS = 30
 # Some constants
 LOCK = 0
 UNLOCK = 1
+
+LEVER_OFF = 0
+LEVER_ON = 1
+LEVER_OFF2ON = 2
+LEVER_ON2OFF = 3
+
 
 
 class Client:
@@ -175,6 +182,9 @@ class Client:
 		self.aux_LockUseFunc = Locks.LockUseFunc
 		Locks.LockUseFunc = self.LockUseFunc
 
+		# Change Lever events
+		self.aux_LeverUseFunc = Levers.LeverUseFunc
+		Levers.LeverUseFunc = self.LeverUseFunc
 
 
 		# Send initial player data
@@ -335,7 +345,6 @@ class Client:
 		pers.Sneak = snk
 
 
-
 		# Update inventory
 		received_inv = inv
 		pers_inv = get_char_inv(pers, kinds=0)
@@ -365,9 +374,24 @@ class Client:
 			lock_name = acts['lck']
 			Bladex.AddScheduledFunc(Bladex.GetTime()+1, self.action_lock, (lock_name,))
 
+		if 'lvr' in acts.keys():
+			lever_name = acts['lvr']
+			Bladex.AddScheduledFunc(Bladex.GetTime()+0.87, self.action_lock, (lock_name,))
+
+
+	def action_lever(self, lever_name):
+		""" For when a non local player is interacting with a lever """
+		lever_object = Bladex.GetEntity(lock_name)
+		lever = lever_object.Data.leverdata
+
+		if lever.state == LEVER_ON:
+			lever.TurnOff()
+		elif lever.state == LEVER_OFF:
+			lever.TurnOn()
+
 
 	def action_lock(self, lock_name):
-		""" For when a non local player is opening a door with a lock key"""
+		""" For when a non local player is interacting with a lock key """
 		lock_object = Bladex.GetEntity(lock_name)
 		lock = lock_object.Data.lockdata
 
@@ -537,9 +561,13 @@ class Client:
 
 
 	def LockUseFunc(self, lock_name, use_from):
-		""" Local side """
 		self.aux_LockUseFunc(lock_name, use_from)
 		self.actions.update({'lck':(lock_name)})
+
+
+	def LeverUseFunc(self, lever_name, use_from):
+		self.aux_LeverUseFunc(lever_name, use_from)
+		self.actions.update({'lvr':(lever_name)})
 
 
 	def disconnect(self):
