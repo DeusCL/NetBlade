@@ -401,14 +401,17 @@ class Client:
 
 		# Update inventory
 
-		received_inv = inv
-		pers_inv = get_char_inv(pers, kinds=0)
+		try:
 
-		inv = pers.GetInventory()
+			received_inv = inv
+			pers_inv = get_char_inv(pers, kinds=0)
 
-		for slot in ['l', 'r', 'lb', 'rb']:
-			update_inv2(pers, inv, pers_inv, received_inv, slot)
+			inv = pers.GetInventory()
 
+			for slot in ['l', 'r', 'lb', 'rb']:
+				update_inv2(pers, inv, pers_inv, received_inv, slot)
+		except Exception:
+			print("Error, lol xd")
 
 
 		# Manage actions

@@ -72,16 +72,19 @@ class Server:
 
 		while True:
 			try:
-				data = eval(sock.recv(FULL_HEADER))
+				data = sock.recv(FULL_HEADER)
 			except socket.error:
 				logging.error(f"{str_addr} recv failed.")
 				break
+
+			try:
+				eval_data = eval(data)
 			except Exception:
-				logging.error("Error convirtiendo el dato recibido a diccionario.")
+				logging.error(f"Error convirtiendo el dato recibido a diccionario.\n{data}")
 				continue
 
 			# Handle the data received
-			self.process_data(str_addr, sock, data)
+			self.process_data(str_addr, sock, eval_data)
 
 		self.remove_client(str_addr, sock)
 
