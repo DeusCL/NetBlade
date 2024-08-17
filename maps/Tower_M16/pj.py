@@ -9,21 +9,29 @@ import CharStats
 import random
 import netfuncs
 
+net_state = netfuncs.get_net_state()
+
+kind = net_state['KIND']
+
 char = Bladex.CreateEntity("Player1", kind, 0, 0, 0, "Person")
 char.Data = Basic_Funcs.PlayerPerson(char)
 
-char.Level = 19
+char.Level = 18
 char.Life = CharStats.GetCharMaxLife(char.Kind, char.Level)
 
 armas = 1
 
 if armas:
-	if char.Kind == "Knight_N":
-		o = Bladex.CreateEntity(netfuncs.gen_rand_name("WeaponInvPrb_"), "BladeSword2", 0, 0, 0, "Weapon")
+	if char.Kind in ["Knight_N", "Ork"]:
+		o = Bladex.CreateEntity(netfuncs.gen_rand_name("WeaponInvPrb_"), "Cimitarra", 0, 0, 0, "Weapon")
 		ItemTypes.ItemDefaultFuncs(o)
 		Actions.TakeObject(char.Name, o.Name)
 
-		o = Bladex.CreateEntity(netfuncs.gen_rand_name("EscudoInvPrb_"), "Escudo2", 0, 0, 0, "Weapon")
+		o = Bladex.CreateEntity(netfuncs.gen_rand_name("WeaponInvPrb_"), "DoubleSword", 0, 0, 0, "Weapon")
+		ItemTypes.ItemDefaultFuncs(o)
+		Actions.TakeObject(char.Name, o.Name)
+
+		o = Bladex.CreateEntity(netfuncs.gen_rand_name("EscudoInvPrb_"), "Escudo5", 0, 0, 0, "Weapon")
 		ItemTypes.ItemDefaultFuncs(o)
 		Actions.TakeObject(char.Name, o.Name)
 
