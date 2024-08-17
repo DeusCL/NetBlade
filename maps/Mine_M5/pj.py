@@ -16,7 +16,7 @@ kind = net_state['KIND']
 char = Bladex.CreateEntity("Player1", kind, 0, 0, 0, "Person")
 char.Data = Basic_Funcs.PlayerPerson(char)
 
-char.Level = 5
+char.Level = 19
 char.Life = CharStats.GetCharMaxLife(char.Kind, char.Level)
 
 armas = 1
