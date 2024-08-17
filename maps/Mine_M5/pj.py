@@ -24,7 +24,7 @@ armas = 1
 
 if armas:
 	if char.Kind == "Knight_N":
-		o = Bladex.CreateEntity(netfuncs.gen_rand_name("WeaponInvPrb_"), "Espadaelfica", 0, 0, 0, "Weapon")
+		o = Bladex.CreateEntity(netfuncs.gen_rand_name("WeaponInvPrb_"), "BladeSword2", 0, 0, 0, "Weapon")
 		ItemTypes.ItemDefaultFuncs(o)
 		Actions.TakeObject(char.Name, o.Name)
 
